@@ -21,6 +21,8 @@ from typing import Any
 
 from bible_books import BOOK_BY_ID, BOOK_BY_NUMBER, BOOKS, BookInfo
 
+ACQUISITION_DIR = Path(__file__).resolve().parent
+
 DEFAULT_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -230,7 +232,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument(
         "-o",
         "--output-dir",
-        help="Output directory (default: niv_output or nkjv_output)",
+        help="Output directory (default: acquisition/niv_output or acquisition/nkjv_output)",
     )
     parser.add_argument(
         "--format",
@@ -254,7 +256,9 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv or sys.argv[1:])
     config = TRANSLATIONS[args.translation]
-    output_dir = Path(args.output_dir or f"{config['output_prefix']}_output")
+    output_dir = Path(
+        args.output_dir or ACQUISITION_DIR / f"{config['output_prefix']}_output"
+    )
     source_url = f"https://bolls.life/static/translations/{config['slug']}.json"
     cache_file = Path(args.cache_file or output_dir / f".{config['slug'].lower()}_source.json")
 

@@ -2,7 +2,7 @@
 set -euo pipefail
 
 REPO_NAME="${1:-bibles}"
-ROOT_DIR="$(cd "$(dirname "${0}")" && pwd)"
+ROOT_DIR="$(cd "$(dirname "${0}")/.." && pwd)"
 
 if [ -z "${GH_TOKEN:-}" ]; then
   echo "Error: GH_TOKEN is not set." >&2

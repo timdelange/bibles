@@ -1,35 +1,42 @@
-# Afrikaans 1983/1992 Bible (AFR83)
+# bibles
 
-Scraped text of the Afrikaans 1983/1992 Bible translation from [BibleSA](https://www.biblesa.co.za/af/bybel/AFR83), plus the scraper used to extract it.
+Bible translations in structured JSON and plain text, plus tools to acquire them and (eventually) a web app to browse them.
 
-## Contents
+**Repository:** https://github.com/timdelange/bibles
 
-- `scrape_afr83_bible.py` — downloads the translation book by book and chapter by chapter
-- `afr83_output/afr83_bible.json` — complete Bible in structured JSON
-- `afr83_output/afr83_bible.txt` — complete Bible in plain text
-- `afr83_output/json/` — per-book and per-chapter JSON files
-- `afr83_output/text/` — per-book and per-chapter plain-text files
+## Layout
 
-## Scraper usage
-
-Afrikaans (BibleSA, chapter-by-chapter):
-
-```bash
-python3 scrape_afr83_bible.py
-python3 scrape_afr83_bible.py --book REV
-python3 scrape_afr83_bible.py --list-books
-python3 scrape_afr83_bible.py --resume
+```
+bibles/
+├── acquisition/     # Scrapers and scraped Bible data
+│   ├── afr83_output/
+│   ├── niv_output/
+│   ├── nkjv_output/
+│   └── AGENTS.md      # Instructions for coding agents
+└── webapp/            # Web application (in progress)
 ```
 
-NIV and NKJV (bolls.life bulk JSON):
+## Translations
+
+| Code | Translation | Source | Chapters |
+|---|---|---|---|
+| AFR83 | Afrikaans 1983/1992 | BibleSA | 1,189 |
+| NIV | New International Version | bolls.life | 1,189 |
+| NKJV | New King James Version | bolls.life | 1,189 |
+
+## Quick start
 
 ```bash
-python3 scrape_niv_bible.py
-python3 scrape_nkjv_bible.py
-python3 scrape_bolls_bible.py NIV --book GEN
-python3 scrape_bolls_bible.py NKJV -o nkjv_output
+# Refresh Afrikaans (chapter-by-chapter scrape)
+python3 acquisition/scrape_afr83_bible.py --resume
+
+# Refresh NIV / NKJV (bulk download)
+python3 acquisition/scrape_niv_bible.py
+python3 acquisition/scrape_nkjv_bible.py
 ```
+
+See [acquisition/README.md](acquisition/README.md) for full scraper documentation and [acquisition/AGENTS.md](acquisition/AGENTS.md) for agent-oriented instructions.
 
 ## Copyright
 
-The biblical text is © Bybelgenootskap van Suid-Afrika 1983, 1992. Use with permission. All rights reserved.
+Biblical text is copyrighted by the respective publishers. See [acquisition/README.md](acquisition/README.md) for per-translation notices.

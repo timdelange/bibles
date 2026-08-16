@@ -19,6 +19,8 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
 
+ACQUISITION_DIR = Path(__file__).resolve().parent
+
 BASE_URL = "https://www.biblesa.co.za/af/bybel/AFR83"
 BIBLE_ID = "dfc6da1000025af7-01"
 STATE_PATTERN = re.compile(
@@ -229,8 +231,8 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument(
         "-o",
         "--output-dir",
-        default="afr83_output",
-        help="Directory for scraped output (default: afr83_output)",
+        default=str(ACQUISITION_DIR / "afr83_output"),
+        help="Directory for scraped output (default: acquisition/afr83_output)",
     )
     parser.add_argument(
         "--format",

@@ -1,8 +1,10 @@
-afr83_scrape.log
-niv_scrape.log
-nkjv_scrape.log
+acquisition/*_scrape.log
+acquisition/__pycache__/
 __pycache__/
 *.pyc
 .DS_Store
-*_output/.niv_source.json
-*_output/.nkjv_source.json
+acquisition/*_output/.*_source.json
+webapp/node_modules/
+webapp/dist/
+webapp/.env
+webapp/.env.*
