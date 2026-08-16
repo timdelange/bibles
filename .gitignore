@@ -1,4 +1,8 @@
 afr83_scrape.log
+niv_scrape.log
+nkjv_scrape.log
 __pycache__/
 *.pyc
 .DS_Store
+*_output/.niv_source.json
+*_output/.nkjv_source.json

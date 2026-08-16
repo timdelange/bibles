@@ -1,0 +1,29 @@
+{
+  "id": "PSA.15",
+  "number": 15,
+  "headings": [
+    "Psalm 15"
+  ],
+  "verses": [
+    {
+      "number": 1,
+      "text": "A psalm of David.Lord, who may dwell in your sanctuary?Who may live on your holy hill?"
+    },
+    {
+      "number": 2,
+      "text": "He whose walk is blameless and who does what is righteous,who speaks the truth from his heart"
+    },
+    {
+      "number": 3,
+      "text": "and has no slander on his tongue, who does his neighbor no wrongand casts no slur on his fellowman,"
+    },
+    {
+      "number": 4,
+      "text": "who despises a vile man but honors those who fear the Lord,who keeps his oatheven when it hurts,"
+    },
+    {
+      "number": 5,
+      "text": "who lends his money without usury and does not accept a bribe against the innocent.He who does these thingswill never be shaken."
+    }
+  ]
+}

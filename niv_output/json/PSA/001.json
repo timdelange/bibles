@@ -1,0 +1,33 @@
+{
+  "id": "PSA.1",
+  "number": 1,
+  "headings": [
+    "BOOK I"
+  ],
+  "verses": [
+    {
+      "number": 1,
+      "text": "Psalms 1–41Psalm 1Blessed is the manwho does not walk in the counsel of the wickedor stand in the way of sinnersor sit in the seat of mockers."
+    },
+    {
+      "number": 2,
+      "text": "But his delight is in the law of the Lord, and on his law he meditates day and night."
+    },
+    {
+      "number": 3,
+      "text": "He is like a tree planted by streams of water, which yields its fruit in seasonand whose leaf does not wither.Whatever he does prospers."
+    },
+    {
+      "number": 4,
+      "text": "Not so the wicked! They are like chaffthat the wind blows away."
+    },
+    {
+      "number": 5,
+      "text": "Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous."
+    },
+    {
+      "number": 6,
+      "text": "For the Lord watches over the way of the righteous, but the way of the wicked will perish."
+    }
+  ]
+}

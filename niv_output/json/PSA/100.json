@@ -1,0 +1,29 @@
+{
+  "id": "PSA.100",
+  "number": 100,
+  "headings": [
+    "Psalm 100"
+  ],
+  "verses": [
+    {
+      "number": 1,
+      "text": "A psalm. For giving thanks.Shout for joy to the Lord, all the earth."
+    },
+    {
+      "number": 2,
+      "text": "Worship the Lord with gladness; come before him with joyful songs."
+    },
+    {
+      "number": 3,
+      "text": "Know that the Lord is God. It is he who made us, and we are his;we are his people, the sheep of his pasture."
+    },
+    {
+      "number": 4,
+      "text": "Enter his gates with thanksgiving and his courts with praise;give thanks to him and praise his name."
+    },
+    {
+      "number": 5,
+      "text": "For the Lord is good and his love endures forever; his faithfulness continues through all generations."
+    }
+  ]
+}

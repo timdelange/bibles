@@ -1,0 +1,545 @@
+{
+  "id": "SNG",
+  "name": "Song of Songs",
+  "abbreviation": "Song",
+  "chapters": [
+    {
+      "id": "SNG.1",
+      "number": 1,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Solomon’s Song of Songs."
+        },
+        {
+          "number": 2,
+          "text": "Beloved Let him kiss me with the kisses of his mouth—for your love is more delightful than wine."
+        },
+        {
+          "number": 3,
+          "text": "Pleasing is the fragrance of your perfumes; your name is like perfume poured out.No wonder the maidens love you!"
+        },
+        {
+          "number": 4,
+          "text": "Take me away with you—let us hurry! Let the king bring me into his chambers.FriendsWe rejoice and delight in you;we will praise your love more than wine.BelovedHow right they are to adore you!"
+        },
+        {
+          "number": 5,
+          "text": "Dark am I, yet lovely, O daughters of Jerusalem,dark like the tents of Kedar,like the tent curtains of Solomon."
+        },
+        {
+          "number": 6,
+          "text": "Do not stare at me because I am dark, because I am darkened by the sun.My mother’s sons were angry with meand made me take care of the vineyards;my own vineyard I have neglected."
+        },
+        {
+          "number": 7,
+          "text": "Tell me, you whom I love, where you graze your flock and where you rest your sheep at midday.Why should I be like a veiled womanbeside the flocks of your friends?"
+        },
+        {
+          "number": 8,
+          "text": "Friends If you do not know, most beautiful of women,follow the tracks of the sheepand graze your young goatsby the tents of the shepherds."
+        },
+        {
+          "number": 9,
+          "text": "Lover I liken you, my darling, to a mareharnessed to one of the chariots of Pharaoh."
+        },
+        {
+          "number": 10,
+          "text": "Your cheeks are beautiful with earrings, your neck with strings of jewels."
+        },
+        {
+          "number": 11,
+          "text": "We will make you earrings of gold, studded with silver."
+        },
+        {
+          "number": 12,
+          "text": "Beloved While the king was at his table,my perfume spread its fragrance."
+        },
+        {
+          "number": 13,
+          "text": "My lover is to me a sachet of myrrh resting between my breasts."
+        },
+        {
+          "number": 14,
+          "text": "My lover is to me a cluster of henna blossoms from the vineyards of En Gedi."
+        },
+        {
+          "number": 15,
+          "text": "Lover How beautiful you are, my darling!Oh, how beautiful!Your eyes are doves."
+        },
+        {
+          "number": 16,
+          "text": "Beloved How handsome you are, my lover!Oh, how charming!And our bed is verdant."
+        },
+        {
+          "number": 17,
+          "text": "Lover The beams of our house are cedars;our rafters are firs."
+        }
+      ]
+    },
+    {
+      "id": "SNG.2",
+      "number": 2,
+      "headings": [
+        "Beloved"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I am a rose of Sharon,a lily of the valleys."
+        },
+        {
+          "number": 2,
+          "text": "Lover Like a lily among thornsis my darling among the maidens."
+        },
+        {
+          "number": 3,
+          "text": "Beloved Like an apple tree among the trees of the forestis my lover among the young men.I delight to sit in his shade,and his fruit is sweet to my taste."
+        },
+        {
+          "number": 4,
+          "text": "He has taken me to the banquet hall, and his banner over me is love."
+        },
+        {
+          "number": 5,
+          "text": "Strengthen me with raisins, refresh me with apples,for I am faint with love."
+        },
+        {
+          "number": 6,
+          "text": "His left arm is under my head, and his right arm embraces me."
+        },
+        {
+          "number": 7,
+          "text": "Daughters of Jerusalem, I charge you by the gazelles and by the does of the field:Do not arouse or awaken loveuntil it so desires."
+        },
+        {
+          "number": 8,
+          "text": "Listen! My lover! Look! Here he comes,leaping across the mountains,bounding over the hills."
+        },
+        {
+          "number": 9,
+          "text": "My lover is like a gazelle or a young stag. Look! There he stands behind our wall,gazing through the windows,peering through the lattice."
+        },
+        {
+          "number": 10,
+          "text": "My lover spoke and said to me, “Arise, my darling,my beautiful one, and come with me."
+        },
+        {
+          "number": 11,
+          "text": "See! The winter is past; the rains are over and gone."
+        },
+        {
+          "number": 12,
+          "text": "Flowers appear on the earth; the season of singing has come,the cooing of dovesis heard in our land."
+        },
+        {
+          "number": 13,
+          "text": "The fig tree forms its early fruit; the blossoming vines spread their fragrance.Arise, come, my darling;my beautiful one, come with me.”"
+        },
+        {
+          "number": 14,
+          "text": "Lover My dove in the clefts of the rock,in the hiding places on the mountainside,show me your face,let me hear your voice;for your voice is sweet,and your face is lovely."
+        },
+        {
+          "number": 15,
+          "text": "Catch for us the foxes, the little foxesthat ruin the vineyards,our vineyards that are in bloom."
+        },
+        {
+          "number": 16,
+          "text": "Beloved My lover is mine and I am his;he browses among the lilies."
+        },
+        {
+          "number": 17,
+          "text": "Until the day breaks and the shadows flee,turn, my lover,and be like a gazelleor like a young stagon the rugged hills."
+        }
+      ]
+    },
+    {
+      "id": "SNG.3",
+      "number": 3,
+      "headings": [
+        "All night long on my bed"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I looked for the one my heart loves;I looked for him but did not find him."
+        },
+        {
+          "number": 2,
+          "text": "I will get up now and go about the city, through its streets and squares;I will search for the one my heart loves.So I looked for him but did not find him."
+        },
+        {
+          "number": 3,
+          "text": "The watchmen found me as they made their rounds in the city.“Have you seen the one my heart loves?”"
+        },
+        {
+          "number": 4,
+          "text": "Scarcely had I passed them when I found the one my heart loves.I held him and would not let him gotill I had brought him to my mother’s house,to the room of the one who conceived me."
+        },
+        {
+          "number": 5,
+          "text": "Daughters of Jerusalem, I charge you by the gazelles and by the does of the field:Do not arouse or awaken loveuntil it so desires."
+        },
+        {
+          "number": 6,
+          "text": "Who is this coming up from the desert like a column of smoke,perfumed with myrrh and incensemade from all the spices of the merchant?"
+        },
+        {
+          "number": 7,
+          "text": "Look! It is Solomon’s carriage, escorted by sixty warriors,the noblest of Israel,"
+        },
+        {
+          "number": 8,
+          "text": "all of them wearing the sword, all experienced in battle,each with his sword at his side,prepared for the terrors of the night."
+        },
+        {
+          "number": 9,
+          "text": "King Solomon made for himself the carriage; he made it of wood from Lebanon."
+        },
+        {
+          "number": 10,
+          "text": "Its posts he made of silver, its base of gold.Its seat was upholstered with purple,its interior lovingly inlaidby the daughters of Jerusalem."
+        },
+        {
+          "number": 11,
+          "text": "Come out, you daughters of Zion, and look at King Solomon wearing the crown,the crown with which his mother crowned himon the day of his wedding,the day his heart rejoiced."
+        }
+      ]
+    },
+    {
+      "id": "SNG.4",
+      "number": 4,
+      "headings": [
+        "Lover"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "How beautiful you are, my darling!Oh, how beautiful!Your eyes behind your veil are doves.Your hair is like a flock of goatsdescending from Mount Gilead."
+        },
+        {
+          "number": 2,
+          "text": "Your teeth are like a flock of sheep just shorn, coming up from the washing.Each has its twin;not one of them is alone."
+        },
+        {
+          "number": 3,
+          "text": "Your lips are like a scarlet ribbon; your mouth is lovely.Your temples behind your veilare like the halves of a pomegranate."
+        },
+        {
+          "number": 4,
+          "text": "Your neck is like the tower of David, built with elegance;on it hang a thousand shields,all of them shields of warriors."
+        },
+        {
+          "number": 5,
+          "text": "Your two breasts are like two fawns, like twin fawns of a gazellethat browse among the lilies."
+        },
+        {
+          "number": 6,
+          "text": "Until the day breaks and the shadows flee,I will go to the mountain of myrrhand to the hill of incense."
+        },
+        {
+          "number": 7,
+          "text": "All beautiful you are, my darling; there is no flaw in you."
+        },
+        {
+          "number": 8,
+          "text": "Come with me from Lebanon, my bride, come with me from Lebanon.Descend from the crest of Amana,from the top of Senir, the summit of Hermon,from the lions’ densand the mountain haunts of the leopards."
+        },
+        {
+          "number": 9,
+          "text": "You have stolen my heart, my sister, my bride; you have stolen my heartwith one glance of your eyes,with one jewel of your necklace."
+        },
+        {
+          "number": 10,
+          "text": "How delightful is your love, my sister, my bride! How much more pleasing is your love than wine,and the fragrance of your perfume than any spice!"
+        },
+        {
+          "number": 11,
+          "text": "Your lips drop sweetness as the honeycomb, my bride; milk and honey are under your tongue.The fragrance of your garments is like that of Lebanon."
+        },
+        {
+          "number": 12,
+          "text": "You are a garden locked up, my sister, my bride; you are a spring enclosed, a sealed fountain."
+        },
+        {
+          "number": 13,
+          "text": "Your plants are an orchard of pomegranates with choice fruits,with henna and nard,"
+        },
+        {
+          "number": 14,
+          "text": "nard and saffron, calamus and cinnamon,with every kind of incense tree,with myrrh and aloesand all the finest spices."
+        },
+        {
+          "number": 15,
+          "text": "You are a garden fountain, a well of flowing waterstreaming down from Lebanon."
+        },
+        {
+          "number": 16,
+          "text": "Beloved Awake, north wind,and come, south wind!Blow on my garden,that its fragrance may spread abroad.Let my lover come into his gardenand taste its choice fruits."
+        }
+      ]
+    },
+    {
+      "id": "SNG.5",
+      "number": 5,
+      "headings": [
+        "Lover"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "I have come into my garden, my sister, my bride;I have gathered my myrrh with my spice.I have eaten my honeycomb and my honey;I have drunk my wine and my milk.FriendsEat, O friends, and drink;drink your fill, O lovers."
+        },
+        {
+          "number": 2,
+          "text": "Beloved I slept but my heart was awake.Listen! My lover is knocking:“Open to me, my sister, my darling,my dove, my flawless one.My head is drenched with dew,my hair with the dampness of the night.”"
+        },
+        {
+          "number": 3,
+          "text": "I have taken off my robe— must I put it on again?I have washed my feet—must I soil them again?"
+        },
+        {
+          "number": 4,
+          "text": "My lover thrust his hand through the latch-opening; my heart began to pound for him."
+        },
+        {
+          "number": 5,
+          "text": "I arose to open for my lover, and my hands dripped with myrrh,my fingers with flowing myrrh,on the handles of the lock."
+        },
+        {
+          "number": 6,
+          "text": "I opened for my lover, but my lover had left; he was gone.My heart sank at his departure.I looked for him but did not find him.I called him but he did not answer."
+        },
+        {
+          "number": 7,
+          "text": "The watchmen found me as they made their rounds in the city.They beat me, they bruised me;they took away my cloak,those watchmen of the walls!"
+        },
+        {
+          "number": 8,
+          "text": "O daughters of Jerusalem, I charge you— if you find my lover,what will you tell him?Tell him I am faint with love."
+        },
+        {
+          "number": 9,
+          "text": "Friends How is your beloved better than others,most beautiful of women?How is your beloved better than others,that you charge us so?"
+        },
+        {
+          "number": 10,
+          "text": "Beloved My lover is radiant and ruddy,outstanding among ten thousand."
+        },
+        {
+          "number": 11,
+          "text": "His head is purest gold; his hair is wavyand black as a raven."
+        },
+        {
+          "number": 12,
+          "text": "His eyes are like doves by the water streams,washed in milk,mounted like jewels."
+        },
+        {
+          "number": 13,
+          "text": "His cheeks are like beds of spice yielding perfume.His lips are like liliesdripping with myrrh."
+        },
+        {
+          "number": 14,
+          "text": "His arms are rods of gold set with chrysolite.His body is like polished ivorydecorated with sapphires."
+        },
+        {
+          "number": 15,
+          "text": "His legs are pillars of marble set on bases of pure gold.His appearance is like Lebanon,choice as its cedars."
+        },
+        {
+          "number": 16,
+          "text": "His mouth is sweetness itself; he is altogether lovely.This is my lover, this my friend,O daughters of Jerusalem."
+        }
+      ]
+    },
+    {
+      "id": "SNG.6",
+      "number": 6,
+      "headings": [
+        "Friends"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Where has your lover gone,most beautiful of women?Which way did your lover turn,that we may look for him with you?"
+        },
+        {
+          "number": 2,
+          "text": "Beloved My lover has gone down to his garden,to the beds of spices,to browse in the gardensand to gather lilies."
+        },
+        {
+          "number": 3,
+          "text": "I am my lover’s and my lover is mine; he browses among the lilies."
+        },
+        {
+          "number": 4,
+          "text": "Lover You are beautiful, my darling, as Tirzah,lovely as Jerusalem,majestic as troops with banners."
+        },
+        {
+          "number": 5,
+          "text": "Turn your eyes from me; they overwhelm me.Your hair is like a flock of goatsdescending from Gilead."
+        },
+        {
+          "number": 6,
+          "text": "Your teeth are like a flock of sheep coming up from the washing.Each has its twin,not one of them is alone."
+        },
+        {
+          "number": 7,
+          "text": "Your temples behind your veil are like the halves of a pomegranate."
+        },
+        {
+          "number": 8,
+          "text": "Sixty queens there may be, and eighty concubines,and virgins beyond number;"
+        },
+        {
+          "number": 9,
+          "text": "but my dove, my perfect one, is unique, the only daughter of her mother,the favorite of the one who bore her.The maidens saw her and called her blessed;the queens and concubines praised her."
+        },
+        {
+          "number": 10,
+          "text": "Friends Who is this that appears like the dawn,fair as the moon, bright as the sun,majestic as the stars in procession?"
+        },
+        {
+          "number": 11,
+          "text": "Lover I went down to the grove of nut treesto look at the new growth in the valley,to see if the vines had buddedor the pomegranates were in bloom."
+        },
+        {
+          "number": 12,
+          "text": "Before I realized it, my desire set me among the royal chariots of my people."
+        },
+        {
+          "number": 13,
+          "text": "Friends Come back, come back, O Shulammite;come back, come back, that we may gaze on you!LoverWhy would you gaze on the Shulammiteas on the dance of Mahanaim?"
+        }
+      ]
+    },
+    {
+      "id": "SNG.7",
+      "number": 7,
+      "headings": [
+        "How beautiful your sandaled feet,"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "O prince’s daughter!Your graceful legs are like jewels,the work of a craftsman’s hands."
+        },
+        {
+          "number": 2,
+          "text": "Your navel is a rounded goblet that never lacks blended wine.Your waist is a mound of wheatencircled by lilies."
+        },
+        {
+          "number": 3,
+          "text": "Your breasts are like two fawns, twins of a gazelle."
+        },
+        {
+          "number": 4,
+          "text": "Your neck is like an ivory tower. Your eyes are the pools of Heshbonby the gate of Bath Rabbim.Your nose is like the tower of Lebanonlooking toward Damascus."
+        },
+        {
+          "number": 5,
+          "text": "Your head crowns you like Mount Carmel. Your hair is like royal tapestry;the king is held captive by its tresses."
+        },
+        {
+          "number": 6,
+          "text": "How beautiful you are and how pleasing, O love, with your delights!"
+        },
+        {
+          "number": 7,
+          "text": "Your stature is like that of the palm, and your breasts like clusters of fruit."
+        },
+        {
+          "number": 8,
+          "text": "I said, “I will climb the palm tree; I will take hold of its fruit.”May your breasts be like the clusters of the vine,the fragrance of your breath like apples,"
+        },
+        {
+          "number": 9,
+          "text": "and your mouth like the best wine. BelovedMay the wine go straight to my lover,flowing gently over lips and teeth."
+        },
+        {
+          "number": 10,
+          "text": "I belong to my lover, and his desire is for me."
+        },
+        {
+          "number": 11,
+          "text": "Come, my lover, let us go to the countryside, let us spend the night in the villages."
+        },
+        {
+          "number": 12,
+          "text": "Let us go early to the vineyards to see if the vines have budded,if their blossoms have opened,and if the pomegranates are in bloom—there I will give you my love."
+        },
+        {
+          "number": 13,
+          "text": "The mandrakes send out their fragrance, and at our door is every delicacy,both new and old,that I have stored up for you, my lover."
+        }
+      ]
+    },
+    {
+      "id": "SNG.8",
+      "number": 8,
+      "headings": [
+        "If only you were to me like a brother,"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "who was nursed at my mother’s breasts!Then, if I found you outside,I would kiss you,and no one would despise me."
+        },
+        {
+          "number": 2,
+          "text": "I would lead you and bring you to my mother’s house—she who has taught me.I would give you spiced wine to drink,the nectar of my pomegranates."
+        },
+        {
+          "number": 3,
+          "text": "His left arm is under my head and his right arm embraces me."
+        },
+        {
+          "number": 4,
+          "text": "Daughters of Jerusalem, I charge you: Do not arouse or awaken loveuntil it so desires."
+        },
+        {
+          "number": 5,
+          "text": "Friends Who is this coming up from the desertleaning on her lover?BelovedUnder the apple tree I roused you;there your mother conceived you,there she who was in labor gave you birth."
+        },
+        {
+          "number": 6,
+          "text": "Place me like a seal over your heart, like a seal on your arm;for love is as strong as death,its jealousy unyielding as the grave.It burns like blazing fire,like a mighty flame."
+        },
+        {
+          "number": 7,
+          "text": "Many waters cannot quench love; rivers cannot wash it away.If one were to giveall the wealth of his house for love,it would be utterly scorned."
+        },
+        {
+          "number": 8,
+          "text": "Friends We have a young sister,and her breasts are not yet grown.What shall we do for our sisterfor the day she is spoken for?"
+        },
+        {
+          "number": 9,
+          "text": "If she is a wall, we will build towers of silver on her.If she is a door,we will enclose her with panels of cedar."
+        },
+        {
+          "number": 10,
+          "text": "Beloved I am a wall,and my breasts are like towers.Thus I have become in his eyeslike one bringing contentment."
+        },
+        {
+          "number": 11,
+          "text": "Solomon had a vineyard in Baal Hamon; he let out his vineyard to tenants.Each was to bring for its fruita thousand shekels of silver."
+        },
+        {
+          "number": 12,
+          "text": "But my own vineyard is mine to give; the thousand shekels are for you, O Solomon,and two hundred are for those who tend its fruit."
+        },
+        {
+          "number": 13,
+          "text": "Lover You who dwell in the gardenswith friends in attendance,let me hear your voice!"
+        },
+        {
+          "number": 14,
+          "text": "Beloved Come away, my lover,and be like a gazelleor like a young stagon the spice-laden mountains."
+        }
+      ]
+    }
+  ]
+}

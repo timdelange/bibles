@@ -1,0 +1,3884 @@
+{
+  "id": "PRO",
+  "name": "Proverbs",
+  "abbreviation": "Prov.",
+  "chapters": [
+    {
+      "id": "PRO.1",
+      "number": 1,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The proverbs of Solomon the son of David, king of Israel:"
+        },
+        {
+          "number": 2,
+          "text": "To know wisdom and instruction, To perceive the words of understanding,"
+        },
+        {
+          "number": 3,
+          "text": "To receive the instruction of wisdom, Justice, judgment, and equity;"
+        },
+        {
+          "number": 4,
+          "text": "To give prudence to the simple, To the young man knowledge and discretion—"
+        },
+        {
+          "number": 5,
+          "text": "A wise man will hear and increase learning, And a man of understanding will attain wise counsel,"
+        },
+        {
+          "number": 6,
+          "text": "To understand a proverb and an enigma, The words of the wise and their riddles."
+        },
+        {
+          "number": 7,
+          "text": "The fear of the LORD is the beginning of knowledge, But fools despise wisdom and instruction."
+        },
+        {
+          "number": 8,
+          "text": "My son, hear the instruction of your father, And do not forsake the law of your mother;"
+        },
+        {
+          "number": 9,
+          "text": "For they will be a graceful ornament on your head, And chains about your neck."
+        },
+        {
+          "number": 10,
+          "text": "My son, if sinners entice you, Do not consent."
+        },
+        {
+          "number": 11,
+          "text": "If they say, “Come with us, Let us lie in wait to shed blood; Let us lurk secretly for the innocent without cause;"
+        },
+        {
+          "number": 12,
+          "text": "Let us swallow them alive like Sheol, And whole, like those who go down to the Pit;"
+        },
+        {
+          "number": 13,
+          "text": "We shall find all kinds of precious possessions, We shall fill our houses with spoil;"
+        },
+        {
+          "number": 14,
+          "text": "Cast in your lot among us, Let us all have one purse”—"
+        },
+        {
+          "number": 15,
+          "text": "My son, do not walk in the way with them, Keep your foot from their path;"
+        },
+        {
+          "number": 16,
+          "text": "For their feet run to evil, And they make haste to shed blood."
+        },
+        {
+          "number": 17,
+          "text": "Surely, in vain the net is spread In the sight of any bird;"
+        },
+        {
+          "number": 18,
+          "text": "But they lie in wait for their own blood, They lurk secretly for their own lives."
+        },
+        {
+          "number": 19,
+          "text": "So are the ways of everyone who is greedy for gain; It takes away the life of its owners."
+        },
+        {
+          "number": 20,
+          "text": "Wisdom calls aloud outside; She raises her voice in the open squares."
+        },
+        {
+          "number": 21,
+          "text": "She cries out in the chief concourses, At the openings of the gates in the city She speaks her words:"
+        },
+        {
+          "number": 22,
+          "text": "“How long, you simple ones, will you love simplicity? For scorners delight in their scorning, And fools hate knowledge."
+        },
+        {
+          "number": 23,
+          "text": "Turn at my rebuke; Surely I will pour out my spirit on you; I will make my words known to you."
+        },
+        {
+          "number": 24,
+          "text": "Because I have called and you refused, I have stretched out my hand and no one regarded,"
+        },
+        {
+          "number": 25,
+          "text": "Because you disdained all my counsel, And would have none of my rebuke,"
+        },
+        {
+          "number": 26,
+          "text": "I also will laugh at your calamity; I will mock when your terror comes,"
+        },
+        {
+          "number": 27,
+          "text": "When your terror comes like a storm, And your destruction comes like a whirlwind, When distress and anguish come upon you."
+        },
+        {
+          "number": 28,
+          "text": "“Then they will call on me, but I will not answer; They will seek me diligently, but they will not find me."
+        },
+        {
+          "number": 29,
+          "text": "Because they hated knowledge And did not choose the fear of the LORD,"
+        },
+        {
+          "number": 30,
+          "text": "They would have none of my counsel And despised my every rebuke."
+        },
+        {
+          "number": 31,
+          "text": "Therefore they shall eat the fruit of their own way, And be filled to the full with their own fancies."
+        },
+        {
+          "number": 32,
+          "text": "For the turning away of the simple will slay them, And the complacency of fools will destroy them;"
+        },
+        {
+          "number": 33,
+          "text": "But whoever listens to me will dwell safely, And will be secure, without fear of evil.”"
+        }
+      ]
+    },
+    {
+      "id": "PRO.2",
+      "number": 2,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, if you receive my words, And treasure my commands within you,"
+        },
+        {
+          "number": 2,
+          "text": "So that you incline your ear to wisdom, And apply your heart to understanding;"
+        },
+        {
+          "number": 3,
+          "text": "Yes, if you cry out for discernment, And lift up your voice for understanding,"
+        },
+        {
+          "number": 4,
+          "text": "If you seek her as silver, And search for her as for hidden treasures;"
+        },
+        {
+          "number": 5,
+          "text": "Then you will understand the fear of the LORD, And find the knowledge of God."
+        },
+        {
+          "number": 6,
+          "text": "For the LORD gives wisdom; From His mouth come knowledge and understanding;"
+        },
+        {
+          "number": 7,
+          "text": "He stores up sound wisdom for the upright; He is a shield to those who walk uprightly;"
+        },
+        {
+          "number": 8,
+          "text": "He guards the paths of justice, And preserves the way of His saints."
+        },
+        {
+          "number": 9,
+          "text": "Then you will understand righteousness and justice, Equity and every good path."
+        },
+        {
+          "number": 10,
+          "text": "When wisdom enters your heart, And knowledge is pleasant to your soul,"
+        },
+        {
+          "number": 11,
+          "text": "Discretion will preserve you; Understanding will keep you,"
+        },
+        {
+          "number": 12,
+          "text": "To deliver you from the way of evil, From the man who speaks perverse things,"
+        },
+        {
+          "number": 13,
+          "text": "From those who leave the paths of uprightness To walk in the ways of darkness;"
+        },
+        {
+          "number": 14,
+          "text": "Who rejoice in doing evil, And delight in the perversity of the wicked;"
+        },
+        {
+          "number": 15,
+          "text": "Whose ways are crooked, And who are devious in their paths;"
+        },
+        {
+          "number": 16,
+          "text": "To deliver you from the immoral woman, From the seductress who flatters with her words,"
+        },
+        {
+          "number": 17,
+          "text": "Who forsakes the companion of her youth, And forgets the covenant of her God."
+        },
+        {
+          "number": 18,
+          "text": "For her house leads down to death, And her paths to the dead;"
+        },
+        {
+          "number": 19,
+          "text": "None who go to her return, Nor do they regain the paths of life—"
+        },
+        {
+          "number": 20,
+          "text": "So you may walk in the way of goodness, And keep to the paths of righteousness."
+        },
+        {
+          "number": 21,
+          "text": "For the upright will dwell in the land, And the blameless will remain in it;"
+        },
+        {
+          "number": 22,
+          "text": "But the wicked will be cut off from the earth, And the unfaithful will be uprooted from it."
+        }
+      ]
+    },
+    {
+      "id": "PRO.3",
+      "number": 3,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, do not forget my law, But let your heart keep my commands;"
+        },
+        {
+          "number": 2,
+          "text": "For length of days and long life And peace they will add to you."
+        },
+        {
+          "number": 3,
+          "text": "Let not mercy and truth forsake you; Bind them around your neck, Write them on the tablet of your heart,"
+        },
+        {
+          "number": 4,
+          "text": "And so find favor and high esteem In the sight of God and man."
+        },
+        {
+          "number": 5,
+          "text": "Trust in the LORD with all your heart, And lean not on your own understanding;"
+        },
+        {
+          "number": 6,
+          "text": "In all your ways acknowledge Him, And He shall direct your paths."
+        },
+        {
+          "number": 7,
+          "text": "Do not be wise in your own eyes; Fear the LORD and depart from evil."
+        },
+        {
+          "number": 8,
+          "text": "It will be health to your flesh, And strength to your bones."
+        },
+        {
+          "number": 9,
+          "text": "Honor the LORD with your possessions, And with the firstfruits of all your increase;"
+        },
+        {
+          "number": 10,
+          "text": "So your barns will be filled with plenty, And your vats will overflow with new wine."
+        },
+        {
+          "number": 11,
+          "text": "My son, do not despise the chastening of the LORD, Nor detest His correction;"
+        },
+        {
+          "number": 12,
+          "text": "For whom the LORD loves He corrects, Just as a father the son in whom he delights."
+        },
+        {
+          "number": 13,
+          "text": "Happy is the man who finds wisdom, And the man who gains understanding;"
+        },
+        {
+          "number": 14,
+          "text": "For her proceeds are better than the profits of silver, And her gain than fine gold."
+        },
+        {
+          "number": 15,
+          "text": "She is more precious than rubies, And all the things you may desire cannot compare with her."
+        },
+        {
+          "number": 16,
+          "text": "Length of days is in her right hand, In her left hand riches and honor."
+        },
+        {
+          "number": 17,
+          "text": "Her ways are ways of pleasantness, And all her paths are peace."
+        },
+        {
+          "number": 18,
+          "text": "She is a tree of life to those who take hold of her, And happy are all who retain her."
+        },
+        {
+          "number": 19,
+          "text": "The LORD by wisdom founded the earth; By understanding He established the heavens;"
+        },
+        {
+          "number": 20,
+          "text": "By His knowledge the depths were broken up, And clouds drop down the dew."
+        },
+        {
+          "number": 21,
+          "text": "My son, let them not depart from your eyes— Keep sound wisdom and discretion;"
+        },
+        {
+          "number": 22,
+          "text": "So they will be life to your soul And grace to your neck."
+        },
+        {
+          "number": 23,
+          "text": "Then you will walk safely in your way, And your foot will not stumble."
+        },
+        {
+          "number": 24,
+          "text": "When you lie down, you will not be afraid; Yes, you will lie down and your sleep will be sweet."
+        },
+        {
+          "number": 25,
+          "text": "Do not be afraid of sudden terror, Nor of trouble from the wicked when it comes;"
+        },
+        {
+          "number": 26,
+          "text": "For the LORD will be your confidence, And will keep your foot from being caught."
+        },
+        {
+          "number": 27,
+          "text": "Do not withhold good from those to whom it is due, When it is in the power of your hand to do so."
+        },
+        {
+          "number": 28,
+          "text": "Do not say to your neighbor, “Go, and come back, And tomorrow I will give it,” When you have it with you."
+        },
+        {
+          "number": 29,
+          "text": "Do not devise evil against your neighbor, For he dwells by you for safety’s sake."
+        },
+        {
+          "number": 30,
+          "text": "Do not strive with a man without cause, If he has done you no harm."
+        },
+        {
+          "number": 31,
+          "text": "Do not envy the oppressor, And choose none of his ways;"
+        },
+        {
+          "number": 32,
+          "text": "For the perverse person is an abomination to the LORD, But His secret counsel is with the upright."
+        },
+        {
+          "number": 33,
+          "text": "The curse of the LORD is on the house of the wicked, But He blesses the home of the just."
+        },
+        {
+          "number": 34,
+          "text": "Surely He scorns the scornful, But gives grace to the humble."
+        },
+        {
+          "number": 35,
+          "text": "The wise shall inherit glory, But shame shall be the legacy of fools."
+        }
+      ]
+    },
+    {
+      "id": "PRO.4",
+      "number": 4,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hear, my children, the instruction of a father, And give attention to know understanding;"
+        },
+        {
+          "number": 2,
+          "text": "For I give you good doctrine: Do not forsake my law."
+        },
+        {
+          "number": 3,
+          "text": "When I was my father’s son, Tender and the only one in the sight of my mother,"
+        },
+        {
+          "number": 4,
+          "text": "He also taught me, and said to me: “Let your heart retain my words; Keep my commands, and live."
+        },
+        {
+          "number": 5,
+          "text": "Get wisdom! Get understanding! Do not forget, nor turn away from the words of my mouth."
+        },
+        {
+          "number": 6,
+          "text": "Do not forsake her, and she will preserve you; Love her, and she will keep you."
+        },
+        {
+          "number": 7,
+          "text": "Wisdom is the principal thing; Therefore get wisdom. And in all your getting, get understanding."
+        },
+        {
+          "number": 8,
+          "text": "Exalt her, and she will promote you; She will bring you honor, when you embrace her."
+        },
+        {
+          "number": 9,
+          "text": "She will place on your head an ornament of grace; A crown of glory she will deliver to you.”"
+        },
+        {
+          "number": 10,
+          "text": "Hear, my son, and receive my sayings, And the years of your life will be many."
+        },
+        {
+          "number": 11,
+          "text": "I have taught you in the way of wisdom; I have led you in right paths."
+        },
+        {
+          "number": 12,
+          "text": "When you walk, your steps will not be hindered, And when you run, you will not stumble."
+        },
+        {
+          "number": 13,
+          "text": "Take firm hold of instruction, do not let go; Keep her, for she is your life."
+        },
+        {
+          "number": 14,
+          "text": "Do not enter the path of the wicked, And do not walk in the way of evil."
+        },
+        {
+          "number": 15,
+          "text": "Avoid it, do not travel on it; Turn away from it and pass on."
+        },
+        {
+          "number": 16,
+          "text": "For they do not sleep unless they have done evil; And their sleep is taken away unless they make someone fall."
+        },
+        {
+          "number": 17,
+          "text": "For they eat the bread of wickedness, And drink the wine of violence."
+        },
+        {
+          "number": 18,
+          "text": "But the path of the just is like the shining sun, That shines ever brighter unto the perfect day."
+        },
+        {
+          "number": 19,
+          "text": "The way of the wicked is like darkness; They do not know what makes them stumble."
+        },
+        {
+          "number": 20,
+          "text": "My son, give attention to my words; Incline your ear to my sayings."
+        },
+        {
+          "number": 21,
+          "text": "Do not let them depart from your eyes; Keep them in the midst of your heart;"
+        },
+        {
+          "number": 22,
+          "text": "For they are life to those who find them, And health to all their flesh."
+        },
+        {
+          "number": 23,
+          "text": "Keep your heart with all diligence, For out of it spring the issues of life."
+        },
+        {
+          "number": 24,
+          "text": "Put away from you a deceitful mouth, And put perverse lips far from you."
+        },
+        {
+          "number": 25,
+          "text": "Let your eyes look straight ahead, And your eyelids look right before you."
+        },
+        {
+          "number": 26,
+          "text": "Ponder the path of your feet, And let all your ways be established."
+        },
+        {
+          "number": 27,
+          "text": "Do not turn to the right or the left; Remove your foot from evil."
+        }
+      ]
+    },
+    {
+      "id": "PRO.5",
+      "number": 5,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, pay attention to my wisdom; Lend your ear to my understanding,"
+        },
+        {
+          "number": 2,
+          "text": "That you may preserve discretion, And your lips may keep knowledge."
+        },
+        {
+          "number": 3,
+          "text": "For the lips of an immoral woman drip honey, And her mouth is smoother than oil;"
+        },
+        {
+          "number": 4,
+          "text": "But in the end she is bitter as wormwood, Sharp as a two-edged sword."
+        },
+        {
+          "number": 5,
+          "text": "Her feet go down to death, Her steps lay hold of hell."
+        },
+        {
+          "number": 6,
+          "text": "Lest you ponder her path of life— Her ways are unstable; You do not know them."
+        },
+        {
+          "number": 7,
+          "text": "Therefore hear me now, my children, And do not depart from the words of my mouth."
+        },
+        {
+          "number": 8,
+          "text": "Remove your way far from her, And do not go near the door of her house,"
+        },
+        {
+          "number": 9,
+          "text": "Lest you give your honor to others, And your years to the cruel one;"
+        },
+        {
+          "number": 10,
+          "text": "Lest aliens be filled with your wealth, And your labors go to the house of a foreigner;"
+        },
+        {
+          "number": 11,
+          "text": "And you mourn at last, When your flesh and your body are consumed,"
+        },
+        {
+          "number": 12,
+          "text": "And say: “How I have hated instruction, And my heart despised correction!"
+        },
+        {
+          "number": 13,
+          "text": "I have not obeyed the voice of my teachers, Nor inclined my ear to those who instructed me!"
+        },
+        {
+          "number": 14,
+          "text": "I was on the verge of total ruin, In the midst of the assembly and congregation.”"
+        },
+        {
+          "number": 15,
+          "text": "Drink water from your own cistern, And running water from your own well."
+        },
+        {
+          "number": 16,
+          "text": "Should your fountains be dispersed abroad, Streams of water in the streets?"
+        },
+        {
+          "number": 17,
+          "text": "Let them be only your own, And not for strangers with you."
+        },
+        {
+          "number": 18,
+          "text": "Let your fountain be blessed, And rejoice with the wife of your youth."
+        },
+        {
+          "number": 19,
+          "text": "As a loving deer and a graceful doe, Let her breasts satisfy you at all times; And always be enraptured with her love."
+        },
+        {
+          "number": 20,
+          "text": "For why should you, my son, be enraptured by an immoral woman, And be embraced in the arms of a seductress?"
+        },
+        {
+          "number": 21,
+          "text": "For the ways of man are before the eyes of the LORD, And He ponders all his paths."
+        },
+        {
+          "number": 22,
+          "text": "His own iniquities entrap the wicked man, And he is caught in the cords of his sin."
+        },
+        {
+          "number": 23,
+          "text": "He shall die for lack of instruction, And in the greatness of his folly he shall go astray."
+        }
+      ]
+    },
+    {
+      "id": "PRO.6",
+      "number": 6,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, if you become surety for your friend, If you have shaken hands in pledge for a stranger,"
+        },
+        {
+          "number": 2,
+          "text": "You are snared by the words of your mouth; You are taken by the words of your mouth."
+        },
+        {
+          "number": 3,
+          "text": "So do this, my son, and deliver yourself; For you have come into the hand of your friend: Go and humble yourself; Plead with your friend."
+        },
+        {
+          "number": 4,
+          "text": "Give no sleep to your eyes, Nor slumber to your eyelids."
+        },
+        {
+          "number": 5,
+          "text": "Deliver yourself like a gazelle from the hand of the hunter, And like a bird from the hand of the fowler."
+        },
+        {
+          "number": 6,
+          "text": "Go to the ant, you sluggard! Consider her ways and be wise,"
+        },
+        {
+          "number": 7,
+          "text": "Which, having no captain, Overseer or ruler,"
+        },
+        {
+          "number": 8,
+          "text": "Provides her supplies in the summer, And gathers her food in the harvest."
+        },
+        {
+          "number": 9,
+          "text": "How long will you slumber, O sluggard? When will you rise from your sleep?"
+        },
+        {
+          "number": 10,
+          "text": "A little sleep, a little slumber, A little folding of the hands to sleep—"
+        },
+        {
+          "number": 11,
+          "text": "So shall your poverty come on you like a prowler, And your need like an armed man."
+        },
+        {
+          "number": 12,
+          "text": "A worthless person, a wicked man, Walks with a perverse mouth;"
+        },
+        {
+          "number": 13,
+          "text": "He winks with his eyes, He shuffles his feet, He points with his fingers;"
+        },
+        {
+          "number": 14,
+          "text": "Perversity is in his heart, He devises evil continually, He sows discord."
+        },
+        {
+          "number": 15,
+          "text": "Therefore his calamity shall come suddenly; Suddenly he shall be broken without remedy."
+        },
+        {
+          "number": 16,
+          "text": "These six things the LORD hates, Yes, seven are an abomination to Him:"
+        },
+        {
+          "number": 17,
+          "text": "A proud look, A lying tongue, Hands that shed innocent blood,"
+        },
+        {
+          "number": 18,
+          "text": "A heart that devises wicked plans, Feet that are swift in running to evil,"
+        },
+        {
+          "number": 19,
+          "text": "A false witness who speaks lies, And one who sows discord among brethren."
+        },
+        {
+          "number": 20,
+          "text": "My son, keep your father’s command, And do not forsake the law of your mother."
+        },
+        {
+          "number": 21,
+          "text": "Bind them continually upon your heart; Tie them around your neck."
+        },
+        {
+          "number": 22,
+          "text": "When you roam, they will lead you; When you sleep, they will keep you; And when you awake, they will speak with you."
+        },
+        {
+          "number": 23,
+          "text": "For the commandment is a lamp, And the law a light; Reproofs of instruction are the way of life,"
+        },
+        {
+          "number": 24,
+          "text": "To keep you from the evil woman, From the flattering tongue of a seductress."
+        },
+        {
+          "number": 25,
+          "text": "Do not lust after her beauty in your heart, Nor let her allure you with her eyelids."
+        },
+        {
+          "number": 26,
+          "text": "For by means of a harlot A man is reduced to a crust of bread; And an adulteress will prey upon his precious life."
+        },
+        {
+          "number": 27,
+          "text": "Can a man take fire to his bosom, And his clothes not be burned?"
+        },
+        {
+          "number": 28,
+          "text": "Can one walk on hot coals, And his feet not be seared?"
+        },
+        {
+          "number": 29,
+          "text": "So is he who goes in to his neighbor’s wife; Whoever touches her shall not be innocent."
+        },
+        {
+          "number": 30,
+          "text": "People do not despise a thief If he steals to satisfy himself when he is starving."
+        },
+        {
+          "number": 31,
+          "text": "Yet when he is found, he must restore sevenfold; He may have to give up all the substance of his house."
+        },
+        {
+          "number": 32,
+          "text": "Whoever commits adultery with a woman lacks understanding; He who does so destroys his own soul."
+        },
+        {
+          "number": 33,
+          "text": "Wounds and dishonor he will get, And his reproach will not be wiped away."
+        },
+        {
+          "number": 34,
+          "text": "For jealousy is a husband’s fury; Therefore he will not spare in the day of vengeance."
+        },
+        {
+          "number": 35,
+          "text": "He will accept no recompense, Nor will he be appeased though you give many gifts."
+        }
+      ]
+    },
+    {
+      "id": "PRO.7",
+      "number": 7,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My son, keep my words, And treasure my commands within you."
+        },
+        {
+          "number": 2,
+          "text": "Keep my commands and live, And my law as the apple of your eye."
+        },
+        {
+          "number": 3,
+          "text": "Bind them on your fingers; Write them on the tablet of your heart."
+        },
+        {
+          "number": 4,
+          "text": "Say to wisdom, “You are my sister,” And call understanding your nearest kin,"
+        },
+        {
+          "number": 5,
+          "text": "That they may keep you from the immoral woman, From the seductress who flatters with her words."
+        },
+        {
+          "number": 6,
+          "text": "For at the window of my house I looked through my lattice,"
+        },
+        {
+          "number": 7,
+          "text": "And saw among the simple, I perceived among the youths, A young man devoid of understanding,"
+        },
+        {
+          "number": 8,
+          "text": "Passing along the street near her corner; And he took the path to her house"
+        },
+        {
+          "number": 9,
+          "text": "In the twilight, in the evening, In the black and dark night."
+        },
+        {
+          "number": 10,
+          "text": "And there a woman met him, With the attire of a harlot, and a crafty heart."
+        },
+        {
+          "number": 11,
+          "text": "She was loud and rebellious, Her feet would not stay at home."
+        },
+        {
+          "number": 12,
+          "text": "At times she was outside, at times in the open square, Lurking at every corner."
+        },
+        {
+          "number": 13,
+          "text": "So she caught him and kissed him; With an impudent face she said to him:"
+        },
+        {
+          "number": 14,
+          "text": "“I have peace offerings with me; Today I have paid my vows."
+        },
+        {
+          "number": 15,
+          "text": "So I came out to meet you, Diligently to seek your face, And I have found you."
+        },
+        {
+          "number": 16,
+          "text": "I have spread my bed with tapestry, Colored coverings of Egyptian linen."
+        },
+        {
+          "number": 17,
+          "text": "I have perfumed my bed With myrrh, aloes, and cinnamon."
+        },
+        {
+          "number": 18,
+          "text": "Come, let us take our fill of love until morning; Let us delight ourselves with love."
+        },
+        {
+          "number": 19,
+          "text": "For my husband is not at home; He has gone on a long journey;"
+        },
+        {
+          "number": 20,
+          "text": "He has taken a bag of money with him, And will come home on the appointed day.”"
+        },
+        {
+          "number": 21,
+          "text": "With her enticing speech she caused him to yield, With her flattering lips she seduced him."
+        },
+        {
+          "number": 22,
+          "text": "Immediately he went after her, as an ox goes to the slaughter, Or as a fool to the correction of the stocks,"
+        },
+        {
+          "number": 23,
+          "text": "Till an arrow struck his liver. As a bird hastens to the snare, He did not know it would cost his life."
+        },
+        {
+          "number": 24,
+          "text": "Now therefore, listen to me, my children; Pay attention to the words of my mouth:"
+        },
+        {
+          "number": 25,
+          "text": "Do not let your heart turn aside to her ways, Do not stray into her paths;"
+        },
+        {
+          "number": 26,
+          "text": "For she has cast down many wounded, And all who were slain by her were strong men."
+        },
+        {
+          "number": 27,
+          "text": "Her house is the way to hell, Descending to the chambers of death."
+        }
+      ]
+    },
+    {
+      "id": "PRO.8",
+      "number": 8,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Does not wisdom cry out, And understanding lift up her voice?"
+        },
+        {
+          "number": 2,
+          "text": "She takes her stand on the top of the high hill, Beside the way, where the paths meet."
+        },
+        {
+          "number": 3,
+          "text": "She cries out by the gates, at the entry of the city, At the entrance of the doors:"
+        },
+        {
+          "number": 4,
+          "text": "“To you, O men, I call, And my voice is to the sons of men."
+        },
+        {
+          "number": 5,
+          "text": "O you simple ones, understand prudence, And you fools, be of an understanding heart."
+        },
+        {
+          "number": 6,
+          "text": "Listen, for I will speak of excellent things, And from the opening of my lips will come right things;"
+        },
+        {
+          "number": 7,
+          "text": "For my mouth will speak truth; Wickedness is an abomination to my lips."
+        },
+        {
+          "number": 8,
+          "text": "All the words of my mouth are with righteousness; Nothing crooked or perverse is in them."
+        },
+        {
+          "number": 9,
+          "text": "They are all plain to him who understands, And right to those who find knowledge."
+        },
+        {
+          "number": 10,
+          "text": "Receive my instruction, and not silver, And knowledge rather than choice gold;"
+        },
+        {
+          "number": 11,
+          "text": "For wisdom is better than rubies, And all the things one may desire cannot be compared with her."
+        },
+        {
+          "number": 12,
+          "text": "“I, wisdom, dwell with prudence, And find out knowledge and discretion."
+        },
+        {
+          "number": 13,
+          "text": "The fear of the LORD is to hate evil; Pride and arrogance and the evil way And the perverse mouth I hate."
+        },
+        {
+          "number": 14,
+          "text": "Counsel is mine, and sound wisdom; I am understanding, I have strength."
+        },
+        {
+          "number": 15,
+          "text": "By me kings reign, And rulers decree justice."
+        },
+        {
+          "number": 16,
+          "text": "By me princes rule, and nobles, All the judges of the earth."
+        },
+        {
+          "number": 17,
+          "text": "I love those who love me, And those who seek me diligently will find me."
+        },
+        {
+          "number": 18,
+          "text": "Riches and honor are with me, Enduring riches and righteousness."
+        },
+        {
+          "number": 19,
+          "text": "My fruit is better than gold, yes, than fine gold, And my revenue than choice silver."
+        },
+        {
+          "number": 20,
+          "text": "I traverse the way of righteousness, In the midst of the paths of justice,"
+        },
+        {
+          "number": 21,
+          "text": "That I may cause those who love me to inherit wealth, That I may fill their treasuries."
+        },
+        {
+          "number": 22,
+          "text": "“The LORD possessed me at the beginning of His way, Before His works of old."
+        },
+        {
+          "number": 23,
+          "text": "I have been established from everlasting, From the beginning, before there was ever an earth."
+        },
+        {
+          "number": 24,
+          "text": "When there were no depths I was brought forth, When there were no fountains abounding with water."
+        },
+        {
+          "number": 25,
+          "text": "Before the mountains were settled, Before the hills, I was brought forth;"
+        },
+        {
+          "number": 26,
+          "text": "While as yet He had not made the earth or the fields, Or the primal dust of the world."
+        },
+        {
+          "number": 27,
+          "text": "When He prepared the heavens, I was there, When He drew a circle on the face of the deep,"
+        },
+        {
+          "number": 28,
+          "text": "When He established the clouds above, When He strengthened the fountains of the deep,"
+        },
+        {
+          "number": 29,
+          "text": "When He assigned to the sea its limit, So that the waters would not transgress His command, When He marked out the foundations of the earth,"
+        },
+        {
+          "number": 30,
+          "text": "Then I was beside Him as a master craftsman; And I was daily His delight, Rejoicing always before Him,"
+        },
+        {
+          "number": 31,
+          "text": "Rejoicing in His inhabited world, And my delight was with the sons of men."
+        },
+        {
+          "number": 32,
+          "text": "“Now therefore, listen to me, my children, For blessed are those who keep my ways."
+        },
+        {
+          "number": 33,
+          "text": "Hear instruction and be wise, And do not disdain it."
+        },
+        {
+          "number": 34,
+          "text": "Blessed is the man who listens to me, Watching daily at my gates, Waiting at the posts of my doors."
+        },
+        {
+          "number": 35,
+          "text": "For whoever finds me finds life, And obtains favor from the LORD;"
+        },
+        {
+          "number": 36,
+          "text": "But he who sins against me wrongs his own soul; All those who hate me love death.”"
+        }
+      ]
+    },
+    {
+      "id": "PRO.9",
+      "number": 9,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Wisdom has built her house, She has hewn out her seven pillars;"
+        },
+        {
+          "number": 2,
+          "text": "She has slaughtered her meat, She has mixed her wine, She has also furnished her table."
+        },
+        {
+          "number": 3,
+          "text": "She has sent out her maidens, She cries out from the highest places of the city,"
+        },
+        {
+          "number": 4,
+          "text": "“Whoever is simple, let him turn in here!” As for him who lacks understanding, she says to him,"
+        },
+        {
+          "number": 5,
+          "text": "“Come, eat of my bread And drink of the wine I have mixed."
+        },
+        {
+          "number": 6,
+          "text": "Forsake foolishness and live, And go in the way of understanding."
+        },
+        {
+          "number": 7,
+          "text": "“He who corrects a scoffer gets shame for himself, And he who rebukes a wicked man only harms himself."
+        },
+        {
+          "number": 8,
+          "text": "Do not correct a scoffer, lest he hate you; Rebuke a wise man, and he will love you."
+        },
+        {
+          "number": 9,
+          "text": "Give instruction to a wise man, and he will be still wiser; Teach a just man, and he will increase in learning."
+        },
+        {
+          "number": 10,
+          "text": "“The fear of the LORD is the beginning of wisdom, And the knowledge of the Holy One is understanding."
+        },
+        {
+          "number": 11,
+          "text": "For by me your days will be multiplied, And years of life will be added to you."
+        },
+        {
+          "number": 12,
+          "text": "If you are wise, you are wise for yourself, And if you scoff, you will bear it alone.”"
+        },
+        {
+          "number": 13,
+          "text": "A foolish woman is clamorous; She is simple, and knows nothing."
+        },
+        {
+          "number": 14,
+          "text": "For she sits at the door of her house, On a seat by the highest places of the city,"
+        },
+        {
+          "number": 15,
+          "text": "To call to those who pass by, Who go straight on their way:"
+        },
+        {
+          "number": 16,
+          "text": "“Whoever is simple, let him turn in here”; And as for him who lacks understanding, she says to him,"
+        },
+        {
+          "number": 17,
+          "text": "“Stolen water is sweet, And bread eaten in secret is pleasant.”"
+        },
+        {
+          "number": 18,
+          "text": "But he does not know that the dead are there, That her guests are in the depths of hell."
+        }
+      ]
+    },
+    {
+      "id": "PRO.10",
+      "number": 10,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The proverbs of Solomon: A wise son makes a glad father, But a foolish son is the grief of his mother."
+        },
+        {
+          "number": 2,
+          "text": "Treasures of wickedness profit nothing, But righteousness delivers from death."
+        },
+        {
+          "number": 3,
+          "text": "The LORD will not allow the righteous soul to famish, But He casts away the desire of the wicked."
+        },
+        {
+          "number": 4,
+          "text": "He who has a slack hand becomes poor, But the hand of the diligent makes rich."
+        },
+        {
+          "number": 5,
+          "text": "He who gathers in summer is a wise son; He who sleeps in harvest is a son who causes shame."
+        },
+        {
+          "number": 6,
+          "text": "Blessings are on the head of the righteous, But violence covers the mouth of the wicked."
+        },
+        {
+          "number": 7,
+          "text": "The memory of the righteous is blessed, But the name of the wicked will rot."
+        },
+        {
+          "number": 8,
+          "text": "The wise in heart will receive commands, But a prating fool will fall."
+        },
+        {
+          "number": 9,
+          "text": "He who walks with integrity walks securely, But he who perverts his ways will become known."
+        },
+        {
+          "number": 10,
+          "text": "He who winks with the eye causes trouble, But a prating fool will fall."
+        },
+        {
+          "number": 11,
+          "text": "The mouth of the righteous is a well of life, But violence covers the mouth of the wicked."
+        },
+        {
+          "number": 12,
+          "text": "Hatred stirs up strife, But love covers all sins."
+        },
+        {
+          "number": 13,
+          "text": "Wisdom is found on the lips of him who has understanding, But a rod is for the back of him who is devoid of understanding."
+        },
+        {
+          "number": 14,
+          "text": "Wise people store up knowledge, But the mouth of the foolish is near destruction."
+        },
+        {
+          "number": 15,
+          "text": "The rich man’s wealth is his strong city; The destruction of the poor is their poverty."
+        },
+        {
+          "number": 16,
+          "text": "The labor of the righteous leads to life, The wages of the wicked to sin."
+        },
+        {
+          "number": 17,
+          "text": "He who keeps instruction is in the way of life, But he who refuses correction goes astray."
+        },
+        {
+          "number": 18,
+          "text": "Whoever hides hatred has lying lips, And whoever spreads slander is a fool."
+        },
+        {
+          "number": 19,
+          "text": "In the multitude of words sin is not lacking, But he who restrains his lips is wise."
+        },
+        {
+          "number": 20,
+          "text": "The tongue of the righteous is choice silver; The heart of the wicked is worth little."
+        },
+        {
+          "number": 21,
+          "text": "The lips of the righteous feed many, But fools die for lack of wisdom."
+        },
+        {
+          "number": 22,
+          "text": "The blessing of the LORD makes one rich, And He adds no sorrow with it."
+        },
+        {
+          "number": 23,
+          "text": "To do evil is like sport to a fool, But a man of understanding has wisdom."
+        },
+        {
+          "number": 24,
+          "text": "The fear of the wicked will come upon him, And the desire of the righteous will be granted."
+        },
+        {
+          "number": 25,
+          "text": "When the whirlwind passes by, the wicked is no more, But the righteous has an everlasting foundation."
+        },
+        {
+          "number": 26,
+          "text": "As vinegar to the teeth and smoke to the eyes, So is the lazy man to those who send him."
+        },
+        {
+          "number": 27,
+          "text": "The fear of the LORD prolongs days, But the years of the wicked will be shortened."
+        },
+        {
+          "number": 28,
+          "text": "The hope of the righteous will be gladness, But the expectation of the wicked will perish."
+        },
+        {
+          "number": 29,
+          "text": "The way of the LORD is strength for the upright, But destruction will come to the workers of iniquity."
+        },
+        {
+          "number": 30,
+          "text": "The righteous will never be removed, But the wicked will not inhabit the earth."
+        },
+        {
+          "number": 31,
+          "text": "The mouth of the righteous brings forth wisdom, But the perverse tongue will be cut out."
+        },
+        {
+          "number": 32,
+          "text": "The lips of the righteous know what is acceptable, But the mouth of the wicked what is perverse."
+        }
+      ]
+    },
+    {
+      "id": "PRO.11",
+      "number": 11,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dishonest scales are an abomination to the LORD, But a just weight is His delight."
+        },
+        {
+          "number": 2,
+          "text": "When pride comes, then comes shame; But with the humble is wisdom."
+        },
+        {
+          "number": 3,
+          "text": "The integrity of the upright will guide them, But the perversity of the unfaithful will destroy them."
+        },
+        {
+          "number": 4,
+          "text": "Riches do not profit in the day of wrath, But righteousness delivers from death."
+        },
+        {
+          "number": 5,
+          "text": "The righteousness of the blameless will direct his way aright, But the wicked will fall by his own wickedness."
+        },
+        {
+          "number": 6,
+          "text": "The righteousness of the upright will deliver them, But the unfaithful will be caught by their lust."
+        },
+        {
+          "number": 7,
+          "text": "When a wicked man dies, his expectation will perish, And the hope of the unjust perishes."
+        },
+        {
+          "number": 8,
+          "text": "The righteous is delivered from trouble, And it comes to the wicked instead."
+        },
+        {
+          "number": 9,
+          "text": "The hypocrite with his mouth destroys his neighbor, But through knowledge the righteous will be delivered."
+        },
+        {
+          "number": 10,
+          "text": "When it goes well with the righteous, the city rejoices; And when the wicked perish, there is jubilation."
+        },
+        {
+          "number": 11,
+          "text": "By the blessing of the upright the city is exalted, But it is overthrown by the mouth of the wicked."
+        },
+        {
+          "number": 12,
+          "text": "He who is devoid of wisdom despises his neighbor, But a man of understanding holds his peace."
+        },
+        {
+          "number": 13,
+          "text": "A talebearer reveals secrets, But he who is of a faithful spirit conceals a matter."
+        },
+        {
+          "number": 14,
+          "text": "Where there is no counsel, the people fall; But in the multitude of counselors there is safety."
+        },
+        {
+          "number": 15,
+          "text": "He who is surety for a stranger will suffer, But one who hates being surety is secure."
+        },
+        {
+          "number": 16,
+          "text": "A gracious woman retains honor, But ruthless men retain riches."
+        },
+        {
+          "number": 17,
+          "text": "The merciful man does good for his own soul, But he who is cruel troubles his own flesh."
+        },
+        {
+          "number": 18,
+          "text": "The wicked man does deceptive work, But he who sows righteousness will have a sure reward."
+        },
+        {
+          "number": 19,
+          "text": "As righteousness leads to life, So he who pursues evil pursues it to his own death."
+        },
+        {
+          "number": 20,
+          "text": "Those who are of a perverse heart are an abomination to the LORD, But the blameless in their ways are His delight."
+        },
+        {
+          "number": 21,
+          "text": "Though they join forces, the wicked will not go unpunished; But the posterity of the righteous will be delivered."
+        },
+        {
+          "number": 22,
+          "text": "As a ring of gold in a swine’s snout, So is a lovely woman who lacks discretion."
+        },
+        {
+          "number": 23,
+          "text": "The desire of the righteous is only good, But the expectation of the wicked is wrath."
+        },
+        {
+          "number": 24,
+          "text": "There is one who scatters, yet increases more; And there is one who withholds more than is right, But it leads to poverty."
+        },
+        {
+          "number": 25,
+          "text": "The generous soul will be made rich, And he who waters will also be watered himself."
+        },
+        {
+          "number": 26,
+          "text": "The people will curse him who withholds grain, But blessing will be on the head of him who sells it."
+        },
+        {
+          "number": 27,
+          "text": "He who earnestly seeks good finds favor, But trouble will come to him who seeks evil."
+        },
+        {
+          "number": 28,
+          "text": "He who trusts in his riches will fall, But the righteous will flourish like foliage."
+        },
+        {
+          "number": 29,
+          "text": "He who troubles his own house will inherit the wind, And the fool will be servant to the wise of heart."
+        },
+        {
+          "number": 30,
+          "text": "The fruit of the righteous is a tree of life, And he who wins souls is wise."
+        },
+        {
+          "number": 31,
+          "text": "If the righteous will be recompensed on the earth, How much more the ungodly and the sinner."
+        }
+      ]
+    },
+    {
+      "id": "PRO.12",
+      "number": 12,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Whoever loves instruction loves knowledge, But he who hates correction is stupid."
+        },
+        {
+          "number": 2,
+          "text": "A good man obtains favor from the LORD, But a man of wicked intentions He will condemn."
+        },
+        {
+          "number": 3,
+          "text": "A man is not established by wickedness, But the root of the righteous cannot be moved."
+        },
+        {
+          "number": 4,
+          "text": "An excellent wife is the crown of her husband, But she who causes shame is like rottenness in his bones."
+        },
+        {
+          "number": 5,
+          "text": "The thoughts of the righteous are right, But the counsels of the wicked are deceitful."
+        },
+        {
+          "number": 6,
+          "text": "The words of the wicked are, “Lie in wait for blood,” But the mouth of the upright will deliver them."
+        },
+        {
+          "number": 7,
+          "text": "The wicked are overthrown and are no more, But the house of the righteous will stand."
+        },
+        {
+          "number": 8,
+          "text": "A man will be commended according to his wisdom, But he who is of a perverse heart will be despised."
+        },
+        {
+          "number": 9,
+          "text": "Better is the one who is slighted but has a servant, Than he who honors himself but lacks bread."
+        },
+        {
+          "number": 10,
+          "text": "A righteous man regards the life of his animal, But the tender mercies of the wicked are cruel."
+        },
+        {
+          "number": 11,
+          "text": "He who tills his land will be satisfied with bread, But he who follows frivolity is devoid of understanding."
+        },
+        {
+          "number": 12,
+          "text": "The wicked covet the catch of evil men, But the root of the righteous yields fruit."
+        },
+        {
+          "number": 13,
+          "text": "The wicked is ensnared by the transgression of his lips, But the righteous will come through trouble."
+        },
+        {
+          "number": 14,
+          "text": "A man will be satisfied with good by the fruit of his mouth, And the recompense of a man’s hands will be rendered to him."
+        },
+        {
+          "number": 15,
+          "text": "The way of a fool is right in his own eyes, But he who heeds counsel is wise."
+        },
+        {
+          "number": 16,
+          "text": "A fool’s wrath is known at once, But a prudent man covers shame."
+        },
+        {
+          "number": 17,
+          "text": "He who speaks truth declares righteousness, But a false witness, deceit."
+        },
+        {
+          "number": 18,
+          "text": "There is one who speaks like the piercings of a sword, But the tongue of the wise promotes health."
+        },
+        {
+          "number": 19,
+          "text": "The truthful lip shall be established forever, But a lying tongue is but for a moment."
+        },
+        {
+          "number": 20,
+          "text": "Deceit is in the heart of those who devise evil, But counselors of peace have joy."
+        },
+        {
+          "number": 21,
+          "text": "No grave trouble will overtake the righteous, But the wicked shall be filled with evil."
+        },
+        {
+          "number": 22,
+          "text": "Lying lips are an abomination to the LORD, But those who deal truthfully are His delight."
+        },
+        {
+          "number": 23,
+          "text": "A prudent man conceals knowledge, But the heart of fools proclaims foolishness."
+        },
+        {
+          "number": 24,
+          "text": "The hand of the diligent will rule, But the lazy man will be put to forced labor."
+        },
+        {
+          "number": 25,
+          "text": "Anxiety in the heart of man causes depression, But a good word makes it glad."
+        },
+        {
+          "number": 26,
+          "text": "The righteous should choose his friends carefully, For the way of the wicked leads them astray."
+        },
+        {
+          "number": 27,
+          "text": "The lazy man does not roast what he took in hunting, But diligence is man’s precious possession."
+        },
+        {
+          "number": 28,
+          "text": "In the way of righteousness is life, And in its pathway there is no death."
+        }
+      ]
+    },
+    {
+      "id": "PRO.13",
+      "number": 13,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "A wise son heeds his father’s instruction, But a scoffer does not listen to rebuke."
+        },
+        {
+          "number": 2,
+          "text": "A man shall eat well by the fruit of his mouth, But the soul of the unfaithful feeds on violence."
+        },
+        {
+          "number": 3,
+          "text": "He who guards his mouth preserves his life, But he who opens wide his lips shall have destruction."
+        },
+        {
+          "number": 4,
+          "text": "The soul of a lazy man desires, and has nothing; But the soul of the diligent shall be made rich."
+        },
+        {
+          "number": 5,
+          "text": "A righteous man hates lying, But a wicked man is loathsome and comes to shame."
+        },
+        {
+          "number": 6,
+          "text": "Righteousness guards him whose way is blameless, But wickedness overthrows the sinner."
+        },
+        {
+          "number": 7,
+          "text": "There is one who makes himself rich, yet has nothing; And one who makes himself poor, yet has great riches."
+        },
+        {
+          "number": 8,
+          "text": "The ransom of a man’s life is his riches, But the poor does not hear rebuke."
+        },
+        {
+          "number": 9,
+          "text": "The light of the righteous rejoices, But the lamp of the wicked will be put out."
+        },
+        {
+          "number": 10,
+          "text": "By pride comes nothing but strife, But with the well-advised is wisdom."
+        },
+        {
+          "number": 11,
+          "text": "Wealth gained by dishonesty will be diminished, But he who gathers by labor will increase."
+        },
+        {
+          "number": 12,
+          "text": "Hope deferred makes the heart sick, But when the desire comes, it is a tree of life."
+        },
+        {
+          "number": 13,
+          "text": "He who despises the word will be destroyed, But he who fears the commandment will be rewarded."
+        },
+        {
+          "number": 14,
+          "text": "The law of the wise is a fountain of life, To turn one away from the snares of death."
+        },
+        {
+          "number": 15,
+          "text": "Good understanding gains favor, But the way of the unfaithful is hard."
+        },
+        {
+          "number": 16,
+          "text": "Every prudent man acts with knowledge, But a fool lays open his folly."
+        },
+        {
+          "number": 17,
+          "text": "A wicked messenger falls into trouble, But a faithful ambassador brings health."
+        },
+        {
+          "number": 18,
+          "text": "Poverty and shame will come to him who disdains correction, But he who regards a rebuke will be honored."
+        },
+        {
+          "number": 19,
+          "text": "A desire accomplished is sweet to the soul, But it is an abomination to fools to depart from evil."
+        },
+        {
+          "number": 20,
+          "text": "He who walks with wise men will be wise, But the companion of fools will be destroyed."
+        },
+        {
+          "number": 21,
+          "text": "Evil pursues sinners, But to the righteous, good shall be repaid."
+        },
+        {
+          "number": 22,
+          "text": "A good man leaves an inheritance to his children’s children, But the wealth of the sinner is stored up for the righteous."
+        },
+        {
+          "number": 23,
+          "text": "Much food is in the fallow ground of the poor, And for lack of justice there is waste."
+        },
+        {
+          "number": 24,
+          "text": "He who spares his rod hates his son, But he who loves him disciplines him promptly."
+        },
+        {
+          "number": 25,
+          "text": "The righteous eats to the satisfying of his soul, But the stomach of the wicked shall be in want."
+        }
+      ]
+    },
+    {
+      "id": "PRO.14",
+      "number": 14,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The wise woman builds her house, But the foolish pulls it down with her hands."
+        },
+        {
+          "number": 2,
+          "text": "He who walks in his uprightness fears the LORD, But he who is perverse in his ways despises Him."
+        },
+        {
+          "number": 3,
+          "text": "In the mouth of a fool is a rod of pride, But the lips of the wise will preserve them."
+        },
+        {
+          "number": 4,
+          "text": "Where no oxen are, the trough is clean; But much increase comes by the strength of an ox."
+        },
+        {
+          "number": 5,
+          "text": "A faithful witness does not lie, But a false witness will utter lies."
+        },
+        {
+          "number": 6,
+          "text": "A scoffer seeks wisdom and does not find it, But knowledge is easy to him who understands."
+        },
+        {
+          "number": 7,
+          "text": "Go from the presence of a foolish man, When you do not perceive in him the lips of knowledge."
+        },
+        {
+          "number": 8,
+          "text": "The wisdom of the prudent is to understand his way, But the folly of fools is deceit."
+        },
+        {
+          "number": 9,
+          "text": "Fools mock at sin, But among the upright there is favor."
+        },
+        {
+          "number": 10,
+          "text": "The heart knows its own bitterness, And a stranger does not share its joy."
+        },
+        {
+          "number": 11,
+          "text": "The house of the wicked will be overthrown, But the tent of the upright will flourish."
+        },
+        {
+          "number": 12,
+          "text": "There is a way that seems right to a man, But its end is the way of death."
+        },
+        {
+          "number": 13,
+          "text": "Even in laughter the heart may sorrow, And the end of mirth may be grief."
+        },
+        {
+          "number": 14,
+          "text": "The backslider in heart will be filled with his own ways, But a good man will be satisfied from above."
+        },
+        {
+          "number": 15,
+          "text": "The simple believes every word, But the prudent considers well his steps."
+        },
+        {
+          "number": 16,
+          "text": "A wise man fears and departs from evil, But a fool rages and is self-confident."
+        },
+        {
+          "number": 17,
+          "text": "A quick-tempered man acts foolishly, And a man of wicked intentions is hated."
+        },
+        {
+          "number": 18,
+          "text": "The simple inherit folly, But the prudent are crowned with knowledge."
+        },
+        {
+          "number": 19,
+          "text": "The evil will bow before the good, And the wicked at the gates of the righteous."
+        },
+        {
+          "number": 20,
+          "text": "The poor man is hated even by his own neighbor, But the rich has many friends."
+        },
+        {
+          "number": 21,
+          "text": "He who despises his neighbor sins; But he who has mercy on the poor, happy is he."
+        },
+        {
+          "number": 22,
+          "text": "Do they not go astray who devise evil? But mercy and truth belong to those who devise good."
+        },
+        {
+          "number": 23,
+          "text": "In all labor there is profit, But idle chatter leads only to poverty."
+        },
+        {
+          "number": 24,
+          "text": "The crown of the wise is their riches, But the foolishness of fools is folly."
+        },
+        {
+          "number": 25,
+          "text": "A true witness delivers souls, But a deceitful witness speaks lies."
+        },
+        {
+          "number": 26,
+          "text": "In the fear of the LORD there is strong confidence, And His children will have a place of refuge."
+        },
+        {
+          "number": 27,
+          "text": "The fear of the LORD is a fountain of life, To turn one away from the snares of death."
+        },
+        {
+          "number": 28,
+          "text": "In a multitude of people is a king’s honor, But in the lack of people is the downfall of a prince."
+        },
+        {
+          "number": 29,
+          "text": "He who is slow to wrath has great understanding, But he who is impulsive exalts folly."
+        },
+        {
+          "number": 30,
+          "text": "A sound heart is life to the body, But envy is rottenness to the bones."
+        },
+        {
+          "number": 31,
+          "text": "He who oppresses the poor reproaches his Maker, But he who honors Him has mercy on the needy."
+        },
+        {
+          "number": 32,
+          "text": "The wicked is banished in his wickedness, But the righteous has a refuge in his death."
+        },
+        {
+          "number": 33,
+          "text": "Wisdom rests in the heart of him who has understanding, But what is in the heart of fools is made known."
+        },
+        {
+          "number": 34,
+          "text": "Righteousness exalts a nation, But sin is a reproach to any people."
+        },
+        {
+          "number": 35,
+          "text": "The king’s favor is toward a wise servant, But his wrath is against him who causes shame."
+        }
+      ]
+    },
+    {
+      "id": "PRO.15",
+      "number": 15,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "A soft answer turns away wrath, But a harsh word stirs up anger."
+        },
+        {
+          "number": 2,
+          "text": "The tongue of the wise uses knowledge rightly, But the mouth of fools pours forth foolishness."
+        },
+        {
+          "number": 3,
+          "text": "The eyes of the LORD are in every place, Keeping watch on the evil and the good."
+        },
+        {
+          "number": 4,
+          "text": "A wholesome tongue is a tree of life, But perverseness in it breaks the spirit."
+        },
+        {
+          "number": 5,
+          "text": "A fool despises his father’s instruction, But he who receives correction is prudent."
+        },
+        {
+          "number": 6,
+          "text": "In the house of the righteous there is much treasure, But in the revenue of the wicked is trouble."
+        },
+        {
+          "number": 7,
+          "text": "The lips of the wise disperse knowledge, But the heart of the fool does not do so."
+        },
+        {
+          "number": 8,
+          "text": "The sacrifice of the wicked is an abomination to the LORD, But the prayer of the upright is His delight."
+        },
+        {
+          "number": 9,
+          "text": "The way of the wicked is an abomination to the LORD, But He loves him who follows righteousness."
+        },
+        {
+          "number": 10,
+          "text": "Harsh discipline is for him who forsakes the way, And he who hates correction will die."
+        },
+        {
+          "number": 11,
+          "text": "Hell and Destruction are before the LORD; So how much more the hearts of the sons of men."
+        },
+        {
+          "number": 12,
+          "text": "A scoffer does not love one who corrects him, Nor will he go to the wise."
+        },
+        {
+          "number": 13,
+          "text": "A merry heart makes a cheerful countenance, But by sorrow of the heart the spirit is broken."
+        },
+        {
+          "number": 14,
+          "text": "The heart of him who has understanding seeks knowledge, But the mouth of fools feeds on foolishness."
+        },
+        {
+          "number": 15,
+          "text": "All the days of the afflicted are evil, But he who is of a merry heart has a continual feast."
+        },
+        {
+          "number": 16,
+          "text": "Better is a little with the fear of the LORD, Than great treasure with trouble."
+        },
+        {
+          "number": 17,
+          "text": "Better is a dinner of herbs where love is, Than a fatted calf with hatred."
+        },
+        {
+          "number": 18,
+          "text": "A wrathful man stirs up strife, But he who is slow to anger allays contention."
+        },
+        {
+          "number": 19,
+          "text": "The way of the lazy man is like a hedge of thorns, But the way of the upright is a highway."
+        },
+        {
+          "number": 20,
+          "text": "A wise son makes a father glad, But a foolish man despises his mother."
+        },
+        {
+          "number": 21,
+          "text": "Folly is joy to him who is destitute of discernment, But a man of understanding walks uprightly."
+        },
+        {
+          "number": 22,
+          "text": "Without counsel, plans go awry, But in the multitude of counselors they are established."
+        },
+        {
+          "number": 23,
+          "text": "A man has joy by the answer of his mouth, And a word spoken in due season, how good it is!"
+        },
+        {
+          "number": 24,
+          "text": "The way of life winds upward for the wise, That he may turn away from hell below."
+        },
+        {
+          "number": 25,
+          "text": "The LORD will destroy the house of the proud, But He will establish the boundary of the widow."
+        },
+        {
+          "number": 26,
+          "text": "The thoughts of the wicked are an abomination to the LORD, But the words of the pure are pleasant."
+        },
+        {
+          "number": 27,
+          "text": "He who is greedy for gain troubles his own house, But he who hates bribes will live."
+        },
+        {
+          "number": 28,
+          "text": "The heart of the righteous studies how to answer, But the mouth of the wicked pours forth evil."
+        },
+        {
+          "number": 29,
+          "text": "The LORD is far from the wicked, But He hears the prayer of the righteous."
+        },
+        {
+          "number": 30,
+          "text": "The light of the eyes rejoices the heart, And a good report makes the bones healthy."
+        },
+        {
+          "number": 31,
+          "text": "The ear that hears the rebukes of life Will abide among the wise."
+        },
+        {
+          "number": 32,
+          "text": "He who disdains instruction despises his own soul, But he who heeds rebuke gets understanding."
+        },
+        {
+          "number": 33,
+          "text": "The fear of the LORD is the instruction of wisdom, And before honor is humility."
+        }
+      ]
+    },
+    {
+      "id": "PRO.16",
+      "number": 16,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The preparations of the heart belong to man, But the answer of the tongue is from the LORD."
+        },
+        {
+          "number": 2,
+          "text": "All the ways of a man are pure in his own eyes, But the LORD weighs the spirits."
+        },
+        {
+          "number": 3,
+          "text": "Commit your works to the LORD, And your thoughts will be established."
+        },
+        {
+          "number": 4,
+          "text": "The LORD has made all for Himself, Yes, even the wicked for the day of doom."
+        },
+        {
+          "number": 5,
+          "text": "Everyone proud in heart is an abomination to the LORD; Though they join forces, none will go unpunished."
+        },
+        {
+          "number": 6,
+          "text": "In mercy and truth Atonement is provided for iniquity; And by the fear of the LORD one departs from evil."
+        },
+        {
+          "number": 7,
+          "text": "When a man’s ways please the LORD, He makes even his enemies to be at peace with him."
+        },
+        {
+          "number": 8,
+          "text": "Better is a little with righteousness, Than vast revenues without justice."
+        },
+        {
+          "number": 9,
+          "text": "A man’s heart plans his way, But the LORD directs his steps."
+        },
+        {
+          "number": 10,
+          "text": "Divination is on the lips of the king; His mouth must not transgress in judgment."
+        },
+        {
+          "number": 11,
+          "text": "Honest weights and scales are the LORD’s; All the weights in the bag are His work."
+        },
+        {
+          "number": 12,
+          "text": "It is an abomination for kings to commit wickedness, For a throne is established by righteousness."
+        },
+        {
+          "number": 13,
+          "text": "Righteous lips are the delight of kings, And they love him who speaks what is right."
+        },
+        {
+          "number": 14,
+          "text": "As messengers of death is the king’s wrath, But a wise man will appease it."
+        },
+        {
+          "number": 15,
+          "text": "In the light of the king’s face is life, And his favor is like a cloud of the latter rain."
+        },
+        {
+          "number": 16,
+          "text": "How much better to get wisdom than gold! And to get understanding is to be chosen rather than silver."
+        },
+        {
+          "number": 17,
+          "text": "The highway of the upright is to depart from evil; He who keeps his way preserves his soul."
+        },
+        {
+          "number": 18,
+          "text": "Pride goes before destruction, And a haughty spirit before a fall."
+        },
+        {
+          "number": 19,
+          "text": "Better to be of a humble spirit with the lowly, Than to divide the spoil with the proud."
+        },
+        {
+          "number": 20,
+          "text": "He who heeds the word wisely will find good, And whoever trusts in the LORD, happy is he."
+        },
+        {
+          "number": 21,
+          "text": "The wise in heart will be called prudent, And sweetness of the lips increases learning."
+        },
+        {
+          "number": 22,
+          "text": "Understanding is a wellspring of life to him who has it. But the correction of fools is folly."
+        },
+        {
+          "number": 23,
+          "text": "The heart of the wise teaches his mouth, And adds learning to his lips."
+        },
+        {
+          "number": 24,
+          "text": "Pleasant words are like a honeycomb, Sweetness to the soul and health to the bones."
+        },
+        {
+          "number": 25,
+          "text": "There is a way that seems right to a man, But its end is the way of death."
+        },
+        {
+          "number": 26,
+          "text": "The person who labors, labors for himself, For his hungry mouth drives him on."
+        },
+        {
+          "number": 27,
+          "text": "An ungodly man digs up evil, And it is on his lips like a burning fire."
+        },
+        {
+          "number": 28,
+          "text": "A perverse man sows strife, And a whisperer separates the best of friends."
+        },
+        {
+          "number": 29,
+          "text": "A violent man entices his neighbor, And leads him in a way that is not good."
+        },
+        {
+          "number": 30,
+          "text": "He winks his eye to devise perverse things; He purses his lips and brings about evil."
+        },
+        {
+          "number": 31,
+          "text": "The silver-haired head is a crown of glory, If it is found in the way of righteousness."
+        },
+        {
+          "number": 32,
+          "text": "He who is slow to anger is better than the mighty, And he who rules his spirit than he who takes a city."
+        },
+        {
+          "number": 33,
+          "text": "The lot is cast into the lap, But its every decision is from the LORD."
+        }
+      ]
+    },
+    {
+      "id": "PRO.17",
+      "number": 17,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Better is a dry morsel with quietness, Than a house full of feasting with strife."
+        },
+        {
+          "number": 2,
+          "text": "A wise servant will rule over a son who causes shame, And will share an inheritance among the brothers."
+        },
+        {
+          "number": 3,
+          "text": "The refining pot is for silver and the furnace for gold, But the LORD tests the hearts."
+        },
+        {
+          "number": 4,
+          "text": "An evildoer gives heed to false lips; A liar listens eagerly to a spiteful tongue."
+        },
+        {
+          "number": 5,
+          "text": "He who mocks the poor reproaches his Maker; He who is glad at calamity will not go unpunished."
+        },
+        {
+          "number": 6,
+          "text": "Children’s children are the crown of old men, And the glory of children is their father."
+        },
+        {
+          "number": 7,
+          "text": "Excellent speech is not becoming to a fool, Much less lying lips to a prince."
+        },
+        {
+          "number": 8,
+          "text": "A present is a precious stone in the eyes of its possessor; Wherever he turns, he prospers."
+        },
+        {
+          "number": 9,
+          "text": "He who covers a transgression seeks love, But he who repeats a matter separates friends."
+        },
+        {
+          "number": 10,
+          "text": "Rebuke is more effective for a wise man Than a hundred blows on a fool."
+        },
+        {
+          "number": 11,
+          "text": "An evil man seeks only rebellion; Therefore a cruel messenger will be sent against him."
+        },
+        {
+          "number": 12,
+          "text": "Let a man meet a bear robbed of her cubs, Rather than a fool in his folly."
+        },
+        {
+          "number": 13,
+          "text": "Whoever rewards evil for good, Evil will not depart from his house."
+        },
+        {
+          "number": 14,
+          "text": "The beginning of strife is like releasing water; Therefore stop contention before a quarrel starts."
+        },
+        {
+          "number": 15,
+          "text": "He who justifies the wicked, and he who condemns the just, Both of them alike are an abomination to the LORD."
+        },
+        {
+          "number": 16,
+          "text": "Why is there in the hand of a fool the purchase price of wisdom, Since he has no heart for it?"
+        },
+        {
+          "number": 17,
+          "text": "A friend loves at all times, And a brother is born for adversity."
+        },
+        {
+          "number": 18,
+          "text": "A man devoid of understanding shakes hands in a pledge, And becomes surety for his friend."
+        },
+        {
+          "number": 19,
+          "text": "He who loves transgression loves strife, And he who exalts his gate seeks destruction."
+        },
+        {
+          "number": 20,
+          "text": "He who has a deceitful heart finds no good, And he who has a perverse tongue falls into evil."
+        },
+        {
+          "number": 21,
+          "text": "He who begets a scoffer does so to his sorrow, And the father of a fool has no joy."
+        },
+        {
+          "number": 22,
+          "text": "A merry heart does good, like medicine, But a broken spirit dries the bones."
+        },
+        {
+          "number": 23,
+          "text": "A wicked man accepts a bribe behind the back To pervert the ways of justice."
+        },
+        {
+          "number": 24,
+          "text": "Wisdom is in the sight of him who has understanding, But the eyes of a fool are on the ends of the earth."
+        },
+        {
+          "number": 25,
+          "text": "A foolish son is a grief to his father, And bitterness to her who bore him."
+        },
+        {
+          "number": 26,
+          "text": "Also, to punish the righteous is not good, Nor to strike princes for their uprightness."
+        },
+        {
+          "number": 27,
+          "text": "He who has knowledge spares his words, And a man of understanding is of a calm spirit."
+        },
+        {
+          "number": 28,
+          "text": "Even a fool is counted wise when he holds his peace; When he shuts his lips, he is considered perceptive."
+        }
+      ]
+    },
+    {
+      "id": "PRO.18",
+      "number": 18,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "A man who isolates himself seeks his own desire; He rages against all wise judgment."
+        },
+        {
+          "number": 2,
+          "text": "A fool has no delight in understanding, But in expressing his own heart."
+        },
+        {
+          "number": 3,
+          "text": "When the wicked comes, contempt comes also; And with dishonor comes reproach."
+        },
+        {
+          "number": 4,
+          "text": "The words of a man’s mouth are deep waters; The wellspring of wisdom is a flowing brook."
+        },
+        {
+          "number": 5,
+          "text": "It is not good to show partiality to the wicked, Or to overthrow the righteous in judgment."
+        },
+        {
+          "number": 6,
+          "text": "A fool’s lips enter into contention, And his mouth calls for blows."
+        },
+        {
+          "number": 7,
+          "text": "A fool’s mouth is his destruction, And his lips are the snare of his soul."
+        },
+        {
+          "number": 8,
+          "text": "The words of a talebearer are like tasty trifles, And they go down into the inmost body."
+        },
+        {
+          "number": 9,
+          "text": "He who is slothful in his work Is a brother to him who is a great destroyer."
+        },
+        {
+          "number": 10,
+          "text": "The name of the LORD is a strong tower; The righteous run to it and are safe."
+        },
+        {
+          "number": 11,
+          "text": "The rich man’s wealth is his strong city, And like a high wall in his own esteem."
+        },
+        {
+          "number": 12,
+          "text": "Before destruction the heart of a man is haughty, And before honor is humility."
+        },
+        {
+          "number": 13,
+          "text": "He who answers a matter before he hears it, It is folly and shame to him."
+        },
+        {
+          "number": 14,
+          "text": "The spirit of a man will sustain him in sickness, But who can bear a broken spirit?"
+        },
+        {
+          "number": 15,
+          "text": "The heart of the prudent acquires knowledge, And the ear of the wise seeks knowledge."
+        },
+        {
+          "number": 16,
+          "text": "A man’s gift makes room for him, And brings him before great men."
+        },
+        {
+          "number": 17,
+          "text": "The first one to plead his cause seems right, Until his neighbor comes and examines him."
+        },
+        {
+          "number": 18,
+          "text": "Casting lots causes contentions to cease, And keeps the mighty apart."
+        },
+        {
+          "number": 19,
+          "text": "A brother offended is harder to win than a strong city, And contentions are like the bars of a castle."
+        },
+        {
+          "number": 20,
+          "text": "A man’s stomach shall be satisfied from the fruit of his mouth; From the produce of his lips he shall be filled."
+        },
+        {
+          "number": 21,
+          "text": "Death and life are in the power of the tongue, And those who love it will eat its fruit."
+        },
+        {
+          "number": 22,
+          "text": "He who finds a wife finds a good thing, And obtains favor from the LORD."
+        },
+        {
+          "number": 23,
+          "text": "The poor man uses entreaties, But the rich answers roughly."
+        },
+        {
+          "number": 24,
+          "text": "A man who has friends must himself be friendly, But there is a friend who sticks closer than a brother."
+        }
+      ]
+    },
+    {
+      "id": "PRO.19",
+      "number": 19,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Better is the poor who walks in his integrity Than one who is perverse in his lips, and is a fool."
+        },
+        {
+          "number": 2,
+          "text": "Also it is not good for a soul to be without knowledge, And he sins who hastens with his feet."
+        },
+        {
+          "number": 3,
+          "text": "The foolishness of a man twists his way, And his heart frets against the LORD."
+        },
+        {
+          "number": 4,
+          "text": "Wealth makes many friends, But the poor is separated from his friend."
+        },
+        {
+          "number": 5,
+          "text": "A false witness will not go unpunished, And he who speaks lies will not escape."
+        },
+        {
+          "number": 6,
+          "text": "Many entreat the favor of the nobility, And every man is a friend to one who gives gifts."
+        },
+        {
+          "number": 7,
+          "text": "All the brothers of the poor hate him; How much more do his friends go far from him! He may pursue them with words, yet they abandon him."
+        },
+        {
+          "number": 8,
+          "text": "He who gets wisdom loves his own soul; He who keeps understanding will find good."
+        },
+        {
+          "number": 9,
+          "text": "A false witness will not go unpunished, And he who speaks lies shall perish."
+        },
+        {
+          "number": 10,
+          "text": "Luxury is not fitting for a fool, Much less for a servant to rule over princes."
+        },
+        {
+          "number": 11,
+          "text": "The discretion of a man makes him slow to anger, And his glory is to overlook a transgression."
+        },
+        {
+          "number": 12,
+          "text": "The king’s wrath is like the roaring of a lion, But his favor is like dew on the grass."
+        },
+        {
+          "number": 13,
+          "text": "A foolish son is the ruin of his father, And the contentions of a wife are a continual dripping."
+        },
+        {
+          "number": 14,
+          "text": "Houses and riches are an inheritance from fathers, But a prudent wife is from the LORD."
+        },
+        {
+          "number": 15,
+          "text": "Laziness casts one into a deep sleep, And an idle person will suffer hunger."
+        },
+        {
+          "number": 16,
+          "text": "He who keeps the commandment keeps his soul, But he who is careless of his ways will die."
+        },
+        {
+          "number": 17,
+          "text": "He who has pity on the poor lends to the LORD, And He will pay back what he has given."
+        },
+        {
+          "number": 18,
+          "text": "Chasten your son while there is hope, And do not set your heart on his destruction."
+        },
+        {
+          "number": 19,
+          "text": "A man of great wrath will suffer punishment; For if you rescue him, you will have to do it again."
+        },
+        {
+          "number": 20,
+          "text": "Listen to counsel and receive instruction, That you may be wise in your latter days."
+        },
+        {
+          "number": 21,
+          "text": "There are many plans in a man’s heart, Nevertheless the LORD’s counsel—that will stand."
+        },
+        {
+          "number": 22,
+          "text": "What is desired in a man is kindness, And a poor man is better than a liar."
+        },
+        {
+          "number": 23,
+          "text": "The fear of the LORD leads to life, And he who has it will abide in satisfaction; He will not be visited with evil."
+        },
+        {
+          "number": 24,
+          "text": "A lazy man buries his hand in the bowl, And will not so much as bring it to his mouth again."
+        },
+        {
+          "number": 25,
+          "text": "Strike a scoffer, and the simple will become wary; Rebuke one who has understanding, and he will discern knowledge."
+        },
+        {
+          "number": 26,
+          "text": "He who mistreats his father and chases away his mother Is a son who causes shame and brings reproach."
+        },
+        {
+          "number": 27,
+          "text": "Cease listening to instruction, my son, And you will stray from the words of knowledge."
+        },
+        {
+          "number": 28,
+          "text": "A disreputable witness scorns justice, And the mouth of the wicked devours iniquity."
+        },
+        {
+          "number": 29,
+          "text": "Judgments are prepared for scoffers, And beatings for the backs of fools."
+        }
+      ]
+    },
+    {
+      "id": "PRO.20",
+      "number": 20,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Wine is a mocker, Strong drink is a brawler, And whoever is led astray by it is not wise."
+        },
+        {
+          "number": 2,
+          "text": "The wrath of a king is like the roaring of a lion; Whoever provokes him to anger sins against his own life."
+        },
+        {
+          "number": 3,
+          "text": "It is honorable for a man to stop striving, Since any fool can start a quarrel."
+        },
+        {
+          "number": 4,
+          "text": "The lazy man will not plow because of winter; He will beg during harvest and have nothing."
+        },
+        {
+          "number": 5,
+          "text": "Counsel in the heart of man is like deep water, But a man of understanding will draw it out."
+        },
+        {
+          "number": 6,
+          "text": "Most men will proclaim each his own goodness, But who can find a faithful man?"
+        },
+        {
+          "number": 7,
+          "text": "The righteous man walks in his integrity; His children are blessed after him."
+        },
+        {
+          "number": 8,
+          "text": "A king who sits on the throne of judgment Scatters all evil with his eyes."
+        },
+        {
+          "number": 9,
+          "text": "Who can say, “I have made my heart clean, I am pure from my sin”?"
+        },
+        {
+          "number": 10,
+          "text": "Diverse weights and diverse measures, They are both alike, an abomination to the LORD."
+        },
+        {
+          "number": 11,
+          "text": "Even a child is known by his deeds, Whether what he does is pure and right."
+        },
+        {
+          "number": 12,
+          "text": "The hearing ear and the seeing eye, The LORD has made them both."
+        },
+        {
+          "number": 13,
+          "text": "Do not love sleep, lest you come to poverty; Open your eyes, and you will be satisfied with bread."
+        },
+        {
+          "number": 14,
+          "text": "“It is good for nothing,” cries the buyer; But when he has gone his way, then he boasts."
+        },
+        {
+          "number": 15,
+          "text": "There is gold and a multitude of rubies, But the lips of knowledge are a precious jewel."
+        },
+        {
+          "number": 16,
+          "text": "Take the garment of one who is surety for a stranger, And hold it as a pledge when it is for a seductress."
+        },
+        {
+          "number": 17,
+          "text": "Bread gained by deceit is sweet to a man, But afterward his mouth will be filled with gravel."
+        },
+        {
+          "number": 18,
+          "text": "Plans are established by counsel; By wise counsel wage war."
+        },
+        {
+          "number": 19,
+          "text": "He who goes about as a talebearer reveals secrets; Therefore do not associate with one who flatters with his lips."
+        },
+        {
+          "number": 20,
+          "text": "Whoever curses his father or his mother, His lamp will be put out in deep darkness."
+        },
+        {
+          "number": 21,
+          "text": "An inheritance gained hastily at the beginning Will not be blessed at the end."
+        },
+        {
+          "number": 22,
+          "text": "Do not say, “I will recompense evil”; Wait for the LORD, and He will save you."
+        },
+        {
+          "number": 23,
+          "text": "Diverse weights are an abomination to the LORD, And dishonest scales are not good."
+        },
+        {
+          "number": 24,
+          "text": "A man’s steps are of the LORD; How then can a man understand his own way?"
+        },
+        {
+          "number": 25,
+          "text": "It is a snare for a man to devote rashly something as holy, And afterward to reconsider his vows."
+        },
+        {
+          "number": 26,
+          "text": "A wise king sifts out the wicked, And brings the threshing wheel over them."
+        },
+        {
+          "number": 27,
+          "text": "The spirit of a man is the lamp of the LORD, Searching all the inner depths of his heart."
+        },
+        {
+          "number": 28,
+          "text": "Mercy and truth preserve the king, And by lovingkindness he upholds his throne."
+        },
+        {
+          "number": 29,
+          "text": "The glory of young men is their strength, And the splendor of old men is their gray head."
+        },
+        {
+          "number": 30,
+          "text": "Blows that hurt cleanse away evil, As do stripes the inner depths of the heart."
+        }
+      ]
+    },
+    {
+      "id": "PRO.21",
+      "number": 21,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The king’s heart is in the hand of the LORD, Like the rivers of water; He turns it wherever He wishes."
+        },
+        {
+          "number": 2,
+          "text": "Every way of a man is right in his own eyes, But the LORD weighs the hearts."
+        },
+        {
+          "number": 3,
+          "text": "To do righteousness and justice Is more acceptable to the LORD than sacrifice."
+        },
+        {
+          "number": 4,
+          "text": "A haughty look, a proud heart, And the plowing of the wicked are sin."
+        },
+        {
+          "number": 5,
+          "text": "The plans of the diligent lead surely to plenty, But those of everyone who is hasty, surely to poverty."
+        },
+        {
+          "number": 6,
+          "text": "Getting treasures by a lying tongue Is the fleeting fantasy of those who seek death."
+        },
+        {
+          "number": 7,
+          "text": "The violence of the wicked will destroy them, Because they refuse to do justice."
+        },
+        {
+          "number": 8,
+          "text": "The way of a guilty man is perverse; But as for the pure, his work is right."
+        },
+        {
+          "number": 9,
+          "text": "Better to dwell in a corner of a housetop, Than in a house shared with a contentious woman."
+        },
+        {
+          "number": 10,
+          "text": "The soul of the wicked desires evil; His neighbor finds no favor in his eyes."
+        },
+        {
+          "number": 11,
+          "text": "When the scoffer is punished, the simple is made wise; But when the wise is instructed, he receives knowledge."
+        },
+        {
+          "number": 12,
+          "text": "The righteous God wisely considers the house of the wicked, Overthrowing the wicked for their wickedness."
+        },
+        {
+          "number": 13,
+          "text": "Whoever shuts his ears to the cry of the poor Will also cry himself and not be heard."
+        },
+        {
+          "number": 14,
+          "text": "A gift in secret pacifies anger, And a bribe behind the back, strong wrath."
+        },
+        {
+          "number": 15,
+          "text": "It is a joy for the just to do justice, But destruction will come to the workers of iniquity."
+        },
+        {
+          "number": 16,
+          "text": "A man who wanders from the way of understanding Will rest in the assembly of the dead."
+        },
+        {
+          "number": 17,
+          "text": "He who loves pleasure will be a poor man; He who loves wine and oil will not be rich."
+        },
+        {
+          "number": 18,
+          "text": "The wicked shall be a ransom for the righteous, And the unfaithful for the upright."
+        },
+        {
+          "number": 19,
+          "text": "Better to dwell in the wilderness, Than with a contentious and angry woman."
+        },
+        {
+          "number": 20,
+          "text": "There is desirable treasure, And oil in the dwelling of the wise, But a foolish man squanders it."
+        },
+        {
+          "number": 21,
+          "text": "He who follows righteousness and mercy Finds life, righteousness, and honor."
+        },
+        {
+          "number": 22,
+          "text": "A wise man scales the city of the mighty, And brings down the trusted stronghold."
+        },
+        {
+          "number": 23,
+          "text": "Whoever guards his mouth and tongue Keeps his soul from troubles."
+        },
+        {
+          "number": 24,
+          "text": "A proud and haughty man— “Scoffer” is his name; He acts with arrogant pride."
+        },
+        {
+          "number": 25,
+          "text": "The desire of the lazy man kills him, For his hands refuse to labor."
+        },
+        {
+          "number": 26,
+          "text": "He covets greedily all day long, But the righteous gives and does not spare."
+        },
+        {
+          "number": 27,
+          "text": "The sacrifice of the wicked is an abomination; How much more when he brings it with wicked intent!"
+        },
+        {
+          "number": 28,
+          "text": "A false witness shall perish, But the man who hears him will speak endlessly."
+        },
+        {
+          "number": 29,
+          "text": "A wicked man hardens his face, But as for the upright, he establishes his way."
+        },
+        {
+          "number": 30,
+          "text": "There is no wisdom or understanding Or counsel against the LORD."
+        },
+        {
+          "number": 31,
+          "text": "The horse is prepared for the day of battle, But deliverance is of the LORD."
+        }
+      ]
+    },
+    {
+      "id": "PRO.22",
+      "number": 22,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "A good name is to be chosen rather than great riches, Loving favor rather than silver and gold."
+        },
+        {
+          "number": 2,
+          "text": "The rich and the poor have this in common, The LORD is the maker of them all."
+        },
+        {
+          "number": 3,
+          "text": "A prudent man foresees evil and hides himself, But the simple pass on and are punished."
+        },
+        {
+          "number": 4,
+          "text": "By humility and the fear of the LORD Are riches and honor and life."
+        },
+        {
+          "number": 5,
+          "text": "Thorns and snares are in the way of the perverse; He who guards his soul will be far from them."
+        },
+        {
+          "number": 6,
+          "text": "Train up a child in the way he should go, And when he is old he will not depart from it."
+        },
+        {
+          "number": 7,
+          "text": "The rich rules over the poor, And the borrower is servant to the lender."
+        },
+        {
+          "number": 8,
+          "text": "He who sows iniquity will reap sorrow, And the rod of his anger will fail."
+        },
+        {
+          "number": 9,
+          "text": "He who has a generous eye will be blessed, For he gives of his bread to the poor."
+        },
+        {
+          "number": 10,
+          "text": "Cast out the scoffer, and contention will leave; Yes, strife and reproach will cease."
+        },
+        {
+          "number": 11,
+          "text": "He who loves purity of heart And has grace on his lips, The king will be his friend."
+        },
+        {
+          "number": 12,
+          "text": "The eyes of the LORD preserve knowledge, But He overthrows the words of the faithless."
+        },
+        {
+          "number": 13,
+          "text": "The lazy man says, “There is a lion outside! I shall be slain in the streets!”"
+        },
+        {
+          "number": 14,
+          "text": "The mouth of an immoral woman is a deep pit; He who is abhorred by the LORD will fall there."
+        },
+        {
+          "number": 15,
+          "text": "Foolishness is bound up in the heart of a child; The rod of correction will drive it far from him."
+        },
+        {
+          "number": 16,
+          "text": "He who oppresses the poor to increase his riches, And he who gives to the rich, will surely come to poverty."
+        },
+        {
+          "number": 17,
+          "text": "Incline your ear and hear the words of the wise, And apply your heart to my knowledge;"
+        },
+        {
+          "number": 18,
+          "text": "For it is a pleasant thing if you keep them within you; Let them all be fixed upon your lips,"
+        },
+        {
+          "number": 19,
+          "text": "So that your trust may be in the LORD; I have instructed you today, even you."
+        },
+        {
+          "number": 20,
+          "text": "Have I not written to you excellent things Of counsels and knowledge,"
+        },
+        {
+          "number": 21,
+          "text": "That I may make you know the certainty of the words of truth, That you may answer words of truth To those who send to you?"
+        },
+        {
+          "number": 22,
+          "text": "Do not rob the poor because he is poor, Nor oppress the afflicted at the gate;"
+        },
+        {
+          "number": 23,
+          "text": "For the LORD will plead their cause, And plunder the soul of those who plunder them."
+        },
+        {
+          "number": 24,
+          "text": "Make no friendship with an angry man, And with a furious man do not go,"
+        },
+        {
+          "number": 25,
+          "text": "Lest you learn his ways And set a snare for your soul."
+        },
+        {
+          "number": 26,
+          "text": "Do not be one of those who shakes hands in a pledge, One of those who is surety for debts;"
+        },
+        {
+          "number": 27,
+          "text": "If you have nothing with which to pay, Why should he take away your bed from under you?"
+        },
+        {
+          "number": 28,
+          "text": "Do not remove the ancient landmark Which your fathers have set."
+        },
+        {
+          "number": 29,
+          "text": "Do you see a man who excels in his work? He will stand before kings; He will not stand before unknown men."
+        }
+      ]
+    },
+    {
+      "id": "PRO.23",
+      "number": 23,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "When you sit down to eat with a ruler, Consider carefully what is before you;"
+        },
+        {
+          "number": 2,
+          "text": "And put a knife to your throat If you are a man given to appetite."
+        },
+        {
+          "number": 3,
+          "text": "Do not desire his delicacies, For they are deceptive food."
+        },
+        {
+          "number": 4,
+          "text": "Do not overwork to be rich; Because of your own understanding, cease!"
+        },
+        {
+          "number": 5,
+          "text": "Will you set your eyes on that which is not? For riches certainly make themselves wings; They fly away like an eagle toward heaven."
+        },
+        {
+          "number": 6,
+          "text": "Do not eat the bread of a miser, Nor desire his delicacies;"
+        },
+        {
+          "number": 7,
+          "text": "For as he thinks in his heart, so is he. “Eat and drink!” he says to you, But his heart is not with you."
+        },
+        {
+          "number": 8,
+          "text": "The morsel you have eaten, you will vomit up, And waste your pleasant words."
+        },
+        {
+          "number": 9,
+          "text": "Do not speak in the hearing of a fool, For he will despise the wisdom of your words."
+        },
+        {
+          "number": 10,
+          "text": "Do not remove the ancient landmark, Nor enter the fields of the fatherless;"
+        },
+        {
+          "number": 11,
+          "text": "For their Redeemer is mighty; He will plead their cause against you."
+        },
+        {
+          "number": 12,
+          "text": "Apply your heart to instruction, And your ears to words of knowledge."
+        },
+        {
+          "number": 13,
+          "text": "Do not withhold correction from a child, For if you beat him with a rod, he will not die."
+        },
+        {
+          "number": 14,
+          "text": "You shall beat him with a rod, And deliver his soul from hell."
+        },
+        {
+          "number": 15,
+          "text": "My son, if your heart is wise, My heart will rejoice—indeed, I myself;"
+        },
+        {
+          "number": 16,
+          "text": "Yes, my inmost being will rejoice When your lips speak right things."
+        },
+        {
+          "number": 17,
+          "text": "Do not let your heart envy sinners, But be zealous for the fear of the LORD all the day;"
+        },
+        {
+          "number": 18,
+          "text": "For surely there is a hereafter, And your hope will not be cut off."
+        },
+        {
+          "number": 19,
+          "text": "Hear, my son, and be wise; And guide your heart in the way."
+        },
+        {
+          "number": 20,
+          "text": "Do not mix with winebibbers, Or with gluttonous eaters of meat;"
+        },
+        {
+          "number": 21,
+          "text": "For the drunkard and the glutton will come to poverty, And drowsiness will clothe a man with rags."
+        },
+        {
+          "number": 22,
+          "text": "Listen to your father who begot you, And do not despise your mother when she is old."
+        },
+        {
+          "number": 23,
+          "text": "Buy the truth, and do not sell it, Also wisdom and instruction and understanding."
+        },
+        {
+          "number": 24,
+          "text": "The father of the righteous will greatly rejoice, And he who begets a wise child will delight in him."
+        },
+        {
+          "number": 25,
+          "text": "Let your father and your mother be glad, And let her who bore you rejoice."
+        },
+        {
+          "number": 26,
+          "text": "My son, give me your heart, And let your eyes observe my ways."
+        },
+        {
+          "number": 27,
+          "text": "For a harlot is a deep pit, And a seductress is a narrow well."
+        },
+        {
+          "number": 28,
+          "text": "She also lies in wait as for a victim, And increases the unfaithful among men."
+        },
+        {
+          "number": 29,
+          "text": "Who has woe? Who has sorrow? Who has contentions? Who has complaints? Who has wounds without cause? Who has redness of eyes?"
+        },
+        {
+          "number": 30,
+          "text": "Those who linger long at the wine, Those who go in search of mixed wine."
+        },
+        {
+          "number": 31,
+          "text": "Do not look on the wine when it is red, When it sparkles in the cup, When it swirls around smoothly;"
+        },
+        {
+          "number": 32,
+          "text": "At the last it bites like a serpent, And stings like a viper."
+        },
+        {
+          "number": 33,
+          "text": "Your eyes will see strange things, And your heart will utter perverse things."
+        },
+        {
+          "number": 34,
+          "text": "Yes, you will be like one who lies down in the midst of the sea, Or like one who lies at the top of the mast, saying:"
+        },
+        {
+          "number": 35,
+          "text": "“They have struck me, but I was not hurt; They have beaten me, but I did not feel it. When shall I awake, that I may seek another drink?”"
+        }
+      ]
+    },
+    {
+      "id": "PRO.24",
+      "number": 24,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Do not be envious of evil men, Nor desire to be with them;"
+        },
+        {
+          "number": 2,
+          "text": "For their heart devises violence, And their lips talk of troublemaking."
+        },
+        {
+          "number": 3,
+          "text": "Through wisdom a house is built, And by understanding it is established;"
+        },
+        {
+          "number": 4,
+          "text": "By knowledge the rooms are filled With all precious and pleasant riches."
+        },
+        {
+          "number": 5,
+          "text": "A wise man is strong, Yes, a man of knowledge increases strength;"
+        },
+        {
+          "number": 6,
+          "text": "For by wise counsel you will wage your own war, And in a multitude of counselors there is safety."
+        },
+        {
+          "number": 7,
+          "text": "Wisdom is too lofty for a fool; He does not open his mouth in the gate."
+        },
+        {
+          "number": 8,
+          "text": "He who plots to do evil Will be called a schemer."
+        },
+        {
+          "number": 9,
+          "text": "The devising of foolishness is sin, And the scoffer is an abomination to men."
+        },
+        {
+          "number": 10,
+          "text": "If you faint in the day of adversity, Your strength is small."
+        },
+        {
+          "number": 11,
+          "text": "Deliver those who are drawn toward death, And hold back those stumbling to the slaughter."
+        },
+        {
+          "number": 12,
+          "text": "If you say, “Surely we did not know this,” Does not He who weighs the hearts consider it? He who keeps your soul, does He not know it? And will He not render to each man according to his deeds?"
+        },
+        {
+          "number": 13,
+          "text": "My son, eat honey because it is good, And the honeycomb which is sweet to your taste;"
+        },
+        {
+          "number": 14,
+          "text": "So shall the knowledge of wisdom be to your soul; If you have found it, there is a prospect, And your hope will not be cut off."
+        },
+        {
+          "number": 15,
+          "text": "Do not lie in wait, O wicked man, against the dwelling of the righteous; Do not plunder his resting place;"
+        },
+        {
+          "number": 16,
+          "text": "For a righteous man may fall seven times And rise again, But the wicked shall fall by calamity."
+        },
+        {
+          "number": 17,
+          "text": "Do not rejoice when your enemy falls, And do not let your heart be glad when he stumbles;"
+        },
+        {
+          "number": 18,
+          "text": "Lest the LORD see it, and it displease Him, And He turn away His wrath from him."
+        },
+        {
+          "number": 19,
+          "text": "Do not fret because of evildoers, Nor be envious of the wicked;"
+        },
+        {
+          "number": 20,
+          "text": "For there will be no prospect for the evil man; The lamp of the wicked will be put out."
+        },
+        {
+          "number": 21,
+          "text": "My son, fear the LORD and the king; Do not associate with those given to change;"
+        },
+        {
+          "number": 22,
+          "text": "For their calamity will rise suddenly, And who knows the ruin those two can bring?"
+        },
+        {
+          "number": 23,
+          "text": "These things also belong to the wise: It is not good to show partiality in judgment."
+        },
+        {
+          "number": 24,
+          "text": "He who says to the wicked, “You are righteous,” Him the people will curse; Nations will abhor him."
+        },
+        {
+          "number": 25,
+          "text": "But those who rebuke the wicked will have delight, And a good blessing will come upon them."
+        },
+        {
+          "number": 26,
+          "text": "He who gives a right answer kisses the lips."
+        },
+        {
+          "number": 27,
+          "text": "Prepare your outside work, Make it fit for yourself in the field; And afterward build your house."
+        },
+        {
+          "number": 28,
+          "text": "Do not be a witness against your neighbor without cause, For would you deceive with your lips?"
+        },
+        {
+          "number": 29,
+          "text": "Do not say, “I will do to him just as he has done to me; I will render to the man according to his work.”"
+        },
+        {
+          "number": 30,
+          "text": "I went by the field of the lazy man, And by the vineyard of the man devoid of understanding;"
+        },
+        {
+          "number": 31,
+          "text": "And there it was, all overgrown with thorns; Its surface was covered with nettles; Its stone wall was broken down."
+        },
+        {
+          "number": 32,
+          "text": "When I saw it, I considered it well; I looked on it and received instruction:"
+        },
+        {
+          "number": 33,
+          "text": "A little sleep, a little slumber, A little folding of the hands to rest;"
+        },
+        {
+          "number": 34,
+          "text": "So shall your poverty come like a prowler, And your need like an armed man."
+        }
+      ]
+    },
+    {
+      "id": "PRO.25",
+      "number": 25,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "These also are proverbs of Solomon which the men of Hezekiah king of Judah copied:"
+        },
+        {
+          "number": 2,
+          "text": "It is the glory of God to conceal a matter, But the glory of kings is to search out a matter."
+        },
+        {
+          "number": 3,
+          "text": "As the heavens for height and the earth for depth, So the heart of kings is unsearchable."
+        },
+        {
+          "number": 4,
+          "text": "Take away the dross from silver, And it will go to the silversmith for jewelry."
+        },
+        {
+          "number": 5,
+          "text": "Take away the wicked from before the king, And his throne will be established in righteousness."
+        },
+        {
+          "number": 6,
+          "text": "Do not exalt yourself in the presence of the king, And do not stand in the place of the great;"
+        },
+        {
+          "number": 7,
+          "text": "For it is better that he say to you, “Come up here,” Than that you should be put lower in the presence of the prince, Whom your eyes have seen."
+        },
+        {
+          "number": 8,
+          "text": "Do not go hastily to court; For what will you do in the end, When your neighbor has put you to shame?"
+        },
+        {
+          "number": 9,
+          "text": "Debate your case with your neighbor, And do not disclose the secret to another;"
+        },
+        {
+          "number": 10,
+          "text": "Lest he who hears it expose your shame, And your reputation be ruined."
+        },
+        {
+          "number": 11,
+          "text": "A word fitly spoken is like apples of gold In settings of silver."
+        },
+        {
+          "number": 12,
+          "text": "Like an earring of gold and an ornament of fine gold Is a wise rebuker to an obedient ear."
+        },
+        {
+          "number": 13,
+          "text": "Like the cold of snow in time of harvest Is a faithful messenger to those who send him, For he refreshes the soul of his masters."
+        },
+        {
+          "number": 14,
+          "text": "Whoever falsely boasts of giving Is like clouds and wind without rain."
+        },
+        {
+          "number": 15,
+          "text": "By long forbearance a ruler is persuaded, And a gentle tongue breaks a bone."
+        },
+        {
+          "number": 16,
+          "text": "Have you found honey? Eat only as much as you need, Lest you be filled with it and vomit."
+        },
+        {
+          "number": 17,
+          "text": "Seldom set foot in your neighbor’s house, Lest he become weary of you and hate you."
+        },
+        {
+          "number": 18,
+          "text": "A man who bears false witness against his neighbor Is like a club, a sword, and a sharp arrow."
+        },
+        {
+          "number": 19,
+          "text": "Confidence in an unfaithful man in time of trouble Is like a bad tooth and a foot out of joint."
+        },
+        {
+          "number": 20,
+          "text": "Like one who takes away a garment in cold weather, And like vinegar on soda, Is one who sings songs to a heavy heart."
+        },
+        {
+          "number": 21,
+          "text": "If your enemy is hungry, give him bread to eat; And if he is thirsty, give him water to drink;"
+        },
+        {
+          "number": 22,
+          "text": "For so you will heap coals of fire on his head, And the LORD will reward you."
+        },
+        {
+          "number": 23,
+          "text": "The north wind brings forth rain, And a backbiting tongue an angry countenance."
+        },
+        {
+          "number": 24,
+          "text": "It is better to dwell in a corner of a housetop, Than in a house shared with a contentious woman."
+        },
+        {
+          "number": 25,
+          "text": "As cold water to a weary soul, So is good news from a far country."
+        },
+        {
+          "number": 26,
+          "text": "A righteous man who falters before the wicked Is like a murky spring and a polluted well."
+        },
+        {
+          "number": 27,
+          "text": "It is not good to eat much honey; So to seek one’s own glory is not glory."
+        },
+        {
+          "number": 28,
+          "text": "Whoever has no rule over his own spirit Is like a city broken down, without walls."
+        }
+      ]
+    },
+    {
+      "id": "PRO.26",
+      "number": 26,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "As snow in summer and rain in harvest, So honor is not fitting for a fool."
+        },
+        {
+          "number": 2,
+          "text": "Like a flitting sparrow, like a flying swallow, So a curse without cause shall not alight."
+        },
+        {
+          "number": 3,
+          "text": "A whip for the horse, A bridle for the donkey, And a rod for the fool’s back."
+        },
+        {
+          "number": 4,
+          "text": "Do not answer a fool according to his folly, Lest you also be like him."
+        },
+        {
+          "number": 5,
+          "text": "Answer a fool according to his folly, Lest he be wise in his own eyes."
+        },
+        {
+          "number": 6,
+          "text": "He who sends a message by the hand of a fool Cuts off his own feet and drinks violence."
+        },
+        {
+          "number": 7,
+          "text": "Like the legs of the lame that hang limp Is a proverb in the mouth of fools."
+        },
+        {
+          "number": 8,
+          "text": "Like one who binds a stone in a sling Is he who gives honor to a fool."
+        },
+        {
+          "number": 9,
+          "text": "Like a thorn that goes into the hand of a drunkard Is a proverb in the mouth of fools."
+        },
+        {
+          "number": 10,
+          "text": "The great God who formed everything Gives the fool his hire and the transgressor his wages."
+        },
+        {
+          "number": 11,
+          "text": "As a dog returns to his own vomit, So a fool repeats his folly."
+        },
+        {
+          "number": 12,
+          "text": "Do you see a man wise in his own eyes? There is more hope for a fool than for him."
+        },
+        {
+          "number": 13,
+          "text": "The lazy man says, “There is a lion in the road! A fierce lion is in the streets!”"
+        },
+        {
+          "number": 14,
+          "text": "As a door turns on its hinges, So does the lazy man on his bed."
+        },
+        {
+          "number": 15,
+          "text": "The lazy man buries his hand in the bowl; It wearies him to bring it back to his mouth."
+        },
+        {
+          "number": 16,
+          "text": "The lazy man is wiser in his own eyes Than seven men who can answer sensibly."
+        },
+        {
+          "number": 17,
+          "text": "He who passes by and meddles in a quarrel not his own Is like one who takes a dog by the ears."
+        },
+        {
+          "number": 18,
+          "text": "Like a madman who throws firebrands, arrows, and death,"
+        },
+        {
+          "number": 19,
+          "text": "Is the man who deceives his neighbor, And says, “I was only joking!”"
+        },
+        {
+          "number": 20,
+          "text": "Where there is no wood, the fire goes out; And where there is no talebearer, strife ceases."
+        },
+        {
+          "number": 21,
+          "text": "As charcoal is to burning coals, and wood to fire, So is a contentious man to kindle strife."
+        },
+        {
+          "number": 22,
+          "text": "The words of a talebearer are like tasty trifles, And they go down into the inmost body."
+        },
+        {
+          "number": 23,
+          "text": "Fervent lips with a wicked heart Are like earthenware covered with silver dross."
+        },
+        {
+          "number": 24,
+          "text": "He who hates, disguises it with his lips, And lays up deceit within himself;"
+        },
+        {
+          "number": 25,
+          "text": "When he speaks kindly, do not believe him, For there are seven abominations in his heart;"
+        },
+        {
+          "number": 26,
+          "text": "Though his hatred is covered by deceit, His wickedness will be revealed before the assembly."
+        },
+        {
+          "number": 27,
+          "text": "Whoever digs a pit will fall into it, And he who rolls a stone will have it roll back on him."
+        },
+        {
+          "number": 28,
+          "text": "A lying tongue hates those who are crushed by it, And a flattering mouth works ruin."
+        }
+      ]
+    },
+    {
+      "id": "PRO.27",
+      "number": 27,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Do not boast about tomorrow, For you do not know what a day may bring forth."
+        },
+        {
+          "number": 2,
+          "text": "Let another man praise you, and not your own mouth; A stranger, and not your own lips."
+        },
+        {
+          "number": 3,
+          "text": "A stone is heavy and sand is weighty, But a fool’s wrath is heavier than both of them."
+        },
+        {
+          "number": 4,
+          "text": "Wrath is cruel and anger a torrent, But who is able to stand before jealousy?"
+        },
+        {
+          "number": 5,
+          "text": "Open rebuke is better Than love carefully concealed."
+        },
+        {
+          "number": 6,
+          "text": "Faithful are the wounds of a friend, But the kisses of an enemy are deceitful."
+        },
+        {
+          "number": 7,
+          "text": "A satisfied soul loathes the honeycomb, But to a hungry soul every bitter thing is sweet."
+        },
+        {
+          "number": 8,
+          "text": "Like a bird that wanders from its nest Is a man who wanders from his place."
+        },
+        {
+          "number": 9,
+          "text": "Ointment and perfume delight the heart, And the sweetness of a man’s friend gives delight by hearty counsel."
+        },
+        {
+          "number": 10,
+          "text": "Do not forsake your own friend or your father’s friend, Nor go to your brother’s house in the day of your calamity; Better is a neighbor nearby than a brother far away."
+        },
+        {
+          "number": 11,
+          "text": "My son, be wise, and make my heart glad, That I may answer him who reproaches me."
+        },
+        {
+          "number": 12,
+          "text": "A prudent man foresees evil and hides himself; The simple pass on and are punished."
+        },
+        {
+          "number": 13,
+          "text": "Take the garment of him who is surety for a stranger, And hold it in pledge when he is surety for a seductress."
+        },
+        {
+          "number": 14,
+          "text": "He who blesses his friend with a loud voice, rising early in the morning, It will be counted a curse to him."
+        },
+        {
+          "number": 15,
+          "text": "A continual dripping on a very rainy day And a contentious woman are alike;"
+        },
+        {
+          "number": 16,
+          "text": "Whoever restrains her restrains the wind, And grasps oil with his right hand."
+        },
+        {
+          "number": 17,
+          "text": "As iron sharpens iron, So a man sharpens the countenance of his friend."
+        },
+        {
+          "number": 18,
+          "text": "Whoever keeps the fig tree will eat its fruit; So he who waits on his master will be honored."
+        },
+        {
+          "number": 19,
+          "text": "As in water face reflects face, So a man’s heart reveals the man."
+        },
+        {
+          "number": 20,
+          "text": "Hell and Destruction are never full; So the eyes of man are never satisfied."
+        },
+        {
+          "number": 21,
+          "text": "The refining pot is for silver and the furnace for gold, And a man is valued by what others say of him."
+        },
+        {
+          "number": 22,
+          "text": "Though you grind a fool in a mortar with a pestle along with crushed grain, Yet his foolishness will not depart from him."
+        },
+        {
+          "number": 23,
+          "text": "Be diligent to know the state of your flocks, And attend to your herds;"
+        },
+        {
+          "number": 24,
+          "text": "For riches are not forever, Nor does a crown endure to all generations."
+        },
+        {
+          "number": 25,
+          "text": "When the hay is removed, and the tender grass shows itself, And the herbs of the mountains are gathered in,"
+        },
+        {
+          "number": 26,
+          "text": "The lambs will provide your clothing, And the goats the price of a field;"
+        },
+        {
+          "number": 27,
+          "text": "You shall have enough goats’ milk for your food, For the food of your household, And the nourishment of your maidservants."
+        }
+      ]
+    },
+    {
+      "id": "PRO.28",
+      "number": 28,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The wicked flee when no one pursues, But the righteous are bold as a lion."
+        },
+        {
+          "number": 2,
+          "text": "Because of the transgression of a land, many are its princes; But by a man of understanding and knowledge Right will be prolonged."
+        },
+        {
+          "number": 3,
+          "text": "A poor man who oppresses the poor Is like a driving rain which leaves no food."
+        },
+        {
+          "number": 4,
+          "text": "Those who forsake the law praise the wicked, But such as keep the law contend with them."
+        },
+        {
+          "number": 5,
+          "text": "Evil men do not understand justice, But those who seek the LORD understand all."
+        },
+        {
+          "number": 6,
+          "text": "Better is the poor who walks in his integrity Than one perverse in his ways, though he be rich."
+        },
+        {
+          "number": 7,
+          "text": "Whoever keeps the law is a discerning son, But a companion of gluttons shames his father."
+        },
+        {
+          "number": 8,
+          "text": "One who increases his possessions by usury and extortion Gathers it for him who will pity the poor."
+        },
+        {
+          "number": 9,
+          "text": "One who turns away his ear from hearing the law, Even his prayer is an abomination."
+        },
+        {
+          "number": 10,
+          "text": "Whoever causes the upright to go astray in an evil way, He himself will fall into his own pit; But the blameless will inherit good."
+        },
+        {
+          "number": 11,
+          "text": "The rich man is wise in his own eyes, But the poor who has understanding searches him out."
+        },
+        {
+          "number": 12,
+          "text": "When the righteous rejoice, there is great glory; But when the wicked arise, men hide themselves."
+        },
+        {
+          "number": 13,
+          "text": "He who covers his sins will not prosper, But whoever confesses and forsakes them will have mercy."
+        },
+        {
+          "number": 14,
+          "text": "Happy is the man who is always reverent, But he who hardens his heart will fall into calamity."
+        },
+        {
+          "number": 15,
+          "text": "Like a roaring lion and a charging bear Is a wicked ruler over poor people."
+        },
+        {
+          "number": 16,
+          "text": "A ruler who lacks understanding is a great oppressor, But he who hates covetousness will prolong his days."
+        },
+        {
+          "number": 17,
+          "text": "A man burdened with bloodshed will flee into a pit; Let no one help him."
+        },
+        {
+          "number": 18,
+          "text": "Whoever walks blamelessly will be saved, But he who is perverse in his ways will suddenly fall."
+        },
+        {
+          "number": 19,
+          "text": "He who tills his land will have plenty of bread, But he who follows frivolity will have poverty enough!"
+        },
+        {
+          "number": 20,
+          "text": "A faithful man will abound with blessings, But he who hastens to be rich will not go unpunished."
+        },
+        {
+          "number": 21,
+          "text": "To show partiality is not good, Because for a piece of bread a man will transgress."
+        },
+        {
+          "number": 22,
+          "text": "A man with an evil eye hastens after riches, And does not consider that poverty will come upon him."
+        },
+        {
+          "number": 23,
+          "text": "He who rebukes a man will find more favor afterward Than he who flatters with the tongue."
+        },
+        {
+          "number": 24,
+          "text": "Whoever robs his father or his mother, And says, “It is no transgression,” The same is companion to a destroyer."
+        },
+        {
+          "number": 25,
+          "text": "He who is of a proud heart stirs up strife, But he who trusts in the LORD will be prospered."
+        },
+        {
+          "number": 26,
+          "text": "He who trusts in his own heart is a fool, But whoever walks wisely will be delivered."
+        },
+        {
+          "number": 27,
+          "text": "He who gives to the poor will not lack, But he who hides his eyes will have many curses."
+        },
+        {
+          "number": 28,
+          "text": "When the wicked arise, men hide themselves; But when they perish, the righteous increase."
+        }
+      ]
+    },
+    {
+      "id": "PRO.29",
+      "number": 29,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "He who is often rebuked, and hardens his neck, Will suddenly be destroyed, and that without remedy."
+        },
+        {
+          "number": 2,
+          "text": "When the righteous are in authority, the people rejoice; But when a wicked man rules, the people groan."
+        },
+        {
+          "number": 3,
+          "text": "Whoever loves wisdom makes his father rejoice, But a companion of harlots wastes his wealth."
+        },
+        {
+          "number": 4,
+          "text": "The king establishes the land by justice, But he who receives bribes overthrows it."
+        },
+        {
+          "number": 5,
+          "text": "A man who flatters his neighbor Spreads a net for his feet."
+        },
+        {
+          "number": 6,
+          "text": "By transgression an evil man is snared, But the righteous sings and rejoices."
+        },
+        {
+          "number": 7,
+          "text": "The righteous considers the cause of the poor, But the wicked does not understand such knowledge."
+        },
+        {
+          "number": 8,
+          "text": "Scoffers set a city aflame, But wise men turn away wrath."
+        },
+        {
+          "number": 9,
+          "text": "If a wise man contends with a foolish man, Whether the fool rages or laughs, there is no peace."
+        },
+        {
+          "number": 10,
+          "text": "The bloodthirsty hate the blameless, But the upright seek his well-being."
+        },
+        {
+          "number": 11,
+          "text": "A fool vents all his feelings, But a wise man holds them back."
+        },
+        {
+          "number": 12,
+          "text": "If a ruler pays attention to lies, All his servants become wicked."
+        },
+        {
+          "number": 13,
+          "text": "The poor man and the oppressor have this in common: The LORD gives light to the eyes of both."
+        },
+        {
+          "number": 14,
+          "text": "The king who judges the poor with truth, His throne will be established forever."
+        },
+        {
+          "number": 15,
+          "text": "The rod and rebuke give wisdom, But a child left to himself brings shame to his mother."
+        },
+        {
+          "number": 16,
+          "text": "When the wicked are multiplied, transgression increases; But the righteous will see their fall."
+        },
+        {
+          "number": 17,
+          "text": "Correct your son, and he will give you rest; Yes, he will give delight to your soul."
+        },
+        {
+          "number": 18,
+          "text": "Where there is no revelation, the people cast off restraint; But happy is he who keeps the law."
+        },
+        {
+          "number": 19,
+          "text": "A servant will not be corrected by mere words; For though he understands, he will not respond."
+        },
+        {
+          "number": 20,
+          "text": "Do you see a man hasty in his words? There is more hope for a fool than for him."
+        },
+        {
+          "number": 21,
+          "text": "He who pampers his servant from childhood Will have him as a son in the end."
+        },
+        {
+          "number": 22,
+          "text": "An angry man stirs up strife, And a furious man abounds in transgression."
+        },
+        {
+          "number": 23,
+          "text": "A man’s pride will bring him low, But the humble in spirit will retain honor."
+        },
+        {
+          "number": 24,
+          "text": "Whoever is a partner with a thief hates his own life; He swears to tell the truth, but reveals nothing."
+        },
+        {
+          "number": 25,
+          "text": "The fear of man brings a snare, But whoever trusts in the LORD shall be safe."
+        },
+        {
+          "number": 26,
+          "text": "Many seek the ruler’s favor, But justice for man comes from the LORD."
+        },
+        {
+          "number": 27,
+          "text": "An unjust man is an abomination to the righteous, And he who is upright in the way is an abomination to the wicked."
+        }
+      ]
+    },
+    {
+      "id": "PRO.30",
+      "number": 30,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The words of Agur the son of Jakeh, his utterance. This man declared to Ithiel—to Ithiel and Ucal:"
+        },
+        {
+          "number": 2,
+          "text": "Surely I am more stupid than any man, And do not have the understanding of a man."
+        },
+        {
+          "number": 3,
+          "text": "I neither learned wisdom Nor have knowledge of the Holy One."
+        },
+        {
+          "number": 4,
+          "text": "Who has ascended into heaven, or descended? Who has gathered the wind in His fists? Who has bound the waters in a garment? Who has established all the ends of the earth? What is His name, and what is His Son’s name, If you know?"
+        },
+        {
+          "number": 5,
+          "text": "Every word of God is pure; He is a shield to those who put their trust in Him."
+        },
+        {
+          "number": 6,
+          "text": "Do not add to His words, Lest He rebuke you, and you be found a liar."
+        },
+        {
+          "number": 7,
+          "text": "Two things I request of You (Deprive me not before I die):"
+        },
+        {
+          "number": 8,
+          "text": "Remove falsehood and lies far from me; Give me neither poverty nor riches— Feed me with the food allotted to me;"
+        },
+        {
+          "number": 9,
+          "text": "Lest I be full and deny You, And say, “Who is the LORD?” Or lest I be poor and steal, And profane the name of my God."
+        },
+        {
+          "number": 10,
+          "text": "Do not malign a servant to his master, Lest he curse you, and you be found guilty."
+        },
+        {
+          "number": 11,
+          "text": "There is a generation that curses its father, And does not bless its mother."
+        },
+        {
+          "number": 12,
+          "text": "There is a generation that is pure in its own eyes, Yet is not washed from its filthiness."
+        },
+        {
+          "number": 13,
+          "text": "There is a generation—oh, how lofty are their eyes! And their eyelids are lifted up."
+        },
+        {
+          "number": 14,
+          "text": "There is a generation whose teeth are like swords, And whose fangs are like knives, To devour the poor from off the earth, And the needy from among men."
+        },
+        {
+          "number": 15,
+          "text": "The leech has two daughters— Give and Give! There are three things that are never satisfied, Four never say, “Enough!”:"
+        },
+        {
+          "number": 16,
+          "text": "The grave, The barren womb, The earth that is not satisfied with water— And the fire never says, “Enough!”"
+        },
+        {
+          "number": 17,
+          "text": "The eye that mocks his father, And scorns obedience to his mother, The ravens of the valley will pick it out, And the young eagles will eat it."
+        },
+        {
+          "number": 18,
+          "text": "There are three things which are too wonderful for me, Yes, four which I do not understand:"
+        },
+        {
+          "number": 19,
+          "text": "The way of an eagle in the air, The way of a serpent on a rock, The way of a ship in the midst of the sea, And the way of a man with a virgin."
+        },
+        {
+          "number": 20,
+          "text": "This is the way of an adulterous woman: She eats and wipes her mouth, And says, “I have done no wickedness.”"
+        },
+        {
+          "number": 21,
+          "text": "For three things the earth is perturbed, Yes, for four it cannot bear up:"
+        },
+        {
+          "number": 22,
+          "text": "For a servant when he reigns, A fool when he is filled with food,"
+        },
+        {
+          "number": 23,
+          "text": "A hateful woman when she is married, And a maidservant who succeeds her mistress."
+        },
+        {
+          "number": 24,
+          "text": "There are four things which are little on the earth, But they are exceedingly wise:"
+        },
+        {
+          "number": 25,
+          "text": "The ants are a people not strong, Yet they prepare their food in the summer;"
+        },
+        {
+          "number": 26,
+          "text": "The rock badgers are a feeble folk, Yet they make their homes in the crags;"
+        },
+        {
+          "number": 27,
+          "text": "The locusts have no king, Yet they all advance in ranks;"
+        },
+        {
+          "number": 28,
+          "text": "The spider skillfully grasps with its hands, And it is in kings’ palaces."
+        },
+        {
+          "number": 29,
+          "text": "There are three things which are majestic in pace, Yes, four which are stately in walk:"
+        },
+        {
+          "number": 30,
+          "text": "A lion, which is mighty among beasts And does not turn away from any;"
+        },
+        {
+          "number": 31,
+          "text": "A greyhound, A male goat also, And a king whose troops are with him."
+        },
+        {
+          "number": 32,
+          "text": "If you have been foolish in exalting yourself, Or if you have devised evil, put your hand on your mouth."
+        },
+        {
+          "number": 33,
+          "text": "For as the churning of milk produces butter, And wringing the nose produces blood, So the forcing of wrath produces strife."
+        }
+      ]
+    },
+    {
+      "id": "PRO.31",
+      "number": 31,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "The words of King Lemuel, the utterance which his mother taught him:"
+        },
+        {
+          "number": 2,
+          "text": "What, my son? And what, son of my womb? And what, son of my vows?"
+        },
+        {
+          "number": 3,
+          "text": "Do not give your strength to women, Nor your ways to that which destroys kings."
+        },
+        {
+          "number": 4,
+          "text": "It is not for kings, O Lemuel, It is not for kings to drink wine, Nor for princes intoxicating drink;"
+        },
+        {
+          "number": 5,
+          "text": "Lest they drink and forget the law, And pervert the justice of all the afflicted."
+        },
+        {
+          "number": 6,
+          "text": "Give strong drink to him who is perishing, And wine to those who are bitter of heart."
+        },
+        {
+          "number": 7,
+          "text": "Let him drink and forget his poverty, And remember his misery no more."
+        },
+        {
+          "number": 8,
+          "text": "Open your mouth for the speechless, In the cause of all who are appointed to die."
+        },
+        {
+          "number": 9,
+          "text": "Open your mouth, judge righteously, And plead the cause of the poor and needy."
+        },
+        {
+          "number": 10,
+          "text": "Who can find a virtuous wife? For her worth is far above rubies."
+        },
+        {
+          "number": 11,
+          "text": "The heart of her husband safely trusts her; So he will have no lack of gain."
+        },
+        {
+          "number": 12,
+          "text": "She does him good and not evil All the days of her life."
+        },
+        {
+          "number": 13,
+          "text": "She seeks wool and flax, And willingly works with her hands."
+        },
+        {
+          "number": 14,
+          "text": "She is like the merchant ships, She brings her food from afar."
+        },
+        {
+          "number": 15,
+          "text": "She also rises while it is yet night, And provides food for her household, And a portion for her maidservants."
+        },
+        {
+          "number": 16,
+          "text": "She considers a field and buys it; From her profits she plants a vineyard."
+        },
+        {
+          "number": 17,
+          "text": "She girds herself with strength, And strengthens her arms."
+        },
+        {
+          "number": 18,
+          "text": "She perceives that her merchandise is good, And her lamp does not go out by night."
+        },
+        {
+          "number": 19,
+          "text": "She stretches out her hands to the distaff, And her hand holds the spindle."
+        },
+        {
+          "number": 20,
+          "text": "She extends her hand to the poor, Yes, she reaches out her hands to the needy."
+        },
+        {
+          "number": 21,
+          "text": "She is not afraid of snow for her household, For all her household is clothed with scarlet."
+        },
+        {
+          "number": 22,
+          "text": "She makes tapestry for herself; Her clothing is fine linen and purple."
+        },
+        {
+          "number": 23,
+          "text": "Her husband is known in the gates, When he sits among the elders of the land."
+        },
+        {
+          "number": 24,
+          "text": "She makes linen garments and sells them, And supplies sashes for the merchants."
+        },
+        {
+          "number": 25,
+          "text": "Strength and honor are her clothing; She shall rejoice in time to come."
+        },
+        {
+          "number": 26,
+          "text": "She opens her mouth with wisdom, And on her tongue is the law of kindness."
+        },
+        {
+          "number": 27,
+          "text": "She watches over the ways of her household, And does not eat the bread of idleness."
+        },
+        {
+          "number": 28,
+          "text": "Her children rise up and call her blessed; Her husband also, and he praises her:"
+        },
+        {
+          "number": 29,
+          "text": "“Many daughters have done well, But you excel them all.”"
+        },
+        {
+          "number": 30,
+          "text": "Charm is deceitful and beauty is passing, But a woman who fears the LORD, she shall be praised."
+        },
+        {
+          "number": 31,
+          "text": "Give her of the fruit of her hands, And let her own works praise her in the gates."
+        }
+      ]
+    }
+  ]
+}

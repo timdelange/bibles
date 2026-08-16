@@ -1,0 +1,462 @@
+{
+  "id": "1JN",
+  "name": "1 John",
+  "abbreviation": "1 John",
+  "chapters": [
+    {
+      "id": "1JN.1",
+      "number": 1,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, concerning the Word of life—"
+        },
+        {
+          "number": 2,
+          "text": "the life was manifested, and we have seen, and bear witness, and declare to you that eternal life which was with the Father and was manifested to us—"
+        },
+        {
+          "number": 3,
+          "text": "that which we have seen and heard we declare to you, that you also may have fellowship with us; and truly our fellowship is with the Father and with His Son Jesus Christ."
+        },
+        {
+          "number": 4,
+          "text": "And these things we write to you that your joy may be full."
+        },
+        {
+          "number": 5,
+          "text": "This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all."
+        },
+        {
+          "number": 6,
+          "text": "If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth."
+        },
+        {
+          "number": 7,
+          "text": "But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin."
+        },
+        {
+          "number": 8,
+          "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us."
+        },
+        {
+          "number": 9,
+          "text": "If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
+        },
+        {
+          "number": 10,
+          "text": "If we say that we have not sinned, we make Him a liar, and His word is not in us."
+        }
+      ]
+    },
+    {
+      "id": "1JN.2",
+      "number": 2,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous."
+        },
+        {
+          "number": 2,
+          "text": "And He Himself is the propitiation for our sins, and not for ours only but also for the whole world."
+        },
+        {
+          "number": 3,
+          "text": "Now by this we know that we know Him, if we keep His commandments."
+        },
+        {
+          "number": 4,
+          "text": "He who says, “I know Him,” and does not keep His commandments, is a liar, and the truth is not in him."
+        },
+        {
+          "number": 5,
+          "text": "But whoever keeps His word, truly the love of God is perfected in him. By this we know that we are in Him."
+        },
+        {
+          "number": 6,
+          "text": "He who says he abides in Him ought himself also to walk just as He walked."
+        },
+        {
+          "number": 7,
+          "text": "Brethren, I write no new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word which you heard from the beginning."
+        },
+        {
+          "number": 8,
+          "text": "Again, a new commandment I write to you, which thing is true in Him and in you, because the darkness is passing away, and the true light is already shining."
+        },
+        {
+          "number": 9,
+          "text": "He who says he is in the light, and hates his brother, is in darkness until now."
+        },
+        {
+          "number": 10,
+          "text": "He who loves his brother abides in the light, and there is no cause for stumbling in him."
+        },
+        {
+          "number": 11,
+          "text": "But he who hates his brother is in darkness and walks in darkness, and does not know where he is going, because the darkness has blinded his eyes."
+        },
+        {
+          "number": 12,
+          "text": "I write to you, little children, Because your sins are forgiven you for His name’s sake."
+        },
+        {
+          "number": 13,
+          "text": "I write to you, fathers, Because you have known Him who is from the beginning. I write to you, young men, Because you have overcome the wicked one. I write to you, little children, Because you have known the Father."
+        },
+        {
+          "number": 14,
+          "text": "I have written to you, fathers, Because you have known Him who is from the beginning. I have written to you, young men, Because you are strong, and the word of God abides in you, And you have overcome the wicked one."
+        },
+        {
+          "number": 15,
+          "text": "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him."
+        },
+        {
+          "number": 16,
+          "text": "For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world."
+        },
+        {
+          "number": 17,
+          "text": "And the world is passing away, and the lust of it; but he who does the will of God abides forever."
+        },
+        {
+          "number": 18,
+          "text": "Little children, it is the last hour; and as you have heard that the Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour."
+        },
+        {
+          "number": 19,
+          "text": "They went out from us, but they were not of us; for if they had been of us, they would have continued with us; but they went out that they might be made manifest, that none of them were of us."
+        },
+        {
+          "number": 20,
+          "text": "But you have an anointing from the Holy One, and you know all things."
+        },
+        {
+          "number": 21,
+          "text": "I have not written to you because you do not know the truth, but because you know it, and that no lie is of the truth."
+        },
+        {
+          "number": 22,
+          "text": "Who is a liar but he who denies that Jesus is the Christ? He is antichrist who denies the Father and the Son."
+        },
+        {
+          "number": 23,
+          "text": "Whoever denies the Son does not have the Father either; he who acknowledges the Son has the Father also."
+        },
+        {
+          "number": 24,
+          "text": "Therefore let that abide in you which you heard from the beginning. If what you heard from the beginning abides in you, you also will abide in the Son and in the Father."
+        },
+        {
+          "number": 25,
+          "text": "And this is the promise that He has promised us—eternal life."
+        },
+        {
+          "number": 26,
+          "text": "These things I have written to you concerning those who try to deceive you."
+        },
+        {
+          "number": 27,
+          "text": "But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not a lie, and just as it has taught you, you will abide in Him."
+        },
+        {
+          "number": 28,
+          "text": "And now, little children, abide in Him, that when He appears, we may have confidence and not be ashamed before Him at His coming."
+        },
+        {
+          "number": 29,
+          "text": "If you know that He is righteous, you know that everyone who practices righteousness is born of Him."
+        }
+      ]
+    },
+    {
+      "id": "1JN.3",
+      "number": 3,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him."
+        },
+        {
+          "number": 2,
+          "text": "Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is."
+        },
+        {
+          "number": 3,
+          "text": "And everyone who has this hope in Him purifies himself, just as He is pure."
+        },
+        {
+          "number": 4,
+          "text": "Whoever commits sin also commits lawlessness, and sin is lawlessness."
+        },
+        {
+          "number": 5,
+          "text": "And you know that He was manifested to take away our sins, and in Him there is no sin."
+        },
+        {
+          "number": 6,
+          "text": "Whoever abides in Him does not sin. Whoever sins has neither seen Him nor known Him."
+        },
+        {
+          "number": 7,
+          "text": "Little children, let no one deceive you. He who practices righteousness is righteous, just as He is righteous."
+        },
+        {
+          "number": 8,
+          "text": "He who sins is of the devil, for the devil has sinned from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil."
+        },
+        {
+          "number": 9,
+          "text": "Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God."
+        },
+        {
+          "number": 10,
+          "text": "In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother."
+        },
+        {
+          "number": 11,
+          "text": "For this is the message that you heard from the beginning, that we should love one another,"
+        },
+        {
+          "number": 12,
+          "text": "not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother’s righteous."
+        },
+        {
+          "number": 13,
+          "text": "Do not marvel, my brethren, if the world hates you."
+        },
+        {
+          "number": 14,
+          "text": "We know that we have passed from death to life, because we love the brethren. He who does not love his brother abides in death."
+        },
+        {
+          "number": 15,
+          "text": "Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him."
+        },
+        {
+          "number": 16,
+          "text": "By this we know love, because He laid down His life for us. And we also ought to lay down our lives for the brethren."
+        },
+        {
+          "number": 17,
+          "text": "But whoever has this world’s goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?"
+        },
+        {
+          "number": 18,
+          "text": "My little children, let us not love in word or in tongue, but in deed and in truth."
+        },
+        {
+          "number": 19,
+          "text": "And by this we know that we are of the truth, and shall assure our hearts before Him."
+        },
+        {
+          "number": 20,
+          "text": "For if our heart condemns us, God is greater than our heart, and knows all things."
+        },
+        {
+          "number": 21,
+          "text": "Beloved, if our heart does not condemn us, we have confidence toward God."
+        },
+        {
+          "number": 22,
+          "text": "And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight."
+        },
+        {
+          "number": 23,
+          "text": "And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment."
+        },
+        {
+          "number": 24,
+          "text": "Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us."
+        }
+      ]
+    },
+    {
+      "id": "1JN.4",
+      "number": 4,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world."
+        },
+        {
+          "number": 2,
+          "text": "By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God,"
+        },
+        {
+          "number": 3,
+          "text": "and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world."
+        },
+        {
+          "number": 4,
+          "text": "You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world."
+        },
+        {
+          "number": 5,
+          "text": "They are of the world. Therefore they speak as of the world, and the world hears them."
+        },
+        {
+          "number": 6,
+          "text": "We are of God. He who knows God hears us; he who is not of God does not hear us. By this we know the spirit of truth and the spirit of error."
+        },
+        {
+          "number": 7,
+          "text": "Beloved, let us love one another, for love is of God; and everyone who loves is born of God and knows God."
+        },
+        {
+          "number": 8,
+          "text": "He who does not love does not know God, for God is love."
+        },
+        {
+          "number": 9,
+          "text": "In this the love of God was manifested toward us, that God has sent His only begotten Son into the world, that we might live through Him."
+        },
+        {
+          "number": 10,
+          "text": "In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins."
+        },
+        {
+          "number": 11,
+          "text": "Beloved, if God so loved us, we also ought to love one another."
+        },
+        {
+          "number": 12,
+          "text": "No one has seen God at any time. If we love one another, God abides in us, and His love has been perfected in us."
+        },
+        {
+          "number": 13,
+          "text": "By this we know that we abide in Him, and He in us, because He has given us of His Spirit."
+        },
+        {
+          "number": 14,
+          "text": "And we have seen and testify that the Father has sent the Son as Savior of the world."
+        },
+        {
+          "number": 15,
+          "text": "Whoever confesses that Jesus is the Son of God, God abides in him, and he in God."
+        },
+        {
+          "number": 16,
+          "text": "And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him."
+        },
+        {
+          "number": 17,
+          "text": "Love has been perfected among us in this: that we may have boldness in the day of judgment; because as He is, so are we in this world."
+        },
+        {
+          "number": 18,
+          "text": "There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love."
+        },
+        {
+          "number": 19,
+          "text": "We love Him because He first loved us."
+        },
+        {
+          "number": 20,
+          "text": "If someone says, “I love God,” and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?"
+        },
+        {
+          "number": 21,
+          "text": "And this commandment we have from Him: that he who loves God must love his brother also."
+        }
+      ]
+    },
+    {
+      "id": "1JN.5",
+      "number": 5,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Whoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him."
+        },
+        {
+          "number": 2,
+          "text": "By this we know that we love the children of God, when we love God and keep His commandments."
+        },
+        {
+          "number": 3,
+          "text": "For this is the love of God, that we keep His commandments. And His commandments are not burdensome."
+        },
+        {
+          "number": 4,
+          "text": "For whatever is born of God overcomes the world. And this is the victory that has overcome the world—our faith."
+        },
+        {
+          "number": 5,
+          "text": "Who is he who overcomes the world, but he who believes that Jesus is the Son of God?"
+        },
+        {
+          "number": 6,
+          "text": "This is He who came by water and blood—Jesus Christ; not only by water, but by water and blood. And it is the Spirit who bears witness, because the Spirit is truth."
+        },
+        {
+          "number": 7,
+          "text": "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one."
+        },
+        {
+          "number": 8,
+          "text": "And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one."
+        },
+        {
+          "number": 9,
+          "text": "If we receive the witness of men, the witness of God is greater; for this is the witness of God which He has testified of His Son."
+        },
+        {
+          "number": 10,
+          "text": "He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son."
+        },
+        {
+          "number": 11,
+          "text": "And this is the testimony: that God has given us eternal life, and this life is in His Son."
+        },
+        {
+          "number": 12,
+          "text": "He who has the Son has life; he who does not have the Son of God does not have life."
+        },
+        {
+          "number": 13,
+          "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God."
+        },
+        {
+          "number": 14,
+          "text": "Now this is the confidence that we have in Him, that if we ask anything according to His will, He hears us."
+        },
+        {
+          "number": 15,
+          "text": "And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him."
+        },
+        {
+          "number": 16,
+          "text": "If anyone sees his brother sinning a sin which does not lead to death, he will ask, and He will give him life for those who commit sin not leading to death. There is sin leading to death. I do not say that he should pray about that."
+        },
+        {
+          "number": 17,
+          "text": "All unrighteousness is sin, and there is sin not leading to death."
+        },
+        {
+          "number": 18,
+          "text": "We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him."
+        },
+        {
+          "number": 19,
+          "text": "We know that we are of God, and the whole world lies under the sway of the wicked one."
+        },
+        {
+          "number": 20,
+          "text": "And we know that the Son of God has come and has given us an understanding, that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life."
+        },
+        {
+          "number": 21,
+          "text": "Little children, keep yourselves from idols. Amen."
+        }
+      ]
+    }
+  ]
+}

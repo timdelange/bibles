@@ -12,11 +12,22 @@ Scraped text of the Afrikaans 1983/1992 Bible translation from [BibleSA](https:/
 
 ## Scraper usage
 
+Afrikaans (BibleSA, chapter-by-chapter):
+
 ```bash
 python3 scrape_afr83_bible.py
 python3 scrape_afr83_bible.py --book REV
 python3 scrape_afr83_bible.py --list-books
 python3 scrape_afr83_bible.py --resume
+```
+
+NIV and NKJV (bolls.life bulk JSON):
+
+```bash
+python3 scrape_niv_bible.py
+python3 scrape_nkjv_bible.py
+python3 scrape_bolls_bible.py NIV --book GEN
+python3 scrape_bolls_bible.py NKJV -o nkjv_output
 ```
 
 ## Copyright

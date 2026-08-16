@@ -1,0 +1,33 @@
+{
+  "id": "ISA.12",
+  "number": 12,
+  "headings": [
+    "Songs of Praise"
+  ],
+  "verses": [
+    {
+      "number": 1,
+      "text": "In that day you will say:“I will praise you, O Lord.Although you were angry with me,your anger has turned awayand you have comforted me."
+    },
+    {
+      "number": 2,
+      "text": "Surely God is my salvation; I will trust and not be afraid.The Lord, the Lord, is my strength and my song;he has become my salvation.”"
+    },
+    {
+      "number": 3,
+      "text": "With joy you will draw water from the wells of salvation."
+    },
+    {
+      "number": 4,
+      "text": "In that day you will say: “Give thanks to the Lord, call on his name;make known among the nations what he has done,and proclaim that his name is exalted."
+    },
+    {
+      "number": 5,
+      "text": "Sing to the Lord, for he has done glorious things; let this be known to all the world."
+    },
+    {
+      "number": 6,
+      "text": "Shout aloud and sing for joy, people of Zion, for great is the Holy One of Israel among you.”"
+    }
+  ]
+}

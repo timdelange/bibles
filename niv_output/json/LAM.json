@@ -1,0 +1,668 @@
+{
+  "id": "LAM",
+  "name": "Lamentations",
+  "abbreviation": "Lam.",
+  "chapters": [
+    {
+      "id": "LAM.1",
+      "number": 1,
+      "headings": [
+        "How deserted lies the city,"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "once so full of people!How like a widow is she,who once was great among the nations!She who was queen among the provinceshas now become a slave."
+        },
+        {
+          "number": 2,
+          "text": "Bitterly she weeps at night, tears are upon her cheeks.Among all her loversthere is none to comfort her.All her friends have betrayed her;they have become her enemies."
+        },
+        {
+          "number": 3,
+          "text": "After affliction and harsh labor, Judah has gone into exile.She dwells among the nations;she finds no resting place.All who pursue her have overtaken herin the midst of her distress."
+        },
+        {
+          "number": 4,
+          "text": "The roads to Zion mourn, for no one comes to her appointed feasts.All her gateways are desolate,her priests groan,her maidens grieve,and she is in bitter anguish."
+        },
+        {
+          "number": 5,
+          "text": "Her foes have become her masters; her enemies are at ease.The Lord has brought her griefbecause of her many sins.Her children have gone into exile,captive before the foe."
+        },
+        {
+          "number": 6,
+          "text": "All the splendor has departed from the Daughter of Zion.Her princes are like deerthat find no pasture;in weakness they have fledbefore the pursuer."
+        },
+        {
+          "number": 7,
+          "text": "In the days of her affliction and wandering Jerusalem remembers all the treasuresthat were hers in days of old.When her people fell into enemy hands,there was no one to help her.Her enemies looked at herand laughed at her destruction."
+        },
+        {
+          "number": 8,
+          "text": "Jerusalem has sinned greatly and so has become unclean.All who honored her despise her,for they have seen her nakedness;she herself groansand turns away."
+        },
+        {
+          "number": 9,
+          "text": "Her filthiness clung to her skirts; she did not consider her future.Her fall was astounding;there was none to comfort her.“Look, O Lord, on my affliction,for the enemy has triumphed.”"
+        },
+        {
+          "number": 10,
+          "text": "The enemy laid hands on all her treasures;she saw pagan nationsenter her sanctuary—those you had forbiddento enter your assembly."
+        },
+        {
+          "number": 11,
+          "text": "All her people groan as they search for bread;they barter their treasures for foodto keep themselves alive.“Look, O Lord, and consider,for I am despised.”"
+        },
+        {
+          "number": 12,
+          "text": "“Is it nothing to you, all you who pass by? Look around and see.Is any suffering like my sufferingthat was inflicted on me,that the Lord brought on mein the day of his fierce anger?"
+        },
+        {
+          "number": 13,
+          "text": "“From on high he sent fire, sent it down into my bones.He spread a net for my feetand turned me back.He made me desolate,faint all the day long."
+        },
+        {
+          "number": 14,
+          "text": "“My sins have been bound into a yoke; by his hands they were woven together.They have come upon my neckand the Lord has sapped my strength.He has handed me overto those I cannot withstand."
+        },
+        {
+          "number": 15,
+          "text": "“The Lord has rejected all the warriors in my midst;he has summoned an army against meto crush my young men.In his winepress the Lord has trampledthe Virgin Daughter of Judah."
+        },
+        {
+          "number": 16,
+          "text": "“This is why I weep and my eyes overflow with tears.No one is near to comfort me,no one to restore my spirit.My children are destitutebecause the enemy has prevailed.”"
+        },
+        {
+          "number": 17,
+          "text": "Zion stretches out her hands, but there is no one to comfort her.The Lord has decreed for Jacobthat his neighbors become his foes;Jerusalem has becomean unclean thing among them."
+        },
+        {
+          "number": 18,
+          "text": "“The Lord is righteous, yet I rebelled against his command.Listen, all you peoples;look upon my suffering.My young men and maidenshave gone into exile."
+        },
+        {
+          "number": 19,
+          "text": "“I called to my allies but they betrayed me.My priests and my eldersperished in the citywhile they searched for foodto keep themselves alive."
+        },
+        {
+          "number": 20,
+          "text": "“See, O Lord, how distressed I am! I am in torment within,and in my heart I am disturbed,for I have been most rebellious.Outside, the sword bereaves;inside, there is only death."
+        },
+        {
+          "number": 21,
+          "text": "“People have heard my groaning, but there is no one to comfort me.All my enemies have heard of my distress;they rejoice at what you have done.May you bring the day you have announcedso they may become like me."
+        },
+        {
+          "number": 22,
+          "text": "“Let all their wickedness come before you; deal with themas you have dealt with mebecause of all my sins.My groans are manyand my heart is faint.”"
+        }
+      ]
+    },
+    {
+      "id": "LAM.2",
+      "number": 2,
+      "headings": [
+        "How the Lord has covered the Daughter of Zion"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "with the cloud of his anger!He has hurled down the splendor of Israelfrom heaven to earth;he has not remembered his footstoolin the day of his anger."
+        },
+        {
+          "number": 2,
+          "text": "Without pity the Lord has swallowed up all the dwellings of Jacob;in his wrath he has torn downthe strongholds of the Daughter of Judah.He has brought her kingdom and its princesdown to the ground in dishonor."
+        },
+        {
+          "number": 3,
+          "text": "In fierce anger he has cut off every horn of Israel.He has withdrawn his right handat the approach of the enemy.He has burned in Jacob like a flaming firethat consumes everything around it."
+        },
+        {
+          "number": 4,
+          "text": "Like an enemy he has strung his bow; his right hand is ready.Like a foe he has slainall who were pleasing to the eye;he has poured out his wrath like fireon the tent of the Daughter of Zion."
+        },
+        {
+          "number": 5,
+          "text": "The Lord is like an enemy; he has swallowed up Israel.He has swallowed up all her palacesand destroyed her strongholds.He has multiplied mourning and lamentationfor the Daughter of Judah."
+        },
+        {
+          "number": 6,
+          "text": "He has laid waste his dwelling like a garden; he has destroyed his place of meeting.The Lord has made Zion forgether appointed feasts and her Sabbaths;in his fierce anger he has spurnedboth king and priest."
+        },
+        {
+          "number": 7,
+          "text": "The Lord has rejected his altar and abandoned his sanctuary.He has handed over to the enemythe walls of her palaces;they have raised a shout in the house of the Lordas on the day of an appointed feast."
+        },
+        {
+          "number": 8,
+          "text": "The Lord determined to tear down the wall around the Daughter of Zion.He stretched out a measuring lineand did not withhold his hand from destroying.He made ramparts and walls lament;together they wasted away."
+        },
+        {
+          "number": 9,
+          "text": "Her gates have sunk into the ground; their bars he has broken and destroyed.Her king and her princes are exiled among the nations,the law is no more,and her prophets no longer findvisions from the Lord."
+        },
+        {
+          "number": 10,
+          "text": "The elders of the Daughter of Zion sit on the ground in silence;they have sprinkled dust on their headsand put on sackcloth.The young women of Jerusalemhave bowed their heads to the ground."
+        },
+        {
+          "number": 11,
+          "text": "My eyes fail from weeping, I am in torment within,my heart is poured out on the groundbecause my people are destroyed,because children and infants faintin the streets of the city."
+        },
+        {
+          "number": 12,
+          "text": "They say to their mothers, “Where is bread and wine?”as they faint like wounded menin the streets of the city,as their lives ebb awayin their mothers’ arms."
+        },
+        {
+          "number": 13,
+          "text": "What can I say for you? With what can I compare you,O Daughter of Jerusalem?To what can I liken you,that I may comfort you,O Virgin Daughter of Zion?Your wound is as deep as the sea.Who can heal you?"
+        },
+        {
+          "number": 14,
+          "text": "The visions of your prophets were false and worthless;they did not expose your sinto ward off your captivity.The oracles they gave youwere false and misleading."
+        },
+        {
+          "number": 15,
+          "text": "All who pass your way clap their hands at you;they scoff and shake their headsat the Daughter of Jerusalem:“Is this the city that was calledthe perfection of beauty,the joy of the whole earth?”"
+        },
+        {
+          "number": 16,
+          "text": "All your enemies open their mouths wide against you;they scoff and gnash their teethand say, “We have swallowed her up.This is the day we have waited for;we have lived to see it.”"
+        },
+        {
+          "number": 17,
+          "text": "The Lord has done what he planned; he has fulfilled his word,which he decreed long ago.He has overthrown you without pity,he has let the enemy gloat over you,he has exalted the horn of your foes."
+        },
+        {
+          "number": 18,
+          "text": "The hearts of the people cry out to the Lord.O wall of the Daughter of Zion,let your tears flow like a riverday and night;give yourself no relief,your eyes no rest."
+        },
+        {
+          "number": 19,
+          "text": "Arise, cry out in the night, as the watches of the night begin;pour out your heart like waterin the presence of the Lord.Lift up your hands to himfor the lives of your children,who faint from hungerat the head of every street."
+        },
+        {
+          "number": 20,
+          "text": "“Look, O Lord, and consider: Whom have you ever treated like this?Should women eat their offspring,the children they have cared for?Should priest and prophet be killedin the sanctuary of the Lord?"
+        },
+        {
+          "number": 21,
+          "text": "“Young and old lie together in the dust of the streets;my young men and maidenshave fallen by the sword.You have slain them in the day of your anger;you have slaughtered them without pity."
+        },
+        {
+          "number": 22,
+          "text": "“As you summon to a feast day, so you summoned against me terrors on every side.In the day of the Lord’s angerno one escaped or survived;those I cared for and reared,my enemy has destroyed.”"
+        }
+      ]
+    },
+    {
+      "id": "LAM.3",
+      "number": 3,
+      "headings": [
+        "I am the man who has seen affliction"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "by the rod of his wrath."
+        },
+        {
+          "number": 2,
+          "text": "He has driven me away and made me walk in darkness rather than light;"
+        },
+        {
+          "number": 3,
+          "text": "indeed, he has turned his hand against me again and again, all day long."
+        },
+        {
+          "number": 4,
+          "text": "He has made my skin and my flesh grow old and has broken my bones."
+        },
+        {
+          "number": 5,
+          "text": "He has besieged me and surrounded me with bitterness and hardship."
+        },
+        {
+          "number": 6,
+          "text": "He has made me dwell in darkness like those long dead."
+        },
+        {
+          "number": 7,
+          "text": "He has walled me in so I cannot escape; he has weighed me down with chains."
+        },
+        {
+          "number": 8,
+          "text": "Even when I call out or cry for help, he shuts out my prayer."
+        },
+        {
+          "number": 9,
+          "text": "He has barred my way with blocks of stone; he has made my paths crooked."
+        },
+        {
+          "number": 10,
+          "text": "Like a bear lying in wait, like a lion in hiding,"
+        },
+        {
+          "number": 11,
+          "text": "he dragged me from the path and mangled me and left me without help."
+        },
+        {
+          "number": 12,
+          "text": "He drew his bow and made me the target for his arrows."
+        },
+        {
+          "number": 13,
+          "text": "He pierced my heart with arrows from his quiver."
+        },
+        {
+          "number": 14,
+          "text": "I became the laughingstock of all my people; they mock me in song all day long."
+        },
+        {
+          "number": 15,
+          "text": "He has filled me with bitter herbs and sated me with gall."
+        },
+        {
+          "number": 16,
+          "text": "He has broken my teeth with gravel; he has trampled me in the dust."
+        },
+        {
+          "number": 17,
+          "text": "I have been deprived of peace; I have forgotten what prosperity is."
+        },
+        {
+          "number": 18,
+          "text": "So I say, “My splendor is gone and all that I had hoped from the Lord.”"
+        },
+        {
+          "number": 19,
+          "text": "I remember my affliction and my wandering, the bitterness and the gall."
+        },
+        {
+          "number": 20,
+          "text": "I well remember them, and my soul is downcast within me."
+        },
+        {
+          "number": 21,
+          "text": "Yet this I call to mind and therefore I have hope:"
+        },
+        {
+          "number": 22,
+          "text": "Because of the Lord’s great love we are not consumed, for his compassions never fail."
+        },
+        {
+          "number": 23,
+          "text": "They are new every morning; great is your faithfulness."
+        },
+        {
+          "number": 24,
+          "text": "I say to myself, “The Lord is my portion; therefore I will wait for him.”"
+        },
+        {
+          "number": 25,
+          "text": "The Lord is good to those whose hope is in him, to the one who seeks him;"
+        },
+        {
+          "number": 26,
+          "text": "it is good to wait quietly for the salvation of the Lord."
+        },
+        {
+          "number": 27,
+          "text": "It is good for a man to bear the yoke while he is young."
+        },
+        {
+          "number": 28,
+          "text": "Let him sit alone in silence, for the Lord has laid it on him."
+        },
+        {
+          "number": 29,
+          "text": "Let him bury his face in the dust— there may yet be hope."
+        },
+        {
+          "number": 30,
+          "text": "Let him offer his cheek to one who would strike him, and let him be filled with disgrace."
+        },
+        {
+          "number": 31,
+          "text": "For men are not cast off by the Lord forever."
+        },
+        {
+          "number": 32,
+          "text": "Though he brings grief, he will show compassion, so great is his unfailing love."
+        },
+        {
+          "number": 33,
+          "text": "For he does not willingly bring affliction or grief to the children of men."
+        },
+        {
+          "number": 34,
+          "text": "To crush underfoot all prisoners in the land,"
+        },
+        {
+          "number": 35,
+          "text": "to deny a man his rights before the Most High,"
+        },
+        {
+          "number": 36,
+          "text": "to deprive a man of justice— would not the Lord see such things?"
+        },
+        {
+          "number": 37,
+          "text": "Who can speak and have it happen if the Lord has not decreed it?"
+        },
+        {
+          "number": 38,
+          "text": "Is it not from the mouth of the Most High that both calamities and good things come?"
+        },
+        {
+          "number": 39,
+          "text": "Why should any living man complain when punished for his sins?"
+        },
+        {
+          "number": 40,
+          "text": "Let us examine our ways and test them, and let us return to the Lord."
+        },
+        {
+          "number": 41,
+          "text": "Let us lift up our hearts and our hands to God in heaven, and say:"
+        },
+        {
+          "number": 42,
+          "text": "“We have sinned and rebelled and you have not forgiven."
+        },
+        {
+          "number": 43,
+          "text": "“You have covered yourself with anger and pursued us; you have slain without pity."
+        },
+        {
+          "number": 44,
+          "text": "You have covered yourself with a cloud so that no prayer can get through."
+        },
+        {
+          "number": 45,
+          "text": "You have made us scum and refuse among the nations."
+        },
+        {
+          "number": 46,
+          "text": "“All our enemies have opened their mouths wide against us."
+        },
+        {
+          "number": 47,
+          "text": "We have suffered terror and pitfalls, ruin and destruction.”"
+        },
+        {
+          "number": 48,
+          "text": "Streams of tears flow from my eyes because my people are destroyed."
+        },
+        {
+          "number": 49,
+          "text": "My eyes will flow unceasingly, without relief,"
+        },
+        {
+          "number": 50,
+          "text": "until the Lord looks down from heaven and sees."
+        },
+        {
+          "number": 51,
+          "text": "What I see brings grief to my soul because of all the women of my city."
+        },
+        {
+          "number": 52,
+          "text": "Those who were my enemies without cause hunted me like a bird."
+        },
+        {
+          "number": 53,
+          "text": "They tried to end my life in a pit and threw stones at me;"
+        },
+        {
+          "number": 54,
+          "text": "the waters closed over my head, and I thought I was about to be cut off."
+        },
+        {
+          "number": 55,
+          "text": "I called on your name, O Lord, from the depths of the pit."
+        },
+        {
+          "number": 56,
+          "text": "You heard my plea: “Do not close your ears to my cry for relief.”"
+        },
+        {
+          "number": 57,
+          "text": "You came near when I called you, and you said, “Do not fear.”"
+        },
+        {
+          "number": 58,
+          "text": "O Lord, you took up my case; you redeemed my life."
+        },
+        {
+          "number": 59,
+          "text": "You have seen, O Lord, the wrong done to me. Uphold my cause!"
+        },
+        {
+          "number": 60,
+          "text": "You have seen the depth of their vengeance, all their plots against me."
+        },
+        {
+          "number": 61,
+          "text": "O Lord, you have heard their insults, all their plots against me—"
+        },
+        {
+          "number": 62,
+          "text": "what my enemies whisper and mutter against me all day long."
+        },
+        {
+          "number": 63,
+          "text": "Look at them! Sitting or standing, they mock me in their songs."
+        },
+        {
+          "number": 64,
+          "text": "Pay them back what they deserve, O Lord, for what their hands have done."
+        },
+        {
+          "number": 65,
+          "text": "Put a veil over their hearts, and may your curse be on them!"
+        },
+        {
+          "number": 66,
+          "text": "Pursue them in anger and destroy them from under the heavens of the Lord."
+        }
+      ]
+    },
+    {
+      "id": "LAM.4",
+      "number": 4,
+      "headings": [
+        "How the gold has lost its luster,"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "the fine gold become dull!The sacred gems are scatteredat the head of every street."
+        },
+        {
+          "number": 2,
+          "text": "How the precious sons of Zion, once worth their weight in gold,are now considered as pots of clay,the work of a potter’s hands!"
+        },
+        {
+          "number": 3,
+          "text": "Even jackals offer their breasts to nurse their young,but my people have become heartlesslike ostriches in the desert."
+        },
+        {
+          "number": 4,
+          "text": "Because of thirst the infant’s tongue sticks to the roof of its mouth;the children beg for bread,but no one gives it to them."
+        },
+        {
+          "number": 5,
+          "text": "Those who once ate delicacies are destitute in the streets.Those nurtured in purplenow lie on ash heaps."
+        },
+        {
+          "number": 6,
+          "text": "The punishment of my people is greater than that of Sodom,which was overthrown in a momentwithout a hand turned to help her."
+        },
+        {
+          "number": 7,
+          "text": "Their princes were brighter than snow and whiter than milk,their bodies more ruddy than rubies,their appearance like sapphires."
+        },
+        {
+          "number": 8,
+          "text": "But now they are blacker than soot; they are not recognized in the streets.Their skin has shriveled on their bones;it has become as dry as a stick."
+        },
+        {
+          "number": 9,
+          "text": "Those killed by the sword are better off than those who die of famine;racked with hunger, they waste awayfor lack of food from the field."
+        },
+        {
+          "number": 10,
+          "text": "With their own hands compassionate women have cooked their own children,who became their foodwhen my people were destroyed."
+        },
+        {
+          "number": 11,
+          "text": "The Lord has given full vent to his wrath; he has poured out his fierce anger.He kindled a fire in Zionthat consumed her foundations."
+        },
+        {
+          "number": 12,
+          "text": "The kings of the earth did not believe, nor did any of the world’s people,that enemies and foes could enterthe gates of Jerusalem."
+        },
+        {
+          "number": 13,
+          "text": "But it happened because of the sins of her prophets and the iniquities of her priests,who shed within herthe blood of the righteous."
+        },
+        {
+          "number": 14,
+          "text": "Now they grope through the streets like men who are blind.They are so defiled with bloodthat no one dares to touch their garments."
+        },
+        {
+          "number": 15,
+          "text": "“Go away! You are unclean!” men cry to them. “Away! Away! Don’t touch us!”When they flee and wander about,people among the nations say,“They can stay here no longer.”"
+        },
+        {
+          "number": 16,
+          "text": "The Lord himself has scattered them; he no longer watches over them.The priests are shown no honor,the elders no favor."
+        },
+        {
+          "number": 17,
+          "text": "Moreover, our eyes failed, looking in vain for help;from our towers we watchedfor a nation that could not save us."
+        },
+        {
+          "number": 18,
+          "text": "Men stalked us at every step, so we could not walk in our streets.Our end was near, our days were numbered,for our end had come."
+        },
+        {
+          "number": 19,
+          "text": "Our pursuers were swifter than eagles in the sky;they chased us over the mountainsand lay in wait for us in the desert."
+        },
+        {
+          "number": 20,
+          "text": "The Lord’s anointed, our very life breath, was caught in their traps.We thought that under his shadowwe would live among the nations."
+        },
+        {
+          "number": 21,
+          "text": "Rejoice and be glad, O Daughter of Edom, you who live in the land of Uz.But to you also the cup will be passed;you will be drunk and stripped naked."
+        },
+        {
+          "number": 22,
+          "text": "O Daughter of Zion, your punishment will end; he will not prolong your exile.But, O Daughter of Edom, he will punish your sinand expose your wickedness."
+        }
+      ]
+    },
+    {
+      "id": "LAM.5",
+      "number": 5,
+      "headings": [
+        "Remember, O Lord, what has happened to us;"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "look, and see our disgrace."
+        },
+        {
+          "number": 2,
+          "text": "Our inheritance has been turned over to aliens, our homes to foreigners."
+        },
+        {
+          "number": 3,
+          "text": "We have become orphans and fatherless, our mothers like widows."
+        },
+        {
+          "number": 4,
+          "text": "We must buy the water we drink; our wood can be had only at a price."
+        },
+        {
+          "number": 5,
+          "text": "Those who pursue us are at our heels; we are weary and find no rest."
+        },
+        {
+          "number": 6,
+          "text": "We submitted to Egypt and Assyria to get enough bread."
+        },
+        {
+          "number": 7,
+          "text": "Our fathers sinned and are no more, and we bear their punishment."
+        },
+        {
+          "number": 8,
+          "text": "Slaves rule over us, and there is none to free us from their hands."
+        },
+        {
+          "number": 9,
+          "text": "We get our bread at the risk of our lives because of the sword in the desert."
+        },
+        {
+          "number": 10,
+          "text": "Our skin is hot as an oven, feverish from hunger."
+        },
+        {
+          "number": 11,
+          "text": "Women have been ravished in Zion, and virgins in the towns of Judah."
+        },
+        {
+          "number": 12,
+          "text": "Princes have been hung up by their hands; elders are shown no respect."
+        },
+        {
+          "number": 13,
+          "text": "Young men toil at the millstones; boys stagger under loads of wood."
+        },
+        {
+          "number": 14,
+          "text": "The elders are gone from the city gate; the young men have stopped their music."
+        },
+        {
+          "number": 15,
+          "text": "Joy is gone from our hearts; our dancing has turned to mourning."
+        },
+        {
+          "number": 16,
+          "text": "The crown has fallen from our head. Woe to us, for we have sinned!"
+        },
+        {
+          "number": 17,
+          "text": "Because of this our hearts are faint, because of these things our eyes grow dim"
+        },
+        {
+          "number": 18,
+          "text": "for Mount Zion, which lies desolate, with jackals prowling over it."
+        },
+        {
+          "number": 19,
+          "text": "You, O Lord, reign forever; your throne endures from generation to generation."
+        },
+        {
+          "number": 20,
+          "text": "Why do you always forget us? Why do you forsake us so long?"
+        },
+        {
+          "number": 21,
+          "text": "Restore us to yourself, O Lord, that we may return; renew our days as of old"
+        },
+        {
+          "number": 22,
+          "text": "unless you have utterly rejected us and are angry with us beyond measure."
+        }
+      ]
+    }
+  ]
+}
