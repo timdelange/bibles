@@ -1,0 +1,687 @@
+{
+  "id": "AMO",
+  "name": "AMOS",
+  "abbreviation": "Am.",
+  "chapters": [
+    {
+      "id": "AMO.1",
+      "number": 1,
+      "headings": [
+        "Opskrif",
+        "Teen Damaskus",
+        "Teen die Filistyne",
+        "Teen Tirus",
+        "Teen Edom",
+        "Teen die Ammoniete"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Die woorde van Amos, 'n skaapboer uit Tekoa. Hy het oor Israel 'n gesig gesien tydens die regering van koning Ussia van Juda en koning Jerobeam van Israel, seun van Joas. Dit het twee jaar voor die aardbewing gebeur."
+        },
+        {
+          "number": 2,
+          "text": "Amos het gesê: Wanneer die Here uit Sion brul, wanneer Hy sy stem uit Jerusalem laat hoor, verdor die weivelde van die herders en verdroog die top van Karmelberg."
+        },
+        {
+          "number": 3,
+          "text": "So sê die Here: Selfs as Damaskus net drie keer sonde gedoen het, sou Ek sy straf nie herroep het nie. Maar nou het hy 'n vierde sonde daarby gevoeg: hy het vir Gilead met skerp ysters gemartel."
+        },
+        {
+          "number": 4,
+          "text": "Daarom sal Ek in die paleis van Gasael 'n vuur laat losbreek en dit sal die mooi huise van Ben-Hadad verteer."
+        },
+        {
+          "number": 5,
+          "text": "Ek sal die grendels van Damaskus stukkend breek, die inwoners van Bikat-Awen en die regeerder van Bet-Eden uitroei. Die Arameërs sal in ballingskap na Kir toe weggevoer word, sê die Here."
+        },
+        {
+          "number": 6,
+          "text": "So sê die Here: Selfs as Gasa net drie keer sonde gedoen het, sou Ek sy straf nie herroep het nie. Maar nou het hy 'n vierde sonde daarby gevoeg: hy het mense voor die voet as ballinge weggevoer en aan Edom uitgelewer."
+        },
+        {
+          "number": 7,
+          "text": "Daarom sal Ek binne die mure van Gasa 'n vuur laat losbreek en dit sal sy mooi huise verteer."
+        },
+        {
+          "number": 8,
+          "text": "Ek sal die inwoners van Asdod en die regeerder van Askelon uitroei. Ek sal my hand teen Ekron oplig, en die Filistyne wat nog oor is, sal omkom, sê die Here my God."
+        },
+        {
+          "number": 9,
+          "text": "So sê die Here: Selfs as Tirus net drie keer sonde gedoen het, sou Ek sy straf nie herroep het nie. Maar nou het hy 'n vierde sonde daarby gevoeg: hy het mense voor die voet as ballinge aan Edom uitgelewer en nie aan die ooreenkoms met sy bondgenote gedink nie."
+        },
+        {
+          "number": 10,
+          "text": "Daarom sal Ek binne die mure van Tirus 'n vuur laat losbreek en dit sal sy mooi huise verteer."
+        },
+        {
+          "number": 11,
+          "text": "So sê die Here: Selfs as Edom net drie keer sonde gedoen het, sou Ek sy straf nie herroep het nie. Maar nou het hy 'n vierde sonde daarby gevoeg: hy het die Israeliete, sy broers, agtervolg met die swaard en die broederliefde verloën, hy het hulle in sy toorn verskeur, sy woede het bly kook."
+        },
+        {
+          "number": 12,
+          "text": "Daarom sal Ek in Teman 'n vuur laat losbreek en dit sal die mooi huise van Bosra verteer."
+        },
+        {
+          "number": 13,
+          "text": "So sê die Here: Selfs as die Ammoniete net drie keer sonde gedoen het, sou Ek hulle straf nie herroep het nie. Maar nou het hulle 'n vierde sonde daarby gevoeg: hulle het swanger vrouens in Gilead oopgesny en hulle eie gebied uitgebrei."
+        },
+        {
+          "number": 14,
+          "text": "Daarom sal Ek binne die mure van Rabba 'n vuur aansteek en dit sal sy mooi huise verteer. Dié dag sal daar geskreeu word en sal daar oorlog wees, 'n storm, 'n orkaan."
+        },
+        {
+          "number": 15,
+          "text": "Hulle koning sal in ballingskap weggevoer word, hy en sy amptenare saam met hom, sê die Here."
+        }
+      ]
+    },
+    {
+      "id": "AMO.2",
+      "number": 2,
+      "headings": [
+        "Teen Moab",
+        "Teen Juda",
+        "Teen Israel"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "So sê die Here: Selfs as Moab net drie keer sonde gedoen het, sou Ek sy straf nie herroep het nie. Maar nou het hy 'n vierde sonde daarby gevoeg: hy het die bene van Edom se koning tot kalk verbrand."
+        },
+        {
+          "number": 2,
+          "text": "Daarom sal Ek in Moab 'n vuur laat losbreek en dit sal die mooi huise van Kerijot verteer. Moab sal omkom onder oorlogsrumoer, onder die blaas van die ramshoring."
+        },
+        {
+          "number": 3,
+          "text": "Ek sal sy regeerder uit hom wegvat en al sy amptenare saam met hom doodmaak, sê die Here."
+        },
+        {
+          "number": 4,
+          "text": "So sê die Here: Selfs as Juda net drie keer sonde gedoen het, sou Ek sy straf nie herroep het nie. Maar nou het hy 'n vierde sonde daarby gevoeg: hulle het die wet van die Here verwerp, hulle nie aan sy voorskrifte gehou nie en toe het die vals gode hulle verlei, die afgode agter wie hulle voorvaders aangeloop het."
+        },
+        {
+          "number": 5,
+          "text": "Daarom sal Ek in Juda 'n vuur laat losbreek en dit sal die mooi huise van Jerusalem verteer."
+        },
+        {
+          "number": 6,
+          "text": "So sê die Here: Selfs as Israel net drie keer sonde gedoen het, sou Ek sy straf nie herroep het nie. Maar nou het hy nog sondes daarby gevoeg: hulle verkoop onskuldige mense vir geld, arm mense oor 'n paar sandale;"
+        },
+        {
+          "number": 7,
+          "text": "hulle trap swakkes se koppe plat in die grond en veronreg dié wat hulleself nie kan verweer nie; pa en seun kuier by dieselfde meisie en doen my heilige Naam oneer aan;"
+        },
+        {
+          "number": 8,
+          "text": "langs elke altaar strek die Israeliete hulle uit op klere wat as pand gevat is; in die huis van hulle God drink hulle die wyn van dié wat uitgebuit is."
+        },
+        {
+          "number": 9,
+          "text": "Ek het die Amoriete wat hoog soos seders is, sterk soos eike, uitgeroei om vir julle plek te maak, Israeliete!"
+        },
+        {
+          "number": 10,
+          "text": "Ek het julle uit Egipte laat trek, Ek het julle veertig jaar lank in die woestyn gelei, Ek het julle die land van die Amoriete in besit laat neem,"
+        },
+        {
+          "number": 11,
+          "text": "Ek het van julle seuns as profete laat optree en van julle jongmanne as nasireërs. Is dit nie so nie, Israeliete? vra die Here."
+        },
+        {
+          "number": 12,
+          "text": "Maar julle het die nasireërs laat wyn drink en die profete belet om as profete op te tree."
+        },
+        {
+          "number": 13,
+          "text": "Daarom laat ek julle vasval net waar julle is soos 'n wa vasval wat te vol gerwe is."
+        },
+        {
+          "number": 14,
+          "text": "Die vinnige sal nie kan vlug nie, die sterke se krag sal hom niks baat nie, die dapper soldaat sal homself nie kan red nie."
+        },
+        {
+          "number": 15,
+          "text": "Wie met pyl en boog veg, sal nie kan weerstand bied nie, die vinnige sal nie kan weghardloop nie, die ruiter sal homself nie kan red nie."
+        },
+        {
+          "number": 16,
+          "text": "Selfs die sterkste soldaat sal daardie dag kaal wegvlug, sê die Here."
+        }
+      ]
+    },
+    {
+      "id": "AMO.3",
+      "number": 3,
+      "headings": [
+        "Die Here God het gepraat",
+        "Hulle weet nie hoe om reg te doen nie"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Luister na die woord wat die Here teen julle rig, Israeliete, teen al die stamme wat Hy uit Egipte laat trek het:"
+        },
+        {
+          "number": 2,
+          "text": "Ek het net vir julle uitgekies uit al die volke van die aarde, daarom sal Ek julle straf oor al julle sondes."
+        },
+        {
+          "number": 3,
+          "text": "Sal twee saamloop as hulle dit nie afgespreek het nie?"
+        },
+        {
+          "number": 4,
+          "text": "Sal 'n leeu in die bos brul as hy niks het om te vreet nie? Sal hy in sy boerplek roep as hy nie gevang het nie?"
+        },
+        {
+          "number": 5,
+          "text": "Sal 'n voël in 'n wip op die grond val as daar nie 'n strik vir hom gestel is nie? Sal 'n wip op die grond toeklap as dit nie iets gevang het nie?"
+        },
+        {
+          "number": 6,
+          "text": "Sal daar in 'n stad op 'n ramshoring geblaas word as die inwoners nie geskrik het nie? Sal daar 'n ramp oor 'n stad kom as die Here dit nie gebring het nie?"
+        },
+        {
+          "number": 7,
+          "text": "Die Here God doen niks as Hy nie sy besluit bekend gemaak het aan sy dienaars die profete nie."
+        },
+        {
+          "number": 8,
+          "text": "Die leeu het gebrul, wie sal nie bang wees nie? Die Here God het gepraat, wie sal nie as profeet optree nie?"
+        },
+        {
+          "number": 9,
+          "text": "Maak dit bekend in die mooi huise in Asdod, in die mooi huise in Egipte, sê vir die mense daarin: Kom bymekaar op die Samariaberge, kyk na die groot verwarring in Samaria, die verdrukking daarbinne."
+        },
+        {
+          "number": 10,
+          "text": "Hulle wat geweld en verwoesting in hulle mooi huise herberg, weet nie hoe om reg te doen nie, sê die Here."
+        },
+        {
+          "number": 11,
+          "text": "Daarom, so sê die Here my God: 'n Vyand sal die land inneem, hy sal jou vesting bo-op jou afbreek, jou mooi huise kaalstroop."
+        },
+        {
+          "number": 12,
+          "text": "So sê die Here: Soos 'n skaapwagter twee pootjies of 'n stukkie oor weggryp uit 'n leeu se bek, so sal die Israeliete weggegryp word, hulle wat in Samaria op rusbanke sit, op oorgetrekte gemakstoele!"
+        },
+        {
+          "number": 13,
+          "text": "Luister hierna, en lê getuienis af teen Jakob, sê die Here my God, die almagtige God!"
+        },
+        {
+          "number": 14,
+          "text": "Die dag as Ek Israel oor sy sondes straf, sal Ek die altare van Bet-El verwoes; die horings van sy altare sal afgebreek word en op die grond val."
+        },
+        {
+          "number": 15,
+          "text": "Ek sal die winterhuis platslaan saam met die somerhuis, die huise met ivoorinleg sal vergaan, baie huise sal verdwyn, sê die Here."
+        }
+      ]
+    },
+    {
+      "id": "AMO.4",
+      "number": 4,
+      "headings": [
+        "Maak jou klaar om voor jou God te kom verskyn"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Luister na hierdie woord, vrouens wat op Samariaberg lekker lewe, lewe soos die koeie van Basan, julle deur wie die swakkes verdruk en die armes mishandel word, julle wat vir julle mans sê: “Bring wyn dat ons kan drink!”"
+        },
+        {
+          "number": 2,
+          "text": "Die Here my God wat heilig is, het 'n eed afgelê: Pas op, daar kom dae oor julle dat julle met hake opgetel sal word, dat julle van agter met haakdorings aangedryf sal word."
+        },
+        {
+          "number": 3,
+          "text": "Elke vrou sal reg voor haar uit oor die afgebreekte stadsmuur loop, julle sal na Hermon toe uitgedryf word, sê die Here."
+        },
+        {
+          "number": 4,
+          "text": "Kom na Bet-El toe as julle wil sonde doen, na Gilgal toe as julle nog meer sonde wil doen. Bring julle offers vroegmôre, julle tiendes op die derde dag."
+        },
+        {
+          "number": 5,
+          "text": "Verbrand die ongesuurde brood as dankoffer, kondig julle vrywillige offers aan, laat die mense dit hoor. So hou julle mos daarvan, Israeliete, sê die Here my God."
+        },
+        {
+          "number": 6,
+          "text": "Ek het hongersnood in al julle stede laat kom, broodsgebrek in al julle dorpe, maar julle het julle nie tot My bekeer nie, sê die Here."
+        },
+        {
+          "number": 7,
+          "text": "Ek het die reën drie maande voor oestyd van julle af weggehou; Ek het laat reën oor een stad en oor 'n ander die reën laat wegbly; die een stuk grond het goed reën gekry en die ander waar dit nie gereën het nie, het uitgedroog."
+        },
+        {
+          "number": 8,
+          "text": "Twee, selfs drie stede se mense het hulle na 'n stad toe aangesleep om water te kry, sonder om hulle dors te les, en tog het julle julle nie tot My bekeer nie, sê die Here."
+        },
+        {
+          "number": 9,
+          "text": "Ek het julle gestraf met brandkoring en met heuningdou, Ek het julle tuine en wingerde laat verdroog, sprinkane het julle vyebome en julle olyfbome kaalgevreet, en tog het julle julle nie tot My bekeer nie, sê die Here."
+        },
+        {
+          "number": 10,
+          "text": "Ek het plae soos dié van Egipte na julle toe gestuur; Ek het julle jongmans en hulle spogperde met die swaard doodgemaak; Ek het die stank van julle laer in julle neuse laat opwalm, en tog het julle julle nie tot My bekeer nie, sê die Here."
+        },
+        {
+          "number": 11,
+          "text": "Ek het julle stede verwoes soos Ek Sodom en Gomorra geheel en al verwoes het, julle het soos 'n stuk hout geword wat uit die vuur uit geruk is, en tog het julle julle nie tot My bekeer nie, sê die Here."
+        },
+        {
+          "number": 12,
+          "text": "Daarom sal Ek dit alles weer aan jou doen, Israel! En omdat Ek jou dít sal aandoen, Israel, maak jou klaar om voor jou God te kom verskyn!"
+        },
+        {
+          "number": 13,
+          "text": "Jy moet besef: Hy wat berge vorm en die wind skep, Hy wat sy gedagtes aan die mens bekend maak, Hy wat die dagbreek donker maak, Hy wat oor die hoogtes van die aarde gaan, sy Naam is Here, almagtige God!"
+        }
+      ]
+    },
+    {
+      "id": "AMO.5",
+      "number": 5,
+      "headings": [
+        "Israel het geval",
+        "Vra na my wil, dan sal julle lewe",
+        "Julle moet haat wat verkeerd is",
+        "Die dag van die Here bring donker"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hoor hierdie woord wat ek teen julle moet sê, hierdie treurlied, Israel:"
+        },
+        {
+          "number": 2,
+          "text": "Israel het geval en hy sal nie weer opstaan nie; hy lê neergegooi op sy grond en niemand help hom op nie."
+        },
+        {
+          "number": 3,
+          "text": "So het die Here my God gesê: Die stad wat met duisend gaan aanval, hou net honderd oor, en dié een wat met honderd aanval, hou net tien oor vir Israel."
+        },
+        {
+          "number": 4,
+          "text": "So sê die Here vir Israel: Vra na my wil, dan sal julle lewe!"
+        },
+        {
+          "number": 5,
+          "text": "Moenie in Bet-El gaan raad soek nie, moenie na Gilgal toe gaan of verbygaan Berseba toe nie. Gilgal sal in ballingskap weggevoer word, en Bet-El sal tot niet gaan."
+        },
+        {
+          "number": 6,
+          "text": "Vra na die wil van die Here, dan sal julle lewe! As julle dit nie doen nie, sal die Here vir Josef soos 'n vuur tref, 'n vuur wat vir Bet-El sal verteer sonder dat iemand dit kan blus."
+        },
+        {
+          "number": 7,
+          "text": "Julle maak van die regspraak 'n bitter saak, julle trap die reg in die grond in."
+        },
+        {
+          "number": 8,
+          "text": "Hy deur wie die Sewester en Orion gemaak is, Hy wat die donker in oggendlig verander en die dag donker nag laat word, Hy wat die water van die see roep en dit oor die aarde uitstort, sy Naam is die Here."
+        },
+        {
+          "number": 9,
+          "text": "Dit is Hy wat die magtige met vernietiging tref, wat vernietiging oor die vestingstad bring."
+        },
+        {
+          "number": 10,
+          "text": "Julle haat dié wat vir die reg opkom in die howe, julle verafsku dié wat die waarheid praat."
+        },
+        {
+          "number": 11,
+          "text": "Omdat julle die arm mens vertrap en van hom koring afpers, sal julle nie woon in die huise van gekapte klip wat julle bou nie en sal julle nie die wyn drink van die pragtige wingerde wat julle plant nie."
+        },
+        {
+          "number": 12,
+          "text": "Ek weet hoe baie julle oortredings is, hoe groot julle sondes is, julle wat die vyande is van dié wat reg doen, julle wat julle laat omkoop en nie aan die armes reg laat geskied nie."
+        },
+        {
+          "number": 13,
+          "text": "Dit is daarom dat 'n verstandige mens maar stilbly in hierdie tyd, want dit is 'n bose tyd."
+        },
+        {
+          "number": 14,
+          "text": "Probeer goed doen, nie verkeerd nie, dat julle kan lewe! Dan sal die Here die almagtige God so by julle wees soos julle sê dat Hy is."
+        },
+        {
+          "number": 15,
+          "text": "Julle moet haat wat verkeerd is, julle moet liefhê wat goed is, julle moet opkom vir die reg in die howe. Dan sal die Here die almagtige God Hom dalk ontferm oor wat daar van Josef oor is."
+        },
+        {
+          "number": 16,
+          "text": "So sê die Here, die almagtige God, die Here: Die mense sal treur op al die oop ruimtes, hulle sal op al die strate sê: “Ag tog, ag tog!” Hulle sal die boere en die treursangers roep om saam te kom treur."
+        },
+        {
+          "number": 17,
+          "text": "Daar sal ook in al die wingerde getreur word, want Ek gaan tussen julle deur om julle te straf, sê die Here."
+        },
+        {
+          "number": 18,
+          "text": "Ellende wag vir dié wat smag na die dag van die Here! Waarom verlang julle na die dag van die Here? Dit sal donker bring, nie lig nie;"
+        },
+        {
+          "number": 19,
+          "text": "dit sal wees soos wanneer iemand vir 'n leeu vlug en 'n beer val hom aan, of soos wanneer iemand tuiskom en hy leun met sy hand teen die muur en 'n slang pik hom."
+        },
+        {
+          "number": 20,
+          "text": "Die dag van die Here bring donker, nie lig nie, net duisternis, nie 'n ligstraal nie."
+        },
+        {
+          "number": 21,
+          "text": "Ek haat, Ek verafsku julle feeste, Ek het niks aan julle feestye nie."
+        },
+        {
+          "number": 22,
+          "text": "Al bring julle vir My brandoffers en graanoffers, dit is nie vir My aanneemlik nie, en Ek kyk nie eens na julle maaltydoffers van vetgevoerde kalwers nie."
+        },
+        {
+          "number": 23,
+          "text": "Gee pad voor My met die rumoer van jou gesing; Ek wil nie jou harpmusiek hoor nie!"
+        },
+        {
+          "number": 24,
+          "text": "Maar laat die reg en die geregtigheid te voorskyn kom, laat dit aanrol soos watergolwe, soos 'n standhoudende stroom."
+        },
+        {
+          "number": 25,
+          "text": "Moes julle vir My die veertig jaar in die woestyn diereoffers en graanoffers bring, Israel?"
+        },
+        {
+          "number": 26,
+          "text": "Julle sal julle koning Sikkut en julle afgodsbeeld Kijun, dié stergode wat julle vir julle gemaak het, moet dra"
+        },
+        {
+          "number": 27,
+          "text": "wanneer Ek julle in ballingskap laat wegvoer ver by Damaskus verby, sê die Here. Sy Naam is Almagtige God."
+        }
+      ]
+    },
+    {
+      "id": "AMO.6",
+      "number": 6,
+      "headings": [
+        "Oor die vernietiging van Josef bekommer julle julle nie"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ellende wag vir dié wat so rustig in Sion woon, dié wat hulle so veilig voel op Samariaberg, dié vername mense van die voorste nasie op wie die koningshuis van Israel hom verlaat!"
+        },
+        {
+          "number": 2,
+          "text": "Gaan kyk in Kalne, gaan daarvandaan na die groot Hamat toe, gaan af na die Filistynse stad Gat toe! Is julle beter as daardie koninkryke? Is hulle grondgebied groter as julle s'n?"
+        },
+        {
+          "number": 3,
+          "text": "Julle maak of die dag van rampe ver is, maar julle bring juis die dag nader dat geweld julle sal regeer."
+        },
+        {
+          "number": 4,
+          "text": "Julle lê op julle beddens wat met ivoor ingelê is, julle strek julle uit op julle rusbanke, julle eet lammers uit die kleinveetrop en kalwers uit die stal,"
+        },
+        {
+          "number": 5,
+          "text": "julle maak liedjies vir die harp, julle dink hulle vir musiekinstrumente uit soos Dawid,"
+        },
+        {
+          "number": 6,
+          "text": "julle drink wyn uit offerkomme en salf julle met uitsoekolie, maar oor die vernietiging van Josef bekommer julle julle nie."
+        },
+        {
+          "number": 7,
+          "text": "Daarom sal julle nou weggevoer word op die voorpunt van die ballinge. Die tyd is verby dat julle uitgelate lê en feesvier."
+        },
+        {
+          "number": 8,
+          "text": "Die Here my God het 'n eed afgelê by Homself, die Here die almagtige God sê: Ek verafsku die hooghartigheid van Jakob, Ek het 'n weersin in sy mooi huise! Daarom gee Ek die stad en al wat daarin is, oor in die mag van 'n vyand."
+        },
+        {
+          "number": 9,
+          "text": "As daar tien man in een huis oorgebly het, sal hulle sterwe."
+        },
+        {
+          "number": 10,
+          "text": "As 'n familielid of iemand wat die bene moet verbrand, hulle uit die huis kom dra, sal hy vir die een wat dalk nog agter in die huis is, vra: “Is daar nog iemand by jou?” en as dié sê: “Nee!” sal die familielid sê: “Bly stil! Ons moet nie eens die Here se Naam noem nie!”"
+        },
+        {
+          "number": 11,
+          "text": "Wanneer die Here die bevel gee, word die huise platgeslaan, in puin gelê, groot en klein."
+        },
+        {
+          "number": 12,
+          "text": "Perde kan tog nie op 'n klipplaat galop nie! 'n Mens ploeg tog nie die see met osse nie! Hoe maak julle dan van die reg iets wat giftig is, van regspraak 'n bitter saak?"
+        },
+        {
+          "number": 13,
+          "text": "Julle verheug julle oor Lo-Dabar, julle sê: “Dit is tog deur ons eie krag dat ons Karnajim vir ons teruggevat het!”"
+        },
+        {
+          "number": 14,
+          "text": "Maar Ek gaan nou 'n nasie teen julle laat optrek, Israel, sê die Here die almagtige God, en dié nasie sal hardvogtig oor julle heers van Lebo-Hamat af tot by die stroombedding in die Jordaanvallei."
+        }
+      ]
+    },
+    {
+      "id": "AMO.7",
+      "number": 7,
+      "headings": [
+        "Die eerste gesig: Sprinkane",
+        "Die tweede gesig: Vuur",
+        "Die derde gesig: 'n Skietlood",
+        "Amos en Amasia"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Die Here God het my 'n gesig laat sien: Hy was besig om 'n sprinkaanswerm te vorm toe die gras weer begin uitspruit het nadat die koning se hooi af was."
+        },
+        {
+          "number": 2,
+          "text": "Die sprinkane sou al die groenigheid in die land afvreet, en ek het gesê: “Here my God, vergewe tog vir Jakob! Hoe sal hy staande bly? Hy is klein!”"
+        },
+        {
+          "number": 3,
+          "text": "Die Here het toe van sy voorneme afgesien, Hy het gesê: Dit sal nie gebeur nie."
+        },
+        {
+          "number": 4,
+          "text": "Die Here my God het my 'n gesig laat sien: Hy het 'n vuur opgeroep tot straf, en die vuur het die groot watervloed laat opdroog en dit sou ook die bewerkte grond verteer het."
+        },
+        {
+          "number": 5,
+          "text": "Maar ek het gesê: “Here my God, hou tog op! Hoe sal Jakob staande bly? Hy is klein!”"
+        },
+        {
+          "number": 6,
+          "text": "Die Here my God het toe van sy voorneme afgesien, Hy het gesê: Ook dit sal nie gebeur nie."
+        },
+        {
+          "number": 7,
+          "text": "Hy het my 'n gesig laat sien: Die Here het by 'n loodregte muur gestaan, en daar was 'n skietlood in sy hand."
+        },
+        {
+          "number": 8,
+          "text": "Hy het vir my gevra: Wat sien jy, Amos? en ek het gesê: “'n Skietlood.” Toe sê die Here vir my: Ek gaan 'n skietlood aanlê in my volk Israel, Ek gaan hom nie meer spaar nie."
+        },
+        {
+          "number": 9,
+          "text": "Die hoogtes van Isak sal verwoes word, die heiligdomme van Israel sal in puin gelê word, en Ek sal met die swaard optree teen die koningshuis van Jerobeam."
+        },
+        {
+          "number": 10,
+          "text": "Die priester Amasia van Bet-El het vir koning Jerobeam van Israel laat weet: “Amos is besig om hier in Israel 'n komplot teen u te smee. Die land kan dit nie uithou met alles wat hy sê nie."
+        },
+        {
+          "number": 11,
+          "text": "Amos het gesê Jerobeam sal deur die swaard sterf, en Israel sal uit sy land in ballingskap weggevoer word.”"
+        },
+        {
+          "number": 12,
+          "text": "Amasia het vir Amos gesê: “Maak dat jy wegkom, siener, gaan na Juda toe en verdien jou brood daar, tree daar as profeet op!"
+        },
+        {
+          "number": 13,
+          "text": "In Bet-El mag jy nie meer as profeet optree nie, want dit is die koninklike heiligdom, die staatstempel.”"
+        },
+        {
+          "number": 14,
+          "text": "Amos het toe vir Amasia geantwoord: “Ek is nie so 'n profeet nie en ek behoort nie tot die profetekring nie, ek boer met vee en kweek wildevye."
+        },
+        {
+          "number": 15,
+          "text": "Maar die Here het my agter die kleinvee weggevat en Hy het vir my gesê: Gaan tree as profeet op teen my volk Israel."
+        },
+        {
+          "number": 16,
+          "text": "“Hoor dan nou die woord van die Here! Jy sê ek moenie as profeet optree teen Israel nie, ek mag nie as siener teen die nageslag van Isak praat nie."
+        },
+        {
+          "number": 17,
+          "text": "Maar so sê die Here: “Jou vrou sal 'n prostituut word in die stad, jou seuns en jou dogters sal met die swaard afgemaai word, jou grond sal tussen ander verdeel word, jy sal in 'n onrein land sterf, en Israel sal in ballingskap weggevoer word uit sy land uit.”"
+        }
+      ]
+    },
+    {
+      "id": "AMO.8",
+      "number": 8,
+      "headings": [
+        "Die vierde gesig: 'n Mandjie vrugte"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Die Here my God het my 'n gesig laat sien: Daar was 'n mandjie ryp vrugte,"
+        },
+        {
+          "number": 2,
+          "text": "en die Here het vir my gevra: Wat sien jy, Amos? Ek het gesê: “'n Mandjie ryp vrugte.” Toe sê die Here vir my: Die tyd is ryp vir my volk Israel, Ek sal hom nie meer spaar nie."
+        },
+        {
+          "number": 3,
+          "text": "Daardie dag sal die sang in die paleis 'n gehuil word, sê die Here my God. Daar sal baie lyke wees, oral neergegooi. Bly liewer stil!"
+        },
+        {
+          "number": 4,
+          "text": "Luister hierna, julle wat arm mense vertrap, julle wat die mense in nood in die land wil uitroei."
+        },
+        {
+          "number": 5,
+          "text": "Julle sê: “Wanneer is Nuwemaan verby dat ons koring kan verkoop, of Sabbat, dat ons ons graanwinkels weer kan oopmaak en minder graan vir meer geld kan verkoop? Ons laat die skaal mos kul soos ons wil!”"
+        },
+        {
+          "number": 6,
+          "text": "Julle verkoop arm mense vir geld, behoeftiges oor 'n paar sandale, julle verkoop selfs die koringkaf."
+        },
+        {
+          "number": 7,
+          "text": "Die Here het 'n eed afgelê by Homself, by Hom wat die trots van Jakob moes gewees het: Ek sal nooit vergeet wat hulle gedoen het nie!"
+        },
+        {
+          "number": 8,
+          "text": "Sal die aarde nie hieroor beef nie, sal sy bewoners nie treur nie! Sal die hele wêreld nie in beroering kom soos die Nyl, wegsak soos die rivier van Egipte nie!"
+        },
+        {
+          "number": 9,
+          "text": "Daardie dag, sê die Here my God, laat Ek die son helder oordag ondergaan, maak Ek dit donker op aarde terwyl dit nog ligdag is;"
+        },
+        {
+          "number": 10,
+          "text": "Ek verander julle feeste in treurgeleenthede, julle liedere in klaagsange; Ek trek vir julle rouklere aan en skeer al julle koppe kaal; Ek laat dit word soos wanneer 'n mens oor 'n enigste kind treur, julle uiteinde sal vir julle 'n bitter dag wees."
+        },
+        {
+          "number": 11,
+          "text": "Maar daar kom dae, sê die Here my God, dat Ek 'n honger oor die aarde laat kom: 'n honger nie na kos nie, 'n dors nie na water nie, maar om die woorde van die Here te hoor."
+        },
+        {
+          "number": 12,
+          "text": "Die mense sal ronddwaal van see tot see, rondslinger van noord tot oos om die woord van die Here te soek, maar hulle sal dit nie kry nie."
+        },
+        {
+          "number": 13,
+          "text": "Daardie dag sal die mooi meisies en die jongmanne van dors beswyk,"
+        },
+        {
+          "number": 14,
+          "text": "dié jongmense wat ede aflê by wat Samaria se sonde is en sê: “So seker as jou god leef, Dan, so seker as daar 'n pelgrimspad na Berseba toe is!” Hulle sal val en nie weer opstaan nie."
+        }
+      ]
+    },
+    {
+      "id": "AMO.9",
+      "number": 9,
+      "headings": [
+        "Die vyfde gesig: Die Here by die altaar",
+        "Ek sal die lot van my volk verander"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ek het die Here by die altaar sien staan, en Hy het gesê: Slaan die pilare se toppe stukkend, sodat die drumpels bewe, breek hulle af oor almal se koppe! Ek sal die mense wat oorbly, met die swaard doodmaak, niemand sal kan vlug nie, niemand sal vrykom nie."
+        },
+        {
+          "number": 2,
+          "text": "Al breek hulle deur na die doderyk toe, Ek sal hulle daar uithaal; al klim hulle op na die hemel toe, Ek sal hulle daarvandaan laat afkom;"
+        },
+        {
+          "number": 3,
+          "text": "al kruip hulle weg op die top van die Karmel, Ek sal hulle daar opspoor en vang; al kruip hulle weg op die bodem van die see, Ek sal die slang daar beveel om hulle te pik;"
+        },
+        {
+          "number": 4,
+          "text": "al word hulle in ballingskap weggevoer voor hulle vyande uit, Ek sal die swaard daar beveel om hulle dood te maak; my bedoeling met hulle is om hulle kwaad aan te doen, nie om goed aan hulle te doen nie."
+        },
+        {
+          "number": 5,
+          "text": "Die Here my God, die Almagtige, raak die aarde aan en dit smelt weg, en almal wat daarop woon, treur; die hele wêreld kom in beroering soos die Nyl en sak weer weg soos die rivier van Egipte."
+        },
+        {
+          "number": 6,
+          "text": "Die Here bou sy bokamers in die hemel en lê die hemelkoepel se fondament op die aarde, Hy roep die waters van die see en giet hulle oor die aarde uit. Sy Naam is Here!"
+        },
+        {
+          "number": 7,
+          "text": "Julle Israeliete is vir My nie anders as die Kussiete nie, sê die Here. Ek het vir Israel uit Egipte laat trek, maar ook die Filistyne uit Kaftor en die Arameërs uit Kir."
+        },
+        {
+          "number": 8,
+          "text": "Ek, die Here God, hou die sondige koninkryk dop, Ek gaan hom wegvee van die aarde af! Maar tog, Ek sal nie die nageslag van Jakob heeltemal uitroei nie, sê die Here."
+        },
+        {
+          "number": 9,
+          "text": "Ek gaan die bevel gee en vir Israel skud tussen die nasies soos graan in 'n sif geskud word, en nie 'n korrel sal op die grond val nie."
+        },
+        {
+          "number": 10,
+          "text": "Al die sondaars onder my volk sal met die swaard doodgemaak word, hulle wat sê: “Ter wille van ons sal U die ramp nie laat kom nie, ons nie daardeur laat tref nie.”"
+        },
+        {
+          "number": 11,
+          "text": "Daardie dag bou Ek die vervalle hut van Dawid weer op; Ek stop sy barste toe en bou sy murasies op, Ek herbou hom soos hy in die ou tyd was,"
+        },
+        {
+          "number": 12,
+          "text": "sodat my volk die oorwinnaar sal wees oor wat van Edom oor is, oor al die nasies oor wie my Naam uitgeroep is, sê die Here. Hy sal dit doen."
+        },
+        {
+          "number": 13,
+          "text": "Daar kom 'n tyd, sê die Here, dat daar direk na die oes geploeg sal word en dat daar direk na die saaityd gepars sal word. Die berge sal van druiwesap drup, al die heuwels sal deurnat wees."
+        },
+        {
+          "number": 14,
+          "text": "Ek sal die lot van my volk Israel verander: hulle sal die verlate stede herbou en bewoon, hulle sal wingerde plant en die wyn daarvan drink, hulle sal tuine aanlê en die vrugte daarvan eet."
+        },
+        {
+          "number": 15,
+          "text": "Ek sal my volk weer in hulle grond plant, en hulle sal nie weer uitgeruk word uit die grond wat Ek hulle gegee het nie, sê die Here jou God."
+        }
+      ]
+    }
+  ]
+}

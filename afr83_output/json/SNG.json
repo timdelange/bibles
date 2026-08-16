@@ -1,0 +1,531 @@
+{
+  "id": "SNG",
+  "name": "HOOGLIED",
+  "abbreviation": "Hoogl.",
+  "chapters": [
+    {
+      "id": "SNG.1",
+      "number": 1,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Salomo se mooiste lied."
+        },
+        {
+          "number": 2,
+          "text": "“Soen my, soen my weer en weer! Jou liefkosings is beter as wyn,"
+        },
+        {
+          "number": 3,
+          "text": "jou parfuum ruik so lekker, jou naam is suiwer parfuum: daarom het die meisies jou so lief."
+        },
+        {
+          "number": 4,
+          "text": "Vat my saam met jou, kom ons hardloop!” Die koning vat my toe na sy kamer toe. “Kom ons juig, kom ons wees vrolik oor jou!” “Kom ons prys jou liefkosings, dit is beter as wyn! Ek kan verstaan dat die meisies lief is vir jou."
+        },
+        {
+          "number": 5,
+          "text": "“Ek is bruin gebrand maar ek is mooi, vroue van Jerusalem. Ek is so bruin soos die tente van Kedar, soos die tentdoeke van Salomo."
+        },
+        {
+          "number": 6,
+          "text": "Moet my nie so aankyk omdat ek donker is nie, omdat die son my gebrand het nie: my broers het my so bruin laat brand, hulle het my die wingerde laat oppas; ek kon my eie wingerd, myself, nie versorg nie."
+        },
+        {
+          "number": 7,
+          "text": "“Sê my, jy wat ek liefhet, waar laat jy jou kleinvee wei, waar laat jy hulle rus op die middag? Hoekom moet ek my agter 'n sluier wegsteek en by die veetroppe van jou vriende rondsoek?”"
+        },
+        {
+          "number": 8,
+          "text": "“As jy dit nie weet nie, mooiste van al die vroue, loop maar net op die kleinvee se spore en laat jou bokkies wei by die veewagters se tente."
+        },
+        {
+          "number": 9,
+          "text": "“Soos 'n spogperd in die farao se strydwa, so is jy vir my, my liefling,"
+        },
+        {
+          "number": 10,
+          "text": "met jou lieflike wange tussen jou oorbelle, jou nek met sy kettinkies om."
+        },
+        {
+          "number": 11,
+          "text": "Ons sal vir jou oorbelle van goud maak, met silwerknoppies daarin.”"
+        },
+        {
+          "number": 12,
+          "text": "“So lank die koning op sy rusbank gelê het, het my nardusparfuum se geur versprei."
+        },
+        {
+          "number": 13,
+          "text": "Die man wat ek liefhet, is vir my 'n sakkie mirre wat tussen my borste lê."
+        },
+        {
+          "number": 14,
+          "text": "Die man wat ek liefhet, is vir my 'n bos hennablomme uit die wingerde van En-Gedi.”"
+        },
+        {
+          "number": 15,
+          "text": "“Jy is mooi, my liefling, jy is mooi, jou oë is duiwe.”"
+        },
+        {
+          "number": 16,
+          "text": "“Jy is mooi, man wat ek liefhet, baie aantreklik. Ons bed is die groen blare,"
+        },
+        {
+          "number": 17,
+          "text": "ons huis se balke is die seders, sy daklatte is die sipresse."
+        }
+      ]
+    },
+    {
+      "id": "SNG.2",
+      "number": 2,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ek is 'n affodil van Saron, 'n lelie van die laagtes!”"
+        },
+        {
+          "number": 2,
+          "text": "“Soos 'n lelie tussen dorings, so is my liefling tussen die meisies.”"
+        },
+        {
+          "number": 3,
+          "text": "“Soos 'n appelboom tussen wilde bome, so is die man wat ek liefhet, tussen die jongmans. Ek sit graag in sy skaduwee, sy vrugte is soet in my mond."
+        },
+        {
+          "number": 4,
+          "text": "Hy vat my na 'n feesplek toe; hy straal van liefde vir my."
+        },
+        {
+          "number": 5,
+          "text": "Julle moet vir my rosyntjies gee om my sterk te maak, julle moet my met appels verfris, want die liefde verteer my."
+        },
+        {
+          "number": 6,
+          "text": "Sy linkerarm is onder my kop, sy regterarm omhels my."
+        },
+        {
+          "number": 7,
+          "text": "Vroue van Jerusalem, ek smeek julle en ek roep die ribbokke en die takbokke in die veld tot getuie: moenie die liefde wakker maak en aanvuur voor die tyd daarvoor ryp is nie."
+        },
+        {
+          "number": 8,
+          "text": "“Luister, daar kom die man wat ek liefhet! Hy spring oor die berge, hy wip oor die rante."
+        },
+        {
+          "number": 9,
+          "text": "Die man wat ek liefhet, maak soos 'n ribbok, soos 'n takboklam. Kyk, daar staan hy agter ons huis se muur, hy kyk by die venster in, hy loer deur die latwerk!"
+        },
+        {
+          "number": 10,
+          "text": "Die man wat ek liefhet, praat, hy sê vir my: ‘Staan op, my liefling, my mooiste, kom na my toe!"
+        },
+        {
+          "number": 11,
+          "text": "Kyk, die reëntyd is verby, die reën is oor, dis weg."
+        },
+        {
+          "number": 12,
+          "text": "Daar is bloeisels in die veld, dit het tyd geword om te sing; die tortelduif se stem klink oor ons land."
+        },
+        {
+          "number": 13,
+          "text": "Die voorvye kom al uit, die wingerde bot en versprei hulle geur. Staan op, my liefling, my mooiste, kom na my toe!"
+        },
+        {
+          "number": 14,
+          "text": "My duif in die klipskeure, in die skuilplek teen die krans, wys my jou gesig, laat hoor my jou stem. Jou stem is strelend, jou gesig lieflik.’"
+        },
+        {
+          "number": 15,
+          "text": "“Vang vir ons die jakkalse, die klein jakkalsies wat die wingerde verniel, ons wingerde wat al bot."
+        },
+        {
+          "number": 16,
+          "text": "“Die man wat ek liefhet, is myne, en ek syne. Hy laat sy skape tussen die lelies wei"
+        },
+        {
+          "number": 17,
+          "text": "tot die aandwind begin waai en die skaduwees lank word. Kom terug, man wat ek liefhet, maak soos 'n ribbok, soos 'n takboklam op die Beterberge."
+        }
+      ]
+    },
+    {
+      "id": "SNG.3",
+      "number": 3,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Op my bed in die nag het ek gesoek na hom wat ek liefhet; ek het hom gesoek en hom nie gekry nie."
+        },
+        {
+          "number": 2,
+          "text": "Ek het opgestaan en in die stad rondgegaan op die strate en die pleine, en hom gesoek wat ek liefhet; ek het hom gesoek en hom nie gekry nie."
+        },
+        {
+          "number": 3,
+          "text": "Die wagte wat die stad patrolleer, het my daar gekry. Ek het gevra: ‘Het julle die man wat ek liefhet, gesien?’"
+        },
+        {
+          "number": 4,
+          "text": "Skaars was ek by hulle verby of ek het hom wat ek liefhet, gekry. Ek het hom vasgegryp en hom nie laat los nie, ek het hom na my ma se huis toe gebring, na die kamer toe waar ek gebore is."
+        },
+        {
+          "number": 5,
+          "text": "Vroue van Jerusalem, ek smeek julle en ek roep die ribbokke en die takbokke in die veld tot getuie: moenie die liefde wakker maak en aanvuur voor die tyd daarvoor ryp is nie."
+        },
+        {
+          "number": 6,
+          "text": "“Wie is dit wat daar soos 'n rookwolk uit die woestyn uit kom, omgewe deur die geur van mirre, van wierook, van al die lekkerruik-kruie in die handel?"
+        },
+        {
+          "number": 7,
+          "text": "Kyk, sy drastoel is dié van Salomo self! Dit word begelei deur sestig soldate, van Israel se soldate,"
+        },
+        {
+          "number": 8,
+          "text": "elkeen vaardig met die swaard, opgelei vir oorlog, elkeen met 'n swaard aan die sy, gereed vir die nag se gevare."
+        },
+        {
+          "number": 9,
+          "text": "Koning Salomo het van Libanonhout vir hom 'n drastoel laat maak."
+        },
+        {
+          "number": 10,
+          "text": "Die pote het hy van silwer laat maak, die leuning van goud, en die sitplek van pers wol. Die stoel se binnekant is inlegwerk, met liefde gedoen deur die vroue van Jerusalem."
+        },
+        {
+          "number": 11,
+          "text": "Kom kyk na koning Salomo, vroue van Sion; hy dra die kroon waarmee sy moeder hom gekroon het op die dag van sy huwelik, die dag van sy grootste vreugde.”"
+        }
+      ]
+    },
+    {
+      "id": "SNG.4",
+      "number": 4,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Jy is mooi, my liefling, jy is mooi, jou oë is duiwe agter jou sluier. Jou hare is soos 'n trop bokke wat teen die Gileadberge afkom."
+        },
+        {
+          "number": 2,
+          "text": "Jou tande is so wit soos 'n ry pasgeskeerde skape wat nou net skoon gewas is, elkeen met 'n tweeling, nie een sonder 'n lam nie."
+        },
+        {
+          "number": 3,
+          "text": "Jou lippe is soos skarlakenrooi lint, jou mond bekoor my. Die versiersels op jou voorkop is soos granaatpitte agter jou sluier."
+        },
+        {
+          "number": 4,
+          "text": "Dié aan jou nek is soos die Dawidstoring wat uit rye klip gebou is; aan hom hang duisend skilde, al die skilde van die helde."
+        },
+        {
+          "number": 5,
+          "text": "Jou twee borste is soos takboklammers, soos die tweeling van 'n ribbok wat tussen die lelies wei."
+        },
+        {
+          "number": 6,
+          "text": "Wanneer die aandwind begin waai en die skaduwees lank word, wil ek na my mirreberg, my wierookheuwel, toe gaan."
+        },
+        {
+          "number": 7,
+          "text": "Alles aan jou is mooi, my liefling, aan jou is niks verkeerd nie."
+        },
+        {
+          "number": 8,
+          "text": "Kom saam met my van die Libanon af, my bruid, kom saam met my van die Libanon af, kom af hier van die top van Amana, van die top van Senir en Hermon af, weg van die leeus se skuilplekke, weg van die luiperds se hoë lêplekke af."
+        },
+        {
+          "number": 9,
+          "text": "“Jy het my hart gesteel, my beminde bruid, jy het my hart gesteel met een kyk van jou oë, met een skakel in die ketting om jou hals."
+        },
+        {
+          "number": 10,
+          "text": "Ek hou van jou liefkosings, my beminde bruid, jou liefkosings is beter as wyn, jou parfuum ruik lekkerder as al die lekkerruik-kruie."
+        },
+        {
+          "number": 11,
+          "text": "Jou lippe proe soos heuningstroop, my bruid, jou tong soos heuning en dikmelk, en jou klere ruik soos die Libanon."
+        },
+        {
+          "number": 12,
+          "text": "“My beminde bruid is 'n tuin wat toegemaak is, 'n tuin met 'n muur om, 'n fontein wat afgekamp is."
+        },
+        {
+          "number": 13,
+          "text": "Jou liggaam is 'n lushof, granaatbome met keurige vrugte, hennastruike saam met nardus,"
+        },
+        {
+          "number": 14,
+          "text": "nardus en saffraan, kalmoes en kaneel saam met elke soort lekkerruik-kruie, mirre en aalwyn saam met al die beste lekkerruik-kruie."
+        },
+        {
+          "number": 15,
+          "text": "Daar is 'n fontein in my tuin, 'n put met borrelende water, strome van die Libanon af.”"
+        },
+        {
+          "number": 16,
+          "text": "“Word wakker, noordewind, kom, suidewind! Waai deur my tuin, versprei sy geur! Die man wat ek liefhet, kom na sy tuin toe; hy gaan die keurige vrugte daarvan eet.”"
+        }
+      ]
+    },
+    {
+      "id": "SNG.5",
+      "number": 5,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Ek het na my tuin toe gekom, my beminde bruid, ek pluk my mirre, my lekkerruik-kruie, ek eet my lekker vars heuning, ek drink my wyn en my melk. “Eet, vriende, drink, word dronk van die liefde.”"
+        },
+        {
+          "number": 2,
+          "text": "“Ek het geslaap maar my hart het wakker gebly. Toe hoor ek die man wat ek liefhet, klop en hy sê: ‘Maak vir my oop, my beminde bruid, my duif, my volmaakte! My kop is nat van die dou, my hare is nat van die nag se klammigheid!’"
+        },
+        {
+          "number": 3,
+          "text": "“Toe sê ek: ‘Ek het al uitgetrek, hoekom moet ek weer aantrek? Ek het my voete al gewas, hoekom moet ek hulle weer laat vuil word?’"
+        },
+        {
+          "number": 4,
+          "text": "“Maar die man wat ek liefhet, steek sy hand deur die opening, en my hart word onstuimig oor hom."
+        },
+        {
+          "number": 5,
+          "text": "Ek staan op om oop te maak vir die man wat ek liefhet terwyl my hande drup van die mirre, terwyl die mirre van my vingers af afloop op die deur se knoppe."
+        },
+        {
+          "number": 6,
+          "text": "Ek maak oop vir die man wat ek liefhet, maar die man wat ek liefhet, het omgedraai en is weg! Ek was so opgewonde toe hy gepraat het! Ek soek hom maar kry hom nie, ek roep hom maar hy antwoord nie."
+        },
+        {
+          "number": 7,
+          "text": "Die wagte wat die stad patrolleer, kry my, hulle slaan my, hulle maak my seer; die wagte op die mure ruk my tjalie van my af."
+        },
+        {
+          "number": 8,
+          "text": "Vroue van Jerusalem, ek smeek julle: As julle die man wat ek liefhet, raakloop, sê vir hom die liefde verteer my.”"
+        },
+        {
+          "number": 9,
+          "text": "“Is die man wat jy liefhet, dan anders as ander, mooiste van al die vroue? Is die man wat jy liefhet, dan anders as ander dat jy ons so smeek?”"
+        },
+        {
+          "number": 10,
+          "text": "“Die man wat ek liefhet, is blakend gesond en blosend van kleur; jy kan hom uitken tussen tien duisend ander."
+        },
+        {
+          "number": 11,
+          "text": "Sy voorkop is soos suiwer goud, sy haarlokke soos dadeltrosse, so swart soos 'n kraai."
+        },
+        {
+          "number": 12,
+          "text": "Sy oë is soos die duiwe langs die spruite, duiwe wat lyk of hulle in melk gewas is waar hulle langs die water sit."
+        },
+        {
+          "number": 13,
+          "text": "Sy wange is soos die kruiebeddings waar lekkerruik-kruie groei. Sy lippe is soos lelies, hulle drup van mirre."
+        },
+        {
+          "number": 14,
+          "text": "Sy hande is soos stawe goud, met edelstene ingelê. Sy lyf is soos 'n blok ivoor, met saffiere ingelê."
+        },
+        {
+          "number": 15,
+          "text": "Sy bobene is soos marmerpilare wat op goue voetstukke rus. Sy voorkoms is soos dié van die Libanon, indrukwekkend soos die seders."
+        },
+        {
+          "number": 16,
+          "text": "Sy mond smaak soet, alles aan hom is begeerlik. So lyk die man wat ek liefhet, so lyk my lewensmaat, vroue van Jerusalem.”"
+        }
+      ]
+    },
+    {
+      "id": "SNG.6",
+      "number": 6,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Waarheen is die man wat jy liefhet, mooiste van al die vroue? Waarheen is die man wat jy liefhet? Ons sal hom saam met jou soek.”"
+        },
+        {
+          "number": 2,
+          "text": "“Die man wat ek liefhet, is af na sy tuin toe, na die kruiebeddings toe om sy skape tussen die tuine te laat wei en om lelies te pluk."
+        },
+        {
+          "number": 3,
+          "text": "Ek behoort aan die man wat ek liefhet, en die man wat ek liefhet, is myne, hy wat sy skape tussen die lelies laat wei.”"
+        },
+        {
+          "number": 4,
+          "text": "“My liefling, jy is so mooi soos Tirsa, so aantreklik soos Jerusalem, so indrukwekkend soos 'n afdeling vaandeldraers."
+        },
+        {
+          "number": 5,
+          "text": "Draai jou oë liewer weg van my af, hulle maak my onrustig. Jou hare is soos 'n trop bokke wat teen die Gileadberge afkom."
+        },
+        {
+          "number": 6,
+          "text": "Jou tande is so wit soos 'n trop ooie wat nou net skoon gewas is, elkeen met 'n tweeling, nie een sonder 'n lam nie."
+        },
+        {
+          "number": 7,
+          "text": "Die versiersels op jou voorkop is soos granaatpitte agter jou sluier."
+        },
+        {
+          "number": 8,
+          "text": "“Daar is sestig koninginne, tagtig byvroue, jong vroue sonder tal,"
+        },
+        {
+          "number": 9,
+          "text": "maar sy, my duif, my volmaakte, is enig, die enigste dogter van haar ma, haar ma se oogappel. Die jongmeisies kyk na haar; hulle praat met bewondering oor haar, die koninginne en die byvroue sing haar lof."
+        },
+        {
+          "number": 10,
+          "text": "“Wie is dit wat soos die daeraad verskyn, so pragtig soos die maan, so helder soos die son, so indrukwekkend soos 'n afdeling vaandeldraers?"
+        },
+        {
+          "number": 11,
+          "text": "“Ek gaan af na die neuteboord toe, ek gaan kyk na die jong boompies by die spruit, ek gaan kyk hoe die wingerde bot, hoe die granaatbome bloei."
+        },
+        {
+          "number": 12,
+          "text": "Ek ken myself nie, dit is of sy my laat ry op die strydwa van die keur van my volk.”"
+        },
+        {
+          "number": 13,
+          "text": "“Kom terug, kom terug, Sulammitiese vrou! Kom terug, kom terug dat ons jou kan sien!” “Wat wil julle sien aan die Sulammitiese vrou waar sy dans in die soldatekamp?”"
+        }
+      ]
+    },
+    {
+      "id": "SNG.7",
+      "number": 7,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "“Jou voete is so mooi in jou skoene, edel dogter, die rondings van jou heupe is soos juwele wat deur kunstenaarshande gemaak is."
+        },
+        {
+          "number": 2,
+          "text": "Jou naeltjie is 'n ronde kom waarin die kruiewyn nie ontbreek nie. Jou maag is 'n hoop koring met lelies omring."
+        },
+        {
+          "number": 3,
+          "text": "Jou twee borste is soos takboklammers, soos die tweeling van 'n ribbok."
+        },
+        {
+          "number": 4,
+          "text": "Jou nek is soos 'n toring van ivoor, jou oë soos die damme by Gesbon, by die poort van dié groot stad. Jou neus is soos die toring op Libanon wat na Damaskus toe kyk."
+        },
+        {
+          "number": 5,
+          "text": "Jou kop is soos die Karmel, jou hare soos rooi wol, jou haarlokke bekoor die koning."
+        },
+        {
+          "number": 6,
+          "text": "“Jy is so mooi, so bekoorlik, liefste, met soveel wat geniet kan word."
+        },
+        {
+          "number": 7,
+          "text": "Jou slanke gestalte is soos 'n palmboom, jou borste soos druiwetrosse."
+        },
+        {
+          "number": 8,
+          "text": "Ek dink ek gaan teen die palmboom opklim en sy trosse blomme gryp. Laat jou borste vir my soos trosse druiwe wees, die reuk van jou neus soos dié van appels,"
+        },
+        {
+          "number": 9,
+          "text": "jou mond soos goeie wyn wat glad na binne gly vir die man wat jy liefhet, wat tussen sy lippe en sy tande deur vloei.”"
+        },
+        {
+          "number": 10,
+          "text": "“Ek behoort aan die man wat ek liefhet en dit is na my dat hy smag."
+        },
+        {
+          "number": 11,
+          "text": "Kom, man wat ek liefhet, kom ons gaan veld toe, kom ons gaan slaap in die dorpies;"
+        },
+        {
+          "number": 12,
+          "text": "ons gaan vroeg smôrens na die wingerde toe, ons gaan kyk of die wingerdstokke bot, of die botsels oop is en die granaatbome bloei. Daar sal ek my liefde vir jou gee."
+        },
+        {
+          "number": 13,
+          "text": "“Die liefdesappels versprei hulle geur; daar is allerlei keurige vrugte by ons deur, vars en oud; ek het hulle vir jou gebêre, man wat ek liefhet."
+        }
+      ]
+    },
+    {
+      "id": "SNG.8",
+      "number": 8,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Was jy maar my broer! Het jy ook maar aan my ma gedrink! Dan het ek jou gesoen as ek jou in die straat kry en niemand sou my daaroor kwalik geneem het nie."
+        },
+        {
+          "number": 2,
+          "text": "Dan het ek jou saamgevat en na my ma se huis toe gebring en het jy my daar die kuns van die liefde geleer. Dan het ek jou laat drink van my kruiewyn, van my granaatsap."
+        },
+        {
+          "number": 3,
+          "text": "“Sy linkerarm is onder my kop, sy regterarm omhels my!"
+        },
+        {
+          "number": 4,
+          "text": "Ek smeek julle, vroue van Jerusalem, wat is dit dat julle die liefde wakker maak en aanvuur voordat die tyd daarvoor ryp is?”"
+        },
+        {
+          "number": 5,
+          "text": "“Wie is dit wat daar uit die woestyn uit kom terwyl sy leun op die man wat sy liefhet?” “Ek het jou wakker gemaak onder 'n appelboom, daar waar jou ma swanger geword het, waar sy wat jou in die wêreld gebring het, swanger geword het."
+        },
+        {
+          "number": 6,
+          "text": "Hou my teen jou soos die seëlring op jou bors, soos die seëlring aan jou arm. Die liefde is sterker as die dood, die hartstog magtiger as die doderyk; dit brand en vlam soos vuur."
+        },
+        {
+          "number": 7,
+          "text": "Strome water kan die liefde nie blus nie, riviere kan dit nie afkoel nie. Al wil iemand vir die liefde al die rykdom in sy huis betaal, hy sal daaroor uitgelag word.”"
+        },
+        {
+          "number": 8,
+          "text": "“Ons suster is nog klein, haar borste is nog nie ontwikkel nie. Wat kan ons vir ons suster doen die dag as hulle om haar hand begin meeding?"
+        },
+        {
+          "number": 9,
+          "text": "As sy 'n muur was, het ons op haar 'n silwertoring gebou, as sy 'n deur was, het ons haar toegemaak met sederplanke.”"
+        },
+        {
+          "number": 10,
+          "text": "“Ek is 'n muur, en my borste is soos torings. Daarom is ek vir die man wat ek liefhet iemand wat hom gelukkig maak.”"
+        },
+        {
+          "number": 11,
+          "text": "“Salomo het 'n wingerd gehad in Baäl-Hamon. Hy het die wingerd aan wagte toevertrou. Iemand sou vir die opbrengs goed elf duisend gram silwer wou gee."
+        },
+        {
+          "number": 12,
+          "text": "My wingerd is myne alleen. Hou maar die silwer, Salomo, en sit daar twee duisend gram by vir dié wat die opbrengs bewaak."
+        },
+        {
+          "number": 13,
+          "text": "Jy wat in die tuin woon en na wie se stem jou vriende luister, laat my jou stem hoor!”"
+        },
+        {
+          "number": 14,
+          "text": "“Hardloop, man wat ek liefhet, maak soos die ribbok, soos die takboklam op die kruieberge!”"
+        }
+      ]
+    }
+  ]
+}
