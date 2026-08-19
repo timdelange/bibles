@@ -1,0 +1,384 @@
+{
+  "id": "RUT",
+  "name": "Rute",
+  "abbreviation": "Rute",
+  "chapters": [
+    {
+      "id": "RUT.1",
+      "number": 1,
+      "headings": [
+        "Naomi naRute"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mumazuva okutonga kwavatongi munyika makaita nzara, uye mumwe murume aibva kuBheterehema Judha, pamwe chete nomukadzi wake navanakomana vake vaviri, akaenda kundogara munyika yeMoabhu kwechinguva."
+        },
+        {
+          "number": 2,
+          "text": "Murume uyu ainzi Erimereki, mukadzi wake achinzi Naomi, uye mazita avanakomana vake vaviri aiva Maroni naKirioni. Vaiva vaEfurata vaibva kuBheterehema Judha. Uye vakaenda kuMoabhu vakagarako."
+        },
+        {
+          "number": 3,
+          "text": "Zvino Erimereki, murume waNaomi akafa, iye akasiyiwa aine vanakomana vake vaviri."
+        },
+        {
+          "number": 4,
+          "text": "Vakawana vakadzi vechiMoabhu, zita romumwe rainzi Opa uye romumwe rainzi Rute. Mushure mokunge vagarako kwamakore anenge gumi,"
+        },
+        {
+          "number": 5,
+          "text": "vose vari vaviri, Maroni naKirioni vakafawo, Naomi akasiyiwa asina vanakomana vake vaviri nomurume wake."
+        },
+        {
+          "number": 6,
+          "text": "Naomi paakanga achiri muMoabhu, akanzwa kuti Jehovha akazoshanyira vanhu vake akavapa zvokudya, iye navaroora vake vakagadzirira kudzokera kumusha vachibva ikoko."
+        },
+        {
+          "number": 7,
+          "text": "Akabva pamwe chete navaroora vake panzvimbo yavaigara vakasimuka vakaenda nenzira yaizovasvitsa kunyika yeJudha."
+        },
+        {
+          "number": 8,
+          "text": "Zvino Naomi akati kuvaroora vake vaviri, “Chidzokerai henyu, mumwe nomumwe wenyu kuimba yamai vake. Jehovha ngaakuitirei tsitsi, sezvamakaitirawo vakafa venyu nokwandiri."
+        },
+        {
+          "number": 9,
+          "text": "Jehovha ngaaite kuti mumwe nomumwe wenyu awane zororo mumba yomumwe murume.” Ipapo akavatsvoda uye vakachema zvikuru."
+        },
+        {
+          "number": 10,
+          "text": "Zvino vakati kwaari, “Tichadzokera nemi kuvanhu vokwenyu.”"
+        },
+        {
+          "number": 11,
+          "text": "Asi Naomi akati kwavari, “Dzokerai, vana vangu. Mungadireiko kuenda neni? Ndichazova navamwe vanakomana, vangazova varume venyu here?"
+        },
+        {
+          "number": 12,
+          "text": "Dzokerai, vanasikana vangu; ini ndachembera kwazvo zvokuti handingavi nomumwe murume. Kunyange dai ndaifunga kuti ndichine tariro, kunyange ndaiva nomurume usiku huno ndikabereka vanakomana,"
+        },
+        {
+          "number": 13,
+          "text": "maizovamirira kusvikira vakura here? Mungazogara musina kuwanikwa nokuda kwavo here? Kwete, vanasikana vangu. Izvi zvandishungurudza kwazvo kupinda imi, nokuti ruoko rwaJehovha rwauya kuzorwisana neni!”"
+        },
+        {
+          "number": 14,
+          "text": "Nokuda kwaizvozvo, vakachema zvakare. Ipapo Opa akasvetana navamwene akaonekana navo, asi Rute akanamatirana navo."
+        },
+        {
+          "number": 15,
+          "text": "Naomi akati kwaari, “Tarira, mukadzinyina wako adzokera kuvanhu vokwake nokuvamwari vake. Chidzokera naye.”"
+        },
+        {
+          "number": 16,
+          "text": "Asi Rute akapindura akati, “Musandigombedzera kuti ndikusiyei kana kukufuratirai. Kwamunoenda ndiko kwandichaendawo, uye pamunogara ndipo pandichagarawo. Vanhu venyu vachava vanhu vangu uye Mwari wenyu achava Mwari wangu."
+        },
+        {
+          "number": 17,
+          "text": "Pamunofira ndipo pandichafirawo, uye ndipo pandichavigwa. Jehovha ngaandirange, zvinorwadza kwazvo, kana pakava nechimwe chinhu chingatiparadzanisa kunze kworufu.”"
+        },
+        {
+          "number": 18,
+          "text": "Zvino Naomi akati aona kuti Rute akanga ashinga kuenda naye, akarega kumugombedzera."
+        },
+        {
+          "number": 19,
+          "text": "Saka vakadzi vaviri ava vakaramba vachifamba kusvikira vasvika kuBheterehema. Vakati vasvika muBheterehema, guta rose rakazungunuswa nokuda kwavo, uye vakadzi vakakatyamara vachiti, “Angava Naomi here uyu?”"
+        },
+        {
+          "number": 20,
+          "text": "Iye akati kwavari, “Musandidaidza kuti Naomi. Ndidaidzei kuti Mara, nokuti Wamasimba Ose akashungurudza upenyu hwangu kwazvo."
+        },
+        {
+          "number": 21,
+          "text": "Ndakaenda ndakazara, asi Jehovha akandidzosa ndisina chinhu. Seiko muchinditi Naomi? Jehovha akandirwadzisa; Wamasimba Ose akauyisa rushambwa pamusoro pangu.”"
+        },
+        {
+          "number": 22,
+          "text": "Naizvozvo Naomi akadzokera achibva kuMoabhu, naRute muMoabhu, muroora wake, vakasvika muBheterehema nguva yokukohwa bhari ichangotanga."
+        }
+      ]
+    },
+    {
+      "id": "RUT.2",
+      "number": 2,
+      "headings": [
+        "Naomi anosangana naBhoazi"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zvino Naomi aiva nehama yokumurume wake, aibva kuimba yaErimereki, murume akasimukira, zita rake richinzi Bhoazi."
+        },
+        {
+          "number": 2,
+          "text": "Zvino Rute muMoabhu akati kuna Naomi, “Regai ndiende kuminda ndinonongera zviyo zvinosara ndiri shure kwaani zvake achandiitira nyasha.” Naomi akati kwaari, “Enda hako mwanasikana wangu.”"
+        },
+        {
+          "number": 3,
+          "text": "Naizvozvo akaenda kuminda akatanga kunongera ari muminda achitevera shure kwavacheki. Zvakaitika ndezvokuti akabva angoenda kundoshanda mumunda waBhoazi, uyo aibva kuimba yaErimereki."
+        },
+        {
+          "number": 4,
+          "text": "Panguva iyoyo Bhoazi akasvika achibva kuBheterehema ndokukwazisa vacheki achiti, “Jehovha ave nemi!” Ivo vakapindura vachiti, “Jehovha akuropafadzei!”"
+        },
+        {
+          "number": 5,
+          "text": "Bhoazi akabvunza mutariri wavacheki akati, “Ko, mukadzi wechidiki uyo ndewani?”"
+        },
+        {
+          "number": 6,
+          "text": "Mutariri akapindura akati, “Mukadzi wechiMoabhu akadzoka pamwe chete naNaomi vachibva kuMoabhu."
+        },
+        {
+          "number": 7,
+          "text": "Ati, ‘Ndapota nditenderei kunongera ndichiunganidza pakati pezvisote ndiri mushure mavacheki.’ Abva aenda mumunda akashanda nesimba kubva mangwanani kusvikira zvino, kunze kwenguva pfupi yaazorora ari mudumba iro.”"
+        },
+        {
+          "number": 8,
+          "text": "Saka Bhoazi akati kuna Rute, “Chinzwa, mwanasikana wangu. Usaenda kunonongera uri kuno mumwe munda uye usaenda kure uchibva pano. Gara pano navashandi vangu vechisikana ava."
+        },
+        {
+          "number": 9,
+          "text": "Utarire munda uyo waunoona varume vachicheka, ugotevera mushure mavasikana. Ndarayira majaya kuti arege kukubata. Uye paunonzwira nyota, uende kunonwa mvura mumidziyo iyo yazadzwa namajaya.”"
+        },
+        {
+          "number": 10,
+          "text": "Ipapo, akawira pasi nechiso chake akatsikitsira pasi. Akashamisika, akati, “Zvaita sei kuti ndiwane nyasha dzakadai pamberi penyu kuti mundione ini mutorwa?”"
+        },
+        {
+          "number": 11,
+          "text": "Bhoazi akapindura achiti, “Ndakaudzwa pamusoro pezvose zvawakaitira vamwene vako kubva pakufa kwomurume wako, uye kuti wakasiya sei baba vako namai vako uye nenyika yokwako ukauya kuzogara navanhu vawakanga usingazivi."
+        },
+        {
+          "number": 12,
+          "text": "Jehovha ngaakuripire pane zvawakaita. Jehovha, Mwari waIsraeri, ngaakupe mubayiro uzere, iye wawakauya ukavanda pasi pamapapiro ake.”"
+        },
+        {
+          "number": 13,
+          "text": "Rute akati, “Regai ndirambe ndichiwana nyasha pamberi penyu, ishe wangu. Mandinyaradza uye mataura netsitsi kumurandakadzi wenyu kunyange ndisina kufanana navamwe varandakadzi venyu.”"
+        },
+        {
+          "number": 14,
+          "text": "Panguva yokudya, Bhoazi akati kwaari, “Uya kuno. Tora chingwa udye uchiseva muvhiniga iyi.” Akati agara pasi navacheki, Bhoazi akamupa zviyo zvakakangwa. Akadya zvose zvaaida zvimwe zvikasara."
+        },
+        {
+          "number": 15,
+          "text": "Paakasimuka kuti anongere, Bhoazi akarayira majaya ake achiti, “Kunyange akaunganidza pakati pezvisote, musamudzivisa."
+        },
+        {
+          "number": 16,
+          "text": "Asi, mumuvhomorere dzimwe tsama, kubva pamasumbu enyu mumusiyire agononga, uye musamutsiura.”"
+        },
+        {
+          "number": 17,
+          "text": "Naizvozvo Rute akanongera ari mumunda kusvikira manheru. Ipapo akapura bhari raakanga aunganidza, rikasvika pachiero cheefa + 2:17 ."
+        },
+        {
+          "number": 18,
+          "text": "Akaritakura akaenda naro kuguta, vamwene vake vakaona kuti akanga aunganidza zvakadini. Rute akavigirawo vamwene vake zvaakanga asiya paakanga adya akaguta."
+        },
+        {
+          "number": 19,
+          "text": "Vamwene vake vakamubvunza vakati, “Nhasi wanga uchinongera uri kupiko? Washandirepi? Ngaaropafadzwe murume uyo akuona.” Ipapo Rute akaudza vamwene vake pamusoro pomunhu akanga ari mwene wenzvimbo yaakanga achishandira. Akati kwaari, “Zita romurume wandashanda naye nhasi ndiBhoazi.”"
+        },
+        {
+          "number": 20,
+          "text": "Naomi akati kumuroora wake, “Jehovha ngaamuropafadze! Iye asina kurega kuratidza tsitsi kuvapenyu navakafa.” Akatizve, “Murume iyeye ihama yedu yapedyo; mumwe wavadzikinuri vedu.”"
+        },
+        {
+          "number": 21,
+          "text": "Ipapo Rute muMoabhu akati, “Abva ati kwandiri, ‘Gara navashandi vangu kusvikira vapedza kucheka zviyo zvangu zvose.’ ”"
+        },
+        {
+          "number": 22,
+          "text": "Naomi akati kuna Rute muroora wake, “Zvichava zvakanaka kwauri mwanangu, kuti uende navasikana vake, nokuti ukaenda mumunda womumwe ungazokanganiswa.”"
+        },
+        {
+          "number": 23,
+          "text": "Saka Rute akagara pedyo navasikana vaishandira Bhoazi achinongera kusvikira kuchekwa kwegorosi nebhari kwapera. Uye iye akagara navamwene vake."
+        }
+      ]
+    },
+    {
+      "id": "RUT.3",
+      "number": 3,
+      "headings": [
+        "Rute naBhoazi paBuriro"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Rimwe zuva Naomi, vamwene vake vakati kwaari, “Mwanasikana wangu, handingaedzi kukuwanira musha here, paungawana zvinokuriritira zvakakwana?"
+        },
+        {
+          "number": 2,
+          "text": "Ko, Bhoazi ane vasikana vawanga uchishanda navo haasi hama yedu yapedyo here? Achange ari paburiro achirudza bhari nhasi manheru."
+        },
+        {
+          "number": 3,
+          "text": "Shamba ugozora mafuta anonhuhwira, ugopfeka nguo dzako dzakaisvonaka. Ipapo ugodzika kuburiro, asi usaite kuti azive kuti iwe uripo kusvikira apedza kudya nokunwa."
+        },
+        {
+          "number": 4,
+          "text": "Kana orara, ucherechedze nzvimbo yaanorara. Ipapo ugoenda ufukure tsoka dzake ugorara pasi. Achakuudza zvaunofanira kuita.”"
+        },
+        {
+          "number": 5,
+          "text": "Rute akapindura akati, “Ndichaita zvose zvamareva.”"
+        },
+        {
+          "number": 6,
+          "text": "Naizvozvo akadzika kuburiro akaita zvose zvaakataurirwa navamwene vake."
+        },
+        {
+          "number": 7,
+          "text": "Bhoazi akati apedza kudya nokunwa uye mwoyo wake wafara, akaenda akandorara kumuchetocheto kwomurwi wezviyo. Rute akaswedera kwaari chinyararire, akafukura tsoka dzake akarara pasi."
+        },
+        {
+          "number": 8,
+          "text": "Pakati pousiku chimwe chinhu chakavhundutsa murume, akashanduka akaona mukadzi akarara kumakumbo kwake."
+        },
+        {
+          "number": 9,
+          "text": "Akamubvunza akati, “Ndiwe aniko?” Iye akati, “Ndini murandakadzi wenyu Rute. Tambanudzai chikamu chenguo yenyu muchiise pamusoro pangu, sezvo muri hama yapedyo nomudzikinuri.”"
+        },
+        {
+          "number": 10,
+          "text": "Akapindura akati kwaari, “Jehovha akuropafadze, mwanasikana wangu. Tsitsi idzi dzakakura kupinda zvawakaratidza pakutanga. Hauna kumhanyira majaya, hazvinei kuti varombo kana vapfumi."
+        },
+        {
+          "number": 11,
+          "text": "Naizvozvo zvino, mwanasikana wangu, usatya. Ndichakuitira zvose zvawakakumbira. Varume vose vagere neni muguta vanoziva kuti uri mukadzi akatsiga."
+        },
+        {
+          "number": 12,
+          "text": "Kunyange zvazvo chiri chokwadi kuti ndiri hama yapedyo, pane imwe hama yapedyo ari pedyo kupfuura ini."
+        },
+        {
+          "number": 13,
+          "text": "Chigara hako usiku huno, uye mangwanani kana achida kudzikinura, zvakanaka, ngaadzikinure hake. Asi kana asingadi, naJehovha mupenyu ini ndichazviita. Chivata pano kusvikira mangwanani.”"
+        },
+        {
+          "number": 14,
+          "text": "Naizvozvo akarara kumakumbo ake kusvikira mangwanani, asi akamuka mambakwedza pasina aigona kuzivikanwa kuti ndiani; uye Bhoazi akati, “Usaita kuti zvizivikanwe kuti pane mukadzi akauya paburiro.”"
+        },
+        {
+          "number": 15,
+          "text": "Akati kwaarizve, “Ndipe kuno mucheka wawakamonera ugoutambanudza.” Akati aita izvozvo, Bhoazi akadururira zviyero zvebhari zvitanhatu mauri akamutakudza pamusoro. Ipapo akadzokera kuguta."
+        },
+        {
+          "number": 16,
+          "text": "Zvino Rute akati asvika kuna vamwene vake, Naomi akamubvunza akati, “Zvaita mafambiroi mwanasikana wangu?” Ipapo iye akamuudza zvose zvaakanga aitirwa naBhoazi,"
+        },
+        {
+          "number": 17,
+          "text": "uye akatizve, “Andipa zviyero zvitanhatu izvi zvebhari, akati, ‘Usadzokera kuna vamwene vako usina chinhu.’ ”"
+        },
+        {
+          "number": 18,
+          "text": "Ipapo Naomi akati, “Chimira, mwanasikana wangu, kusvikira waona zvinoitika. Nokuti murume uyu haangazorori kusvikira agadzirisa nyaya iyi nhasi.”"
+        }
+      ]
+    },
+    {
+      "id": "RUT.4",
+      "number": 4,
+      "headings": [
+        "Bhoazi anowana Rute",
+        "Marudzi aDhavhidhi"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zvichakadaro, Bhoazi akakwira akaenda pasuo reguta akandogarapo. Hama yapedyo mudzikinuri uya waaireva akati asvika, Bhoazi akati kwaari, “Douya napano, shamwari yangu, ugogara pasi.” Naizvozvo akaenda akandogara pasi."
+        },
+        {
+          "number": 2,
+          "text": "Bhoazi akatora vakuru veguta gumi akati kwavari, “Garai pano apa,” ivo vakaita saizvozvo."
+        },
+        {
+          "number": 3,
+          "text": "Ipapo akati kuhama yapedyo, mudzikinuri, “Naomi uya akadzoka kumusha kubva kuMoabhu, ari kutengesa munda waiva waErimereki hama yedu."
+        },
+        {
+          "number": 4,
+          "text": "Ndafunga kuti ndiise nyaya kwauri nokukupa zano rokuti utenge pamberi paavo vagere pano uye napamberi pavakuru vavanhu vangu. Kana uchida kuudzikinura, ita hako izvozvo. Asi kana usingadi, ndiudze, kuti ndigoziva. Nokuti hapana mumwe ane mvumo yokuzviita kunze kwako, uye ini ndini ndinokutevera.” Iye akati, “Ndichautenga.”"
+        },
+        {
+          "number": 5,
+          "text": "Ipapo Bhoazi akati, “Pazuva raunotenga munda uyu kubva kuna Naomi naRute muMoabhu, unotorawo chirikadzi yomushakabvu, kuitira kuti mumutse zita romufi nenhaka yake.”"
+        },
+        {
+          "number": 6,
+          "text": "Uye hama yapedyo, mudzikinuri akati, “Kana zvakadaro handingagoni kuudzikinura nokuti ndingazokanganisa nhaka yanguwo. Chiutenga iwe pachako. Ini handikwanisi kuzviita.”"
+        },
+        {
+          "number": 7,
+          "text": "(Zvino pamazuva akare muIsraeri, pakutenga nokutsinhana midziyo uye kuti zvisimbiswe, mumwe aibvisa shangu yake oipa kuno mumwe. Iyi ndiyo yaiva nzira yokuita chibvumirano zviri pamutemo muIsraeri.)"
+        },
+        {
+          "number": 8,
+          "text": "Naizvozvo hama yapedyo, mudzikinuri akati kuna Bhoazi, “Chiutenga iwe.” Uye akabvisa shangu yake."
+        },
+        {
+          "number": 9,
+          "text": "Ipapo Bhoazi akazivisa vakuru navanhu vose akati, “Nhasi muri zvapupu zvokuti ndatenga kubva kuna Naomi zvake zvose nazvose zvaiva zvaErimereki, zvaKirioni nezvaMaroni."
+        },
+        {
+          "number": 10,
+          "text": "Ndatorawo Rute muMoabhu, chirikadzi yaMaroni, kuti ave mukadzi wangu kuti ndimutse zita romushakabvu pamwe chete nenhaka yake, kuitira kuti zita rake rirege kurova mumhuri yake kana mumabhuku eguta. Nhasi ndimi zvapupu!”"
+        },
+        {
+          "number": 11,
+          "text": "Ipapo vakuru navose vaiva pasuo vakati, “Tiri zvapupu isu. Jehovha ngaaite kuti mukadzi ari kuuya mumusha mako ave saRakeri naRea, avo vakavaka pamwe chete imba yaIsraeri. Iwe dai ukasimudzirwa muEfurata uye ukava nomukurumbira muBheterehema."
+        },
+        {
+          "number": 12,
+          "text": "Kubudikidza navana vaunopiwa naJehovha nomukadzi wechidiki uyu, mhuri yako ngaive seyaPerezi, uyo akaberekerwa Judha naTamari.”"
+        },
+        {
+          "number": 13,
+          "text": "Naizvozvo Bhoazi akatora Rute akava mukadzi wake. Zvino akapinda kwaari Jehovha akamuita kuti abate pamuviri, iye akabereka mwanakomana."
+        },
+        {
+          "number": 14,
+          "text": "Vakadzi vakati kuna Naomi, “Jehovha ngaarumbidzwe, uyo asina kukusiya usina hama yapedyo, mudzikinuri. Ngaave nomukurumbira pakati peIsraeri yose!"
+        },
+        {
+          "number": 15,
+          "text": "Achavandudza upenyu hwako nokukuchengeta pamazuva okuchembera kwako. Nokuti muroora wako, uyo anokuda uye anokunda vanakomana vanomwe, ndiye amubereka.”"
+        },
+        {
+          "number": 16,
+          "text": "Ipapo Naomi akatora mwana, akamuisa pamakumbo ake akamurera."
+        },
+        {
+          "number": 17,
+          "text": "Vakadzi vaigarako vakati, “Naomi ava nomwana womukomana.” Zvino vakamutumidza kuti Obhedhi. Ndiye aiva baba vaJese, baba vaDhavhidhi."
+        },
+        {
+          "number": 18,
+          "text": "Iyi ndiyo imba yaPerezi: Perezi akabereka Hezironi,"
+        },
+        {
+          "number": 19,
+          "text": "Hezironi akabereka Ramu, Ramu akabereka Aminadhabhi,"
+        },
+        {
+          "number": 20,
+          "text": "Aminadhabhi akabereka Nashoni, Nashoni akabereka Sarimoni,"
+        },
+        {
+          "number": 21,
+          "text": "Sarimoni akabereka Bhoazi, Bhoazi akabereka Obhedhi,"
+        },
+        {
+          "number": 22,
+          "text": "Obhedhi akabereka Jese, uye Jese akabereka Dhavhidhi."
+        }
+      ]
+    }
+  ]
+}

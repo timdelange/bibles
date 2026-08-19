@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 .DS_Store
 acquisition/*_output/.*_source.json
+acquisition/*_output/.*_source.zip
 webapp/node_modules/
 webapp/dist/
 webapp/.env

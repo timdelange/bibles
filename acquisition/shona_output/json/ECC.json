@@ -1,0 +1,1006 @@
+{
+  "id": "ECC",
+  "name": "Muparidzi",
+  "abbreviation": "Mupa",
+  "chapters": [
+    {
+      "id": "ECC.1",
+      "number": 1,
+      "headings": [
+        "Zvose hazvina maturo",
+        "Uchenjeri hahuna maturo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mashoko oMuparidzi, mwanakomana waDhavhidhi, mambo muJerusarema:"
+        },
+        {
+          "number": 2,
+          "text": "Zvanzi noMuparidzi, “Hazvina maturo! Hazvina maturo! Hazvina maturo chose! Zvose hazvina maturo.”"
+        },
+        {
+          "number": 3,
+          "text": "Munhu achawaneiko kubva pakushanda kwake kwose kwaanoita nesimba pasi pezuva?"
+        },
+        {
+          "number": 4,
+          "text": "Zvizvarwa zvinouya uye zvizvarwa zvinoenda, asi nyika inogara nokusingaperi."
+        },
+        {
+          "number": 5,
+          "text": "Zuva rinobuda uye zuva rinovira, uye rinokurumidza kudzokerazve kwarinobudira."
+        },
+        {
+          "number": 6,
+          "text": "Mhepo inovhuvhuta ichienda zasi, yozodzokera kumusoro; inotenderera nokutenderera ichingodzokerazve pagwara rayo."
+        },
+        {
+          "number": 7,
+          "text": "Nzizi dzose dzinodira mugungwa, kunyange zvakadaro gungwa harizari. Kunzvimbo kwadzinobva nzizi, ikoko ndiko kwadzinodzokerazve."
+        },
+        {
+          "number": 8,
+          "text": "Zvinhu zvose zvinonetesa, zvisina ani angazvitaura. Ziso hariguti kuona, uye nzeve haizari nokunzwa."
+        },
+        {
+          "number": 9,
+          "text": "Chakanga chiripo, chichazovapozve, chakamboitwa chichaitwazve; hapana chitsva pasi pezuva."
+        },
+        {
+          "number": 10,
+          "text": "Chiripo here chinhu chinganzi nomunhu, “Tarira! Chinhu ichi chitsva?” Chakanga chichingovapo, kare kare; chakanga chiripo isu tisati tavapo."
+        },
+        {
+          "number": 11,
+          "text": "Vanhu vakare havacharangarirwi; uye kunyange vanovatevera, havachazorangarirwi nevanozotevera."
+        },
+        {
+          "number": 12,
+          "text": "Ini muparidzi ndakanga ndiri mambo weIsraeri muJerusarema."
+        },
+        {
+          "number": 13,
+          "text": "Ndakazvipira kunzvera nokutsvaka nouchenjeri zvose zvinoitwa pasi pedenga. Ibasa rinotambudza rakapiwa vanakomana vavanhu naMwari kuti vazvitambudze naro."
+        },
+        {
+          "number": 14,
+          "text": "Ndakaona zvinhu zvose zvinoitwa pasi pezuva; zvose hazvo hazvina maturo, kudzingana nemhepo bedzi."
+        },
+        {
+          "number": 15,
+          "text": "Chakakombamiswa hachingatwasanudzwi; chinoshayikwa hachingaverengwi."
+        },
+        {
+          "number": 16,
+          "text": "Ndakafunga mumwoyo mangu ndikati, “Tarira, ndazviwanira uchenjeri hwakawanda kupfuura vose vakanditangira kutonga muJerusarema; ndava nouchenjeri uye noruzivo rwakawanda.”"
+        },
+        {
+          "number": 17,
+          "text": "Ipapo ndakazvipira kutsvaka kunzwisisa uchenjeri uyezve noupengo noupenzi, asi ndakadzidzawo zvakare kuti, naizvozviwo kudzingana nemhepo."
+        },
+        {
+          "number": 18,
+          "text": "Nokuti muuchenjeri huzhinji mune kusuwa kuzhinji; kuwanda kwezivo, kuwandawo kwokuchema."
+        }
+      ]
+    },
+    {
+      "id": "ECC.2",
+      "number": 2,
+      "headings": [
+        "Kufara kuzhinji hakuna maturo",
+        "Uchenjeri noUpenzi hazvina maturo",
+        "Kushanda hakuna maturo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ndakati mumwoyo mangu, “Uya zvino, ndichakuedza nomufaro kuti uzive chakanaka.” Asi naizvozviwo hazvina maturo."
+        },
+        {
+          "number": 2,
+          "text": "Ndakati, “Kuseka upenzi, uyezve mafaro anobatsireiko?”"
+        },
+        {
+          "number": 3,
+          "text": "Ndakaedza kuzvifadza newaini, uye kumbundikira upenzi, pfungwa dzangu dzichinditungamirira nouchenjeri. Ndaida kuona kuti chii chakafanira kuti vanhu vaite pasi pedenga mumazuva mashoma oupenyu hwavo."
+        },
+        {
+          "number": 4,
+          "text": "Ndakaita mabasa makuru; ndakazvivakira dzimba ndikazvirimira minda yemizambiringa."
+        },
+        {
+          "number": 5,
+          "text": "Ndakazvigadzirira mapindu, neminda yemiti uye ndikasimamo miti yemichero yendudzi dzose."
+        },
+        {
+          "number": 6,
+          "text": "Ndakavaka madhamu kuti ndidiridzire sango remiti yaikura."
+        },
+        {
+          "number": 7,
+          "text": "Ndakatenga varandarume navarandakadzi, uye ndaiva navamwe varanda vakaberekerwa mumba mangu. Ndaivawo nepfuma zhinji yemombe namakwai, kupfuura ani zvake akanditangira kuvapo paJerusarema."
+        },
+        {
+          "number": 8,
+          "text": "Ndakazviunganidzira sirivha negoridhe, uye nepfuma yamadzimambo uye neyamatunhu. Ndakatsvaka vaimbi, varume navakadzi, uye nezviridzwa, nezvinofadza vanakomana vavanhu, navarongowo vazhinji."
+        },
+        {
+          "number": 9,
+          "text": "Saka ndakava mukuru kwazvo kupfuura ani zvake akanditangira paJerusarema. Mune izvi zvose uchenjeri hwangu hwakaramba huneni."
+        },
+        {
+          "number": 10,
+          "text": "Handina kuzvirambidza zvinhu zvaidiwa nameso angu, handina kurambidza mwoyo wangu mufaro. Mwoyo wangu wakafadzwa nebasa rangu rose, uye uyu ndiwo wakava mubayiro wokushanda kwangu kwose."
+        },
+        {
+          "number": 11,
+          "text": "Asi pandakaongorora mabasa ose akanga aitwa namaoko angu uye zvandakatambudzikira kuti ndiwane, zvose zvakanga zvisina maturo, kwaingova kudzingana nemhepo; hapana chaibatsira pasi pezuva."
+        },
+        {
+          "number": 12,
+          "text": "Naizvozvo ndakapindura pfungwa dzangu kuti ndicherechedze uchenjeri, urema uye noupenzi. Chii chimwe chingaitwa nomunhu anotevera mumwe paumambo kunze kwezvakatoitwa kare?"
+        },
+        {
+          "number": 13,
+          "text": "Ndakaona kuti uchenjeri huri nani pano upenzi, sezvo chiedza chiri nani pane rima."
+        },
+        {
+          "number": 14,
+          "text": "Meso omunhu akachenjera ari mumusoro make, nokuno rumwe rutivi benzi richifamba murima; asi ndakasvika pakuziva kuti vose vanowirwa nedambudziko rimwe chete."
+        },
+        {
+          "number": 15,
+          "text": "Ipapo ndakafunga mumwoyo mangu ndikati, “Magumo ebenzi achandiwanawo neni. Chii zvino chandinowana pakuva munhu akachenjera?” Ndakati mumwoyo mangu, “Izviwo hazvina maturo.”"
+        },
+        {
+          "number": 16,
+          "text": "Nokuti munhu akachenjera akafanana nebenzi pakusarangarirwa; mumazuva anouya vose vachazokanganwikwa. Kufanana nebenzi, akachenjera anofanira kufawo!"
+        },
+        {
+          "number": 17,
+          "text": "Saka ndakavenga upenyu, nokuti basa rinoitwa pasi pezuva rakandirwadza kwazvo. Zvose hazvo hazvina maturo, kudzingana nemhepo."
+        },
+        {
+          "number": 18,
+          "text": "Ndakavenga zvinhu zvose zvandakashingairira pasi pezuva, nokuti ndinofanira kuzvisiyira anonditevera."
+        },
+        {
+          "number": 19,
+          "text": "Uye ndiani angaziva kana achizova akachenjera kana benzi? Kunyange zvakadaro achava nesimba pamusoro pebasa rose randakatamburira nesimba nounyanzvi hwangu pasi pezuva. Izviwo hazvina maturo."
+        },
+        {
+          "number": 20,
+          "text": "Saka mwoyo wangu wakatanga kushungurudzika pamusoro pokutambudzika nokushanda kwangu pasi pezuva."
+        },
+        {
+          "number": 21,
+          "text": "Nokuti munhu angaite basa rake nouchenjeri, noruzivo uye nounyanzvi, zvino ipapo ozofanira kusiya zvose zvaanazvo kuno mumwe asina kuzvishandira. Naizvozviwo hazvina maturo uye chinhu chakaipa kwazvo."
+        },
+        {
+          "number": 22,
+          "text": "Munhu anowanei pakushanda kwose nokushingaira kwomwoyo nokuda kwokushanda kwake pasi pezuva?"
+        },
+        {
+          "number": 23,
+          "text": "Mazuva ake ose basa rake kurwadziwa nokusuwa; kunyange nousiku pfungwa dzake hadzizorori. Naizvozviwo hazvina maturo."
+        },
+        {
+          "number": 24,
+          "text": "Munhu haana chaangaita chinopfuura kudya nokunwa kuti awane kugutswa pakushanda kwake. Naizvozviwo, ndinoona kuti zvinobva muruoko rwaMwari,"
+        },
+        {
+          "number": 25,
+          "text": "nokuti kana pasina iye, ndiani angadya kana kuwana mufaro?"
+        },
+        {
+          "number": 26,
+          "text": "Kuno munhu anomufadza, Mwari anopa uchenjeri, nezivo nomufaro asi kuno mutadzi, anopa basa rokuunganidza nokuchengetera upfumi kuti agozvipa uyo anofadza Mwari. Naizvozviwo hazvina maturo, kudzingana nemhepo."
+        }
+      ]
+    },
+    {
+      "id": "ECC.3",
+      "number": 3,
+      "headings": [
+        "Chimwe nechimwe chine nguva yacho"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Chinhu chimwe nechimwe chine nguva yacho, uye basa rimwe nerimwe rine nguva yaro pasi pedenga:"
+        },
+        {
+          "number": 2,
+          "text": "nguva yokuberekwa nenguva yokufa, nguva yokusima nenguva yokudzura;"
+        },
+        {
+          "number": 3,
+          "text": "nguva yokuuraya nenguva yokuporesa, nguva yokuputsa nenguva yokuvaka;"
+        },
+        {
+          "number": 4,
+          "text": "nguva yokuchema nenguva yokuseka, nguva yokuungudza nenguva yokudzana;"
+        },
+        {
+          "number": 5,
+          "text": "nguva yokurasa mabwe nenguva yokuaunganidza pamwe chete, nguva yokumbundikira nenguva yokurega;"
+        },
+        {
+          "number": 6,
+          "text": "nguva yokutsvaka nenguva yokurega zvirasike, nguva yokuchengeta nenguva yokurasa;"
+        },
+        {
+          "number": 7,
+          "text": "nguva yokubvarura nenguva yokusona, nguva yokunyarara nenguva yokutaura;"
+        },
+        {
+          "number": 8,
+          "text": "nguva yokuda nenguva yokuvenga, nguva yehondo nenguva yorugare."
+        },
+        {
+          "number": 9,
+          "text": "Ko, mushandi anowanei kubva mukushanda kwake kwose?"
+        },
+        {
+          "number": 10,
+          "text": "Ndakaona mutoro wakapiwa vanhu naMwari."
+        },
+        {
+          "number": 11,
+          "text": "Akaita chinhu chimwe nechimwe chakanaka nenguva yacho. Akaisawo zvisingaperi mumwoyo yavanhu; kunyange zvakadaro havangagoni kunzwisisa zvakaitwa naMwari kubva pakutanga kusvika pakupedzisira."
+        },
+        {
+          "number": 12,
+          "text": "Ndinoziva kuti hakuna chinhu chakanakira munhu kupfuura kuti afare uye kuti aite zvakanaka achiri mupenyu."
+        },
+        {
+          "number": 13,
+          "text": "Kuti munhu wose adye uye anwe uye azviwanire kugutsikana kubva pakushanda kwake kwose, ichi ndicho chipo chaMwari."
+        },
+        {
+          "number": 14,
+          "text": "Ndinoziva kuti zvose zvinoitwa naMwari zvichagara nokusingaperi; hapana chingawedzerwa pazviri uye hapana chingabviswa pazviri. Mwari anozviita kuti vanhu vamukudze."
+        },
+        {
+          "number": 15,
+          "text": "Chipi nechipi chiripo zvino, chakagara chiripo kare, uye zvichazovapo zvakatovapo kare; uye Mwari anotsvakazve zvakapfuura."
+        },
+        {
+          "number": 16,
+          "text": "Uyezve ndakaona chimwe chinhu pasi pezuva: Panzvimbo yokururamisira, zvakaipa zvakanga zviripo, panzvimbo yokururama, zvakaipa zvakanga zviripo."
+        },
+        {
+          "number": 17,
+          "text": "Ndakafunga mumwoyo mangu ndikati, “Mwari achatonga vose vakarurama nevakaipa, nokuti pachava nenguva yebasa rimwe nerimwe.”"
+        },
+        {
+          "number": 18,
+          "text": "Ndakatizve, “Kana vari vanhu, Mwari anovaedza kuti vaone kuti vakangofanana nemhuka."
+        },
+        {
+          "number": 19,
+          "text": "Zvinoitika kumunhu zvakafanana nezvinoitika kumhuka; zvose zvinoitirwa zvimwe chetezvo: sokufa kunoita chimwe, chimwe chinofawo. Zvose zvinofema mweya mumwe; munhu hapana paanopfuura mhuka. Zvose hazvina maturo."
+        },
+        {
+          "number": 20,
+          "text": "Zvose zvinoenda kunzvimbo imwe chete; zvose zvinobva kuvhu, uye kuvhu zvose zvinodzokera."
+        },
+        {
+          "number": 21,
+          "text": "Ndiani angaziva kana mweya womunhu uchikwira kuenda kumusoro uye kana mweya wemhuka uchidzika pasi?”"
+        },
+        {
+          "number": 22,
+          "text": "Saka ndakaona kuti hapana chingapfuure ichi, kuti munhu afadzwe nebasa rake, nokuti uyu ndiwo mugove wake. Nokuti ndiani achazomudzosazve kuti aone zvichazoitika shure kwake?"
+        }
+      ]
+    },
+    {
+      "id": "ECC.4",
+      "number": 4,
+      "headings": [
+        "Udzvinyiriri, Kushanda, noKusava Neshamwari",
+        "Kuenda mberi hakuna maturo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ndakatarirazve ndikaona udzvinyiriri hwose hwaiitika pasi pezuva: Ndakaona misodzi yavanodzvinyirirwa, uye havana munyaradzi; simba raiva kudivi ravadzvinyiriri vavo, uye havana munyaradzi."
+        },
+        {
+          "number": 2,
+          "text": "Ndakati vakafa, vakanguri vafa kare, vano mufaro kupfuura vapenyu, vachiri kurarama."
+        },
+        {
+          "number": 3,
+          "text": "Asi ari nani kupfuura vose ndiye uyo asati atombovapo, uyo asati amboona zvakaipa zvinoitwa pasi pezuva."
+        },
+        {
+          "number": 4,
+          "text": "Uye ndakaona kuti kushanda kwose nokuwana kwose kwomunhu kunobva pakuchiva muvakidzani wake. Izviwo hazvina maturo, kudzinganisana nemhepo."
+        },
+        {
+          "number": 5,
+          "text": "Benzi rinopeta maoko aro, rozviparadza."
+        },
+        {
+          "number": 6,
+          "text": "Tsama imwe yorugare inopfuura tsama mbiri dzokutambudzika nokudzingana nemhepo."
+        },
+        {
+          "number": 7,
+          "text": "Zvino ndakaona chinhu chisina maturo pasi pezuva."
+        },
+        {
+          "number": 8,
+          "text": "Kwaiva nomunhu aigara ari oga; akanga asina mwanakomana, kana mununʼuna. Kushanda kwake kwakanga kusina magumo, kunyange zvakadaro meso ake haana kugutswa nepfuma yake. Akabvunza akati, “Ndinotambudzikira aniko, uye sei ndichizvinyima mafaro?” Naizvozviwo hazvina maturo, basa rokutambura!"
+        },
+        {
+          "number": 9,
+          "text": "Vaviri vari nani pano mumwe chete, nokuti vano mugove wakanaka pakushanda kwavo:"
+        },
+        {
+          "number": 10,
+          "text": "Kana mumwe akawira pasi, shamwari yake inogona kumubatsira kuti amire zvakare. Asi ane nhamo munhu anowira pasi, asina anomusimudza!"
+        },
+        {
+          "number": 11,
+          "text": "Uyezve kana vaviri vachivata pamwe chete, vachadziyirwa. Asi mumwe chete angadziyirwa sei?"
+        },
+        {
+          "number": 12,
+          "text": "Munhu mumwe chete angakurirwa simba, asi vaviri vanozvidzivirira. Rwodzi rwakakoswa mutatu harungakurumidzi kudamburwa."
+        },
+        {
+          "number": 13,
+          "text": "Jaya murombo asi rakachenjera riri nani kupfuura mambo mutana ari benzi, asisazivi kuteerera kana achipiwa yambiro."
+        },
+        {
+          "number": 14,
+          "text": "Jaya ringava rakabva mutorongo rikazova mambo, kana angava akaberekwa ari muurombo, muushe hwokwake."
+        },
+        {
+          "number": 15,
+          "text": "Ndakaona kuti vose vapenyu vakafamba pasi pezuva vakatevera jaya, rakazotevera panzvimbo yamambo."
+        },
+        {
+          "number": 16,
+          "text": "Vakanga vasingaverengeki vanhu vose vaaitonga. Asi vakazouya pashure havana kufadzwa neakanga achitonga panzvimbo yamambo. Naizvozviwo hazvina maturo, kudzinganisana nemhepo."
+        }
+      ]
+    },
+    {
+      "id": "ECC.5",
+      "number": 5,
+      "headings": [
+        "Mira utye Mwari",
+        "Upfumi hahuna maturo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Chenjerera rutsoka rwako kana uchienda kuimba yaMwari. Enda pedyo undonzwa pano kuti upe chibayiro chamapenzi, vasingazivi kuti vanoita zvakaipa."
+        },
+        {
+          "number": 2,
+          "text": "Usakurumidza nomuromo wako, usakurumidza mumwoyo mako kutaura chipi zvacho chinhu pamberi paMwari. Mwari ari kudenga uye iwe uri pasi, saka mashoko ako ngaave mashoma."
+        },
+        {
+          "number": 3,
+          "text": "Sokuuya kwechiroto kana pane matambudziko akawanda ndizvowo zvinoita kutaura kwebenzi kana pane mashoko mazhinji."
+        },
+        {
+          "number": 4,
+          "text": "Kana waita mhiko kuna Mwari, usanonoka kuizadzisa. Iye haafariri mapenzi; zadzisa mhiko yako."
+        },
+        {
+          "number": 5,
+          "text": "Zviri nani kurega kupika pano kuita mhiko wozorega kuizadzisa."
+        },
+        {
+          "number": 6,
+          "text": "Usaregera muromo wako uchikutungamirira mukutadza. Uye usapikisa mutumwa wetemberi uchiti, “Ndakakanganisa pakupika.” Mwari achatsamwireiko pamusoro pezvaunotaura, uye agoparadza basa ramaoko ako?"
+        },
+        {
+          "number": 7,
+          "text": "Kurota kuzhinji namashoko mazhinji hazvina maturo. Naizvozvo mira utye Mwari."
+        },
+        {
+          "number": 8,
+          "text": "Kana ukaona murombo achidzvinyirirwa mudunhu uye achinyimwa kururamisirwa nekodzero, usashamiswa nezvinhu zvakadai; nokuti mumwe mukuru anotarirwa nomumwe ari pamusoro pake, uye pamusoro pavo vose pane vamwe vakavakurirawo."
+        },
+        {
+          "number": 9,
+          "text": "Zvinowanikwa kubva panyika zvinotorwa navose; iye mambo ane zvaanowana kubva kuminda."
+        },
+        {
+          "number": 10,
+          "text": "Uyo zvake anoda mari haazombowani mari yakakwana; ani zvake anoda pfuma haazombogutswi nezvaanowana. Naizvozviwo hazvina maturo."
+        },
+        {
+          "number": 11,
+          "text": "Nokuwanda kunoita pfuma, ndiko kuwanda kunoitawo vanoidya. Uye zvinobatsireiko kumuridzi wayo kunze kwokungogutsa meso ake nayo?"
+        },
+        {
+          "number": 12,
+          "text": "Hope dzomushandi dzakanaka, hazvinei kuti adya zvishoma kana zvizhinji, asi kuwanda kwezvinhu zvomupfumi hakumuwanisi hope."
+        },
+        {
+          "number": 13,
+          "text": "Ndakaona chinhu chakaipisisa pasi pezuva: pfuma inounganidzwa nomwene wayo, ichimuonesa nhamo,"
+        },
+        {
+          "number": 14,
+          "text": "kana pfuma inorasika nokuda kwechinhu chakaipa chinomuwira, kuti kana abereka mwana mukomana anoshaya chaanomusiyira."
+        },
+        {
+          "number": 15,
+          "text": "Munhu sezvaanobuda mudumbu ramai vake, uye sokuuya kwake, saizvozvowo anoenda. Haana chaanotakura chinobva pabasa rake, chaangaenda nacho muruoko rwake."
+        },
+        {
+          "number": 16,
+          "text": "Ichi zvakare chinhu chakaipa kwazvo: Sokuuya kunoita munhu saizvozvowo anoenda, uye chii chaangawana, iye achishandira mhepo?"
+        },
+        {
+          "number": 17,
+          "text": "Pamazuva ake ose anodyira murima, nokudzungaira kukuru, kutambudzika uye nehasha."
+        },
+        {
+          "number": 18,
+          "text": "Ipapo ndakaziva kuti zvakanaka uye zvakafanira kuti munhu adye uye anwe, uye kuti azviwanire kugutsikana mukushanda kwake kwaakabata pasi pezuva pamazuva ake mashoma oupenyu aakapiwa naMwari, nokuti uyu ndiwo mugove wake."
+        },
+        {
+          "number": 19,
+          "text": "Pamusoro pezvo, Mwari paanopa munhu upi zvake mari nezvinhu, uye achiita kuti akwanise kuti afadzwe nazvo kuti agamuchire mugove wake uye kuti afadzwe nebasa rake, ichi chipo chinobva kuna Mwari."
+        },
+        {
+          "number": 20,
+          "text": "Haawanzofunga pamusoro poupenyu hwake, nokuti Mwari anopindura zvinofadza mwoyo wake."
+        }
+      ]
+    },
+    {
+      "id": "ECC.6",
+      "number": 6,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ndakaona chimwe chinhu chakaipa pasi pezuva, uye chinoremedza vanhu zvikuru:"
+        },
+        {
+          "number": 2,
+          "text": "Mwari anopa munhu mari nezvinhu zvakawanda uye nokukudzwa, zvokuti haana chaangashayiwa pazvinhu zvinodiwa nomwoyo wake, asi Mwari haazomutenderi kuti afadzwe nazvo, uye mutorwa ndiye anozofadzwa nazvo panzvimbo yake. Izvi hazvina maturo, chinhu chakaipa chinorwadza."
+        },
+        {
+          "number": 3,
+          "text": "Munhu angava navana zana agorarama makore akawanda, asi hazvinei kuti ararama nguva yakareba sei, kana akasafara nezvaanowana uyezve akasavigwa zvakanaka, ndinoti mwana aberekwa ari gavamwedzi ari nani pana iye."
+        },
+        {
+          "number": 4,
+          "text": "Anouya asina zvaanoreva anoendazve murima, uye murima zita rake rinofukidzirwa."
+        },
+        {
+          "number": 5,
+          "text": "Kunyange asina kumboona zuva kana kuziva chinhu, ane zororo rinopfuura munhu iyeyu,"
+        },
+        {
+          "number": 6,
+          "text": "kunyange akararama makore anokwana zviuru zviviri, asi akatadza kufadzwa nezvaanowana. Ko, vose havaendi kunzvimbo imwe chete here?"
+        },
+        {
+          "number": 7,
+          "text": "Kushingaira kwose kwomunhu kunoitirwa muromo wake, kunyange zvakadaro kuda kwake zvokudya hakugutswi."
+        },
+        {
+          "number": 8,
+          "text": "Ko, akachenjera anokurira benzi pachii? Ko, murombo anowanei nokuziva kuzvibata pamberi pavamwe?"
+        },
+        {
+          "number": 9,
+          "text": "Zviri nani zvinoonekwa nameso pane kutsvaka-tsvaka kwomwoyo. Izviwo hazvina maturo, kudzinganisana nemhepo."
+        },
+        {
+          "number": 10,
+          "text": "Chinhu chipi nechipi chiripo chakapiwa zita kare, uye munhu zvaari zvakazivikanwa kare; hakuna munhu anorwisana nomunhu anomupfuura pasimba."
+        },
+        {
+          "number": 11,
+          "text": "Kuwanda kwamashoko ndikowo kuwanda kwezvisina maturo, uye zvingabatsira aniko zvakadai?"
+        },
+        {
+          "number": 12,
+          "text": "Zvino ndiani angaziva zvakanakira munhu muupenyu, pamazuva mashoma uye asina maturo anopfuura somumvuri? Nokuti ndiani angaudza munhu zvinozomutevera mushure mokunge iye aenda?"
+        }
+      ]
+    },
+    {
+      "id": "ECC.7",
+      "number": 7,
+      "headings": [
+        "Uchenjeri"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zita rakanaka rinopfuura mafuta anonhuhwira zvakanaka kwazvo, uye zuva rokufa rinopfuura zuva rokuzvarwa."
+        },
+        {
+          "number": 2,
+          "text": "Zviri nani kuenda kuimba yokuchema pano kuenda kuimba yamabiko, nokuti rufu ndiwo mugumo womunhu wose; vapenyu ngavazviise izvi pamwoyo."
+        },
+        {
+          "number": 3,
+          "text": "Kusuwa kunopfuura kuseka, nokuti chiso chinopunyaira chakanakira mwoyo."
+        },
+        {
+          "number": 4,
+          "text": "Mwoyo womuchenjeri uri mumba yokuchema, asi mwoyo yamapenzi iri kuimba yamafaro."
+        },
+        {
+          "number": 5,
+          "text": "Zviri nani kuteerera kutsiura kwomunhu akachenjera, pano kuteerera rwiyo rwamapenzi."
+        },
+        {
+          "number": 6,
+          "text": "Sokuputika kweminzwa pasi pehari, ndizvo zvakaita kuseka kwamapenzi. Naizvozviwo hazvina maturo."
+        },
+        {
+          "number": 7,
+          "text": "Udzvinyiriri hunoshandura muchenjeri achiva benzi, uye fufuro inosvibisa mwoyo."
+        },
+        {
+          "number": 8,
+          "text": "Magumo echinhu anopfuura mavambo acho, uye mwoyo murefu unopfuura kuzvikudza."
+        },
+        {
+          "number": 9,
+          "text": "Usakurumidza kutsamwa pamweya wako nokuti kutsamwa kunogara muchipfuva chamapenzi."
+        },
+        {
+          "number": 10,
+          "text": "Usati, “Sei mazuva akare ari nani kupfuura azvino?” Nokuti hazvina kuchenjera kubvunza mibvunzo yakadaro."
+        },
+        {
+          "number": 11,
+          "text": "Uchenjeri chinhu chakanaka senhaka, uye hunobatsira avo vanoona zuva."
+        },
+        {
+          "number": 12,
+          "text": "Uchenjeri hunodzivirira sokudzivirira kunoita mari, asi kunakisa kworuzivo ndokuku: kuti uchenjeri hunochengetedza upenyu hwomunhu anahwo."
+        },
+        {
+          "number": 13,
+          "text": "Cherechedza zvakaitwa naMwari: Ndiani angatwasanudza zvaakagonyanisa?"
+        },
+        {
+          "number": 14,
+          "text": "Kana zvinhu zvakanaka, fara; asi kana nguva dzakaipa, rangarira kuti: Mwari ndiye akaita izvozvo zvose zviri zviviri. Naizvozvo, munhu haagoni kuziva chinhu pamusoro peramangwana rake."
+        },
+        {
+          "number": 15,
+          "text": "Muupenyu hwangu husina maturo ndakaona zvose izvi: akarurama achiparara mukururama kwake, nowakaipa achirarama nguva refu mukuipa kwake."
+        },
+        {
+          "number": 16,
+          "text": "Usava munhu akanyanyisa kururama, kana munhu akanyanyisa kuchenjera, uchazviparadzireiko?"
+        },
+        {
+          "number": 17,
+          "text": "Usava munhu akanyanyisa kuipa, uye usava benzi. Ungada kufa nguva yako isati yakwana?"
+        },
+        {
+          "number": 18,
+          "text": "Zvakanaka kubatisisa chimwe chinhu, uye usingaregedzi chimwe chacho chichienda. Munhu anotya Mwari acharega kuita zvinopfurikidza mwero."
+        },
+        {
+          "number": 19,
+          "text": "Uchenjeri hunoita kuti mumwe munhu akachenjera ave nesimba guru kupfuura vatariri gumi vari muguta."
+        },
+        {
+          "number": 20,
+          "text": "Hapana munhu akarurama panyika, anoita zvakanaka uye asingatadzi."
+        },
+        {
+          "number": 21,
+          "text": "Usava nehanya namashoko ose anotaurwa navanhu, zvichida ungangonzwa muranda wako achikutuka,"
+        },
+        {
+          "number": 22,
+          "text": "nokuti unoziva mumwoyo mako kuti nguva zhinji iwe pachako wakambotuka vamwe."
+        },
+        {
+          "number": 23,
+          "text": "Zvose izvi ndakazviedza nouchenjeri ndikati, “Ndakazvipira kuva munhu akachenjera,” asi izvi zvaiva kure neni."
+        },
+        {
+          "number": 24,
+          "text": "Chii zvacho chingava uchenjeri, chiri kure kwazvo uye chakadzama, ndiani angachiwana?"
+        },
+        {
+          "number": 25,
+          "text": "Saka ndakashandura pfungwa dzangu ndikatanga kutsvaka kunzwisisa, kuti ndiongorore uye nditsvakisise uchenjeri nourongwa hwezvinhu, uye kuti ndinzwisise upenzi hwokuipa nomupengo hwoupenzi."
+        },
+        {
+          "number": 26,
+          "text": "Ndakawana chinhu chinovava kupfuura rufu, mukadzi anova musungo, mwoyo wake uri hunza uye maoko ake ari ngetani. Munhu anofadza Mwari achapunyuka kwaari, asi mutadzi achabatwa naye."
+        },
+        {
+          "number": 27,
+          "text": "Muparidzi anoti, “Tarira, izvi ndizvo zvandakawana: “Ndichisanganisa chimwe nechimwe kuti ndiwane marongerwo ezvinhu,"
+        },
+        {
+          "number": 28,
+          "text": "pandakanga ndichiri kutsvaka asi ndisina chandinowana, ndakawana murume mumwe chete akarurama pakati pechiuru, asi handina kuwana mukadzi mumwe chete akarurama pakati pavo vose."
+        },
+        {
+          "number": 29,
+          "text": "Chinhu ichi chete ndicho chandakawana chokuti: Mwari akaita vanhu vakarurama, asi vanhu vakaenda kundotsvaka mano mazhinji.”"
+        }
+      ]
+    },
+    {
+      "id": "ECC.8",
+      "number": 8,
+      "headings": [
+        "Teerera Mambo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ndiani akafanana nomunhu akachenjera? Ndiani anoziva tsananguro yezvinhu? Uchenjeri hunobwinyisa chiso chomunhu uye hunoshandura kuomarara kwechiso."
+        },
+        {
+          "number": 2,
+          "text": "Ndinoti, teerera murayiro wamambo, nokuti wakaita mhiko pamberi paMwari."
+        },
+        {
+          "number": 3,
+          "text": "Usakurumidza kubva pamberi pamambo. Usamiririra zvinhu zvakaipa, nokuti iye achaita chinhu chipi zvacho chinomufadza."
+        },
+        {
+          "number": 4,
+          "text": "Sezvo shoko ramambo riri pamusoro pamashoko ose, ndiani angati kwaari, “Munoiteiko?”"
+        },
+        {
+          "number": 5,
+          "text": "Ani naani zvake achateerera murayiro wake haangawani chinomukuvadza, uye mwoyo wakachenjera uchaziva nguva yakafanira namaitiro akafanira."
+        },
+        {
+          "number": 6,
+          "text": "Nokuti kune nguva yakafanira namaitiro akafanira pazvinhu zvose, kunyange nhamo yomunhu ichimuremera zvikuru."
+        },
+        {
+          "number": 7,
+          "text": "Sezvo pasina munhu anoziva ramangwana, ndiani angamuzivisa zvichauya?"
+        },
+        {
+          "number": 8,
+          "text": "Hakuna munhu ane simba pamusoro pemhepo kuti aitonge; saizvozvowo hakuna munhu ane simba pamusoro pezuva rokufa kwake. Sezvo kusinawo munhu anoregedzeswa kurwa panguva yehondo, saizvozvowo zvakaipa hazvingaregedzi uyo anozviita."
+        },
+        {
+          "number": 9,
+          "text": "Zvose izvi ndakazviona, pandakaisa pfungwa dzangu pane zvose zvinoitwa pasi pezuva. Pane nguva yokuti mumwe munhu anenge ane simba pamusoro pavamwe, asi achizvikuvadza pachake."
+        },
+        {
+          "number": 10,
+          "text": "Zvino ndakaonazve vakaipa vachivigwa mumakuva, vose vaisiuya nokuenda kubva kunzvimbo tsvene uye vachirumbidzwa muguta mavaiitira izvi. Naizvozviwo hazvina maturo."
+        },
+        {
+          "number": 11,
+          "text": "Kana mhosva ikarega kukurumidza kutongwa, mwoyo yavanhu ichazara nezvirongwa zvokuita zvakaipa."
+        },
+        {
+          "number": 12,
+          "text": "Kunyange munhu akaipa akapara mhosva dzinosvika zana agorarama nguva refu, ndinoziva kuti zvichava nani kuna vanhu vanotya Mwari, avo vanokudza Mwari."
+        },
+        {
+          "number": 13,
+          "text": "Asi nokuti vakaipa havatyi Mwari, hazvizovanakira, uye mazuva avo haangarebi somumvuri."
+        },
+        {
+          "number": 14,
+          "text": "Pane chimwezve chinhu chisina maturo chinoitika panyika: Vanhu vakarurama vanoitirwa zvakafanira kuitirwa vakaipa, uye vanhu vakaipa vanowana zvakafanira kuwanikwa navakarurama. Naizvozviwo ndinoti hazvina maturo."
+        },
+        {
+          "number": 15,
+          "text": "Saka ndinokurudzira vanhu kuti vafadzwe noupenyu, nokuti hapana chinhu chiri nani kumunhu pasi pezuva kupfuura kudya nokunwa nokufara. Ipapo mufaro uchamutevera mubasa rake mazuva ose oupenyu hwaakapiwa naMwari pasi pezuva."
+        },
+        {
+          "number": 16,
+          "text": "Pandakaisa pfungwa dzangu kuti ndizive uchenjeri nokuongorora mabasa omunhu panyika, maziso ake asingawani hope usiku namasikati,"
+        },
+        {
+          "number": 17,
+          "text": "ipapo ndakaona zvose zvakaitwa naMwari. Hapana munhu angazvinzwisisa zvinoitika pasi pezuva. Hazvinei kuti munhu anoedza sei kuzvitsvaka, munhu haangagoni kuziva zvazvinoreva. Kunyange munhu akachenjera akati anozviziva haangakwanisi kunyatsozvinzwisisa."
+        }
+      ]
+    },
+    {
+      "id": "ECC.9",
+      "number": 9,
+      "headings": [
+        "Mugumo waVanhu Vose",
+        "Uchenjeri hunopfuura Upenzi"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nokudaro ndakafunga pamusoro pezvose izvi uye ndikapedzisira nokuti vakarurama navakachenjera, nezvavanoita zviri mumaoko aMwari, asi hakuna munhu anoziva kuti rudo here kana ruvengo zvakamumirira."
+        },
+        {
+          "number": 2,
+          "text": "Vose vane mugumo wakafanana, akarurama neakaipa, akanaka nomutadzi, akachena neakasviba, avo vanobayira zvibayiro neavo vasingabayiri. Sezvazvakaita nomunhu akanaka, ndizvozvowo nomutadzi; sezvazvakaita neavo vanoita mhiko, ndizvozvowo neavo vanotya kuita mhiko."
+        },
+        {
+          "number": 3,
+          "text": "Ichi ndicho chinhu chakaipa pane zvose zvinoitika pasi pezuva: Vose vane mugumo mumwe chete. Pamusoro pezvo, mwoyo yavanhu izere nezvakaipa uye mumwoyo yavo mune upenzi panguva yokurarama kwavo, uye shure kwaizvozvo vanobatana navakafa."
+        },
+        {
+          "number": 4,
+          "text": "Ani naani ari pakati pavapenyu ane tariro; kunyange imbwa mhenyu iri nani kupfuura shumba yakafa!"
+        },
+        {
+          "number": 5,
+          "text": "Nokuti vapenyu vanoziva kuti vachafa, asi vakafa havana chavanoziva; havachinazve mumwe mubayiro, uye nokurangarirwa kwavo kwakanganikwa."
+        },
+        {
+          "number": 6,
+          "text": "Rudo rwavo, ruvengo rwavo negodo zvakanguri zvapera kare; havachazovizve nechikamu, pane zvose zvinoitika pasi pezuva."
+        },
+        {
+          "number": 7,
+          "text": "Enda, undodya zvokudya zvako nomufaro, unwe waini nomwoyo wakafara, nokuti iye zvino Mwari ndipo paari kufadzwa namabasa ako."
+        },
+        {
+          "number": 8,
+          "text": "Nguva dzose upfeke nguo chena, uye ugare wakazodza musoro wako namafuta."
+        },
+        {
+          "number": 9,
+          "text": "Fadzwa noupenyu hwako nomukadzi wako waunoda, mazuva ose oupenyu huno husina maturo Mwari hwaakakupa pasi pezuva, mazuva ose asina maturo. Nokuti uyu ndiwo mugove wako muupenyu uye mukushanda kwako nesimba pasi pezuva."
+        },
+        {
+          "number": 10,
+          "text": "Zvose zvinowanikwa noruoko rwako kuti ruzviite, zviite nesimba rako rose, nokuti muguva, mauri kuenda, hamuna kushanda kana kuronga, kana ruzivo kana uchenjeri."
+        },
+        {
+          "number": 11,
+          "text": "Ndakaona chimwe chinhuzve pasi pezuva: Anomhanyisa haasi iye anokunda uye ane simba haasi iye anokunda pakurwa, uye akachenjera haasi iye ane zvokudya, uye vane njere havasi ivo vane pfuma, uye vakadzidza havasi ivo vanodiwa navanhu; asi vose vanowirwa nenguva nezvinoitika."
+        },
+        {
+          "number": 12,
+          "text": "Pamusoro pezvo hakuna munhu anoziva nguva yake painosvika: Sehove dzinobatwa murutava rwakaipa, kana shiri dzinobatwa murugombe, saizvozvowo vanhu vanobatwa nenguva dzakaipa dzinovawira vasingatarisire."
+        },
+        {
+          "number": 13,
+          "text": "Ndakaonazve pasi pezuva muenzaniso uyu wouchenjeri wakandifadza zvikuru:"
+        },
+        {
+          "number": 14,
+          "text": "Kwakanga kune guta duku, raiva navanhu vashoma mariri. Mumwe mambo ane simba akarimukira, akarikomba, akarivakira masvingo makuru okurirwisa."
+        },
+        {
+          "number": 15,
+          "text": "Zvino muguta umu maigara mumwe murume akanga ari murombo asi akachenjera, uye akaponesa guta iri nouchenjeri hwake. Asi hakuna munhu akarangarira murombo uya."
+        },
+        {
+          "number": 16,
+          "text": "Saka ndakati, “Uchenjeri hunopfuura simba.” Asi uchenjeri hwomurombo hunoshorwa uye mashoko ake haangateererwi."
+        },
+        {
+          "number": 17,
+          "text": "Mashoko manyoro omuchenjeri anoteererwa kupfuura kudanidzira kwomunhu anobata ushe pakati pamapenzi."
+        },
+        {
+          "number": 18,
+          "text": "Uchenjeri hunopfuura zvombo zvehondo, asi mutadzi mumwe anoparadza zvakanaka zvizhinji."
+        }
+      ]
+    },
+    {
+      "id": "ECC.10",
+      "number": 10,
+      "headings": [],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nhunzi dzakafa dzinonhuwisa mafuta akanaka, saizvozvowo upenzi hushoma hunorema kukunda uchenjeri nokukudzwa."
+        },
+        {
+          "number": 2,
+          "text": "Mwoyo womunhu akachenjera unosimbira kurudyi, asi mwoyo webenzi unosimbira kuruboshwe."
+        },
+        {
+          "number": 3,
+          "text": "Kunyange richifamba pamugwagwa, benzi rinoshayiwa njere uye rinoratidza vanhu vose upenzi hwaro."
+        },
+        {
+          "number": 4,
+          "text": "Kana kutsamwa kwomutongi kukakumukira, usabva panzvimbo yako; unyoro hunonyaradza mhosva huru."
+        },
+        {
+          "number": 5,
+          "text": "Kune chinhu chakaipa chandakaona pasi pezuva, kutadza kunobva kuvatongi:"
+        },
+        {
+          "number": 6,
+          "text": "Mapenzi anoiswa munzvimbo zhinji dzapamusoro, ipapo vapfumi vachitora nzvimbo dzakaderera."
+        },
+        {
+          "number": 7,
+          "text": "Ndakaona varanda vakatasva mabhiza, ipapo machinda achifamba pasi netsoka savaranda."
+        },
+        {
+          "number": 8,
+          "text": "Ani naani anochera gomba angangowira mariri; ani naani anopwanya naparusvingo angangorumwa nenyoka."
+        },
+        {
+          "number": 9,
+          "text": "Ani naani anopwanya matombo angangokuvadzwa nawo; ani naani anotsemura matanda angangozviisa panjodzi nawo."
+        },
+        {
+          "number": 10,
+          "text": "Kana demo rakagomara uye rikasarodzwa, panodiwa simba rakawanda, asi unyanzvi hunouyisa kubudirira."
+        },
+        {
+          "number": 11,
+          "text": "Kana nyoka ikaruma mupingudzi asati aibata, mupingudzi haachabatsiri."
+        },
+        {
+          "number": 12,
+          "text": "Mashoko anobva mumuromo momunhu akachenjera ane unyoro, asi benzi rinomedzwa nomuromo waro."
+        },
+        {
+          "number": 13,
+          "text": "Kutanga kwamashoko ake upenzi; nokuguma kwokutaura kwake mupengo wakashata."
+        },
+        {
+          "number": 14,
+          "text": "Uye benzi rinowanza mashoko. Hapana munhu anoziva zvichauya, ndiani angamuudza zvichaitika shure kwake?"
+        },
+        {
+          "number": 15,
+          "text": "Basa rebenzi rinomunetesa; haazivi nzira inoenda kuguta."
+        },
+        {
+          "number": 16,
+          "text": "Une nhamo iwe nyika ina mambo aiva muranda uye ina machinda anoita mabiko mangwanani."
+        },
+        {
+          "number": 17,
+          "text": "Wakaropafadzwa iwe nyika ina mambo akaberekwa mukukudzwa uye ina machinda anodya panguva yakafanira, kuti vasimbiswe kwete kuti vadhakwe."
+        },
+        {
+          "number": 18,
+          "text": "Kana munhu ari simbe, denga remba rinosakara; kana achigarira maoko, imba inobvinza."
+        },
+        {
+          "number": 19,
+          "text": "Mabiko anoitirwa kuseka, uye waini inofadza upenyu, asi mari imhinduro kune zvose."
+        },
+        {
+          "number": 20,
+          "text": "Usatuka mambo kunyange mupfungwa dzako, kana kutuka mupfumi paimba yako yokuvata, nokuti shiri yedenga ingangotakura mashoko ako, uye china mapapiro chingangozivisa zvawataura."
+        }
+      ]
+    },
+    {
+      "id": "ECC.11",
+      "number": 11,
+      "headings": [
+        "Chingwa pamusoro peMvura",
+        "Rangarira Musiki wako uchiri muduku"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kanda chingwa chako pamusoro pemvura zhinji, nokuti mushure mamazuva mazhinji uchachiwanazve."
+        },
+        {
+          "number": 2,
+          "text": "Govera vanomwe, kunyange navaserewo; nokuti hauzivi kuti idambudziko rakadii richauya panyika."
+        },
+        {
+          "number": 3,
+          "text": "Kana makore azara nemvura anonayisa mvura panyika. Hazvinei kuti muti wawira zasi kana kumusoro, panzvimbo paunowira, ndipo paucharara."
+        },
+        {
+          "number": 4,
+          "text": "Ani naani anotarira mhepo haangadyari; ani naani anotarira makore haangakohwi."
+        },
+        {
+          "number": 5,
+          "text": "Sezvo usingazivi nzira yemhepo, kana magadzirirwo omuviri mudumbu ramai, saizvozvowo haunganzwisisi basa raMwari, Muiti wezvose."
+        },
+        {
+          "number": 6,
+          "text": "Kusha mbeu dzako mangwanani, uye madekwana urege kugarira maoko ako, nokuti hauzivi kuti chichabudirira ndechipi, chingava ichi kana icho, kana kuti zvose zviri zviviri zvichafanana pakunaka."
+        },
+        {
+          "number": 7,
+          "text": "Chiedza chakanaka, uye zvinofadza meso kuona zuva."
+        },
+        {
+          "number": 8,
+          "text": "Kunyange zvazvo munhu akararama makore mazhinji, ngaafadzwe nawo ose. Asi ngaarangarire mazuva erima, nokuti achava mazhinji. Zvose zvichazouya hazvina maturo."
+        },
+        {
+          "number": 9,
+          "text": "Fara zvako jaya, pauduku hwako, uye mwoyo wako ngaukupe mufaro pamazuva ouduku hwako. Tevera nzira dzomwoyo wako, nezvose zvingaonekwe nameso ako, asi uzive kuti pazvinhu zvose izvi Mwari achakusvitsa pakutongwa."
+        },
+        {
+          "number": 10,
+          "text": "Saka zvino dzinga zvinonetsa pamwoyo wako ugobvisa zvinotambudza pamuviri wako, nokuti uduku nesimba hazvina maturo."
+        }
+      ]
+    },
+    {
+      "id": "ECC.12",
+      "number": 12,
+      "headings": [
+        "Magumo eNyaya"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Rangarira Musiki wako pamazuva ouduku hwako, mazuva okutambudzika asati auya, namakore asati aswedera pauchati, “Handioni zvinofadza maari,”"
+        },
+        {
+          "number": 2,
+          "text": "zuva nechiedza uye nomwedzi nenyeredzi zvisati zvadzima, uye makore asati adzoka mushure mokunaya kwemvura;"
+        },
+        {
+          "number": 3,
+          "text": "kana vatariri vemba vodedera, navarume vakasimba vokotama, kana vakuyi vorega nokuti vashoma, uye vaya vanotarira napamawindo voonera madzerere;"
+        },
+        {
+          "number": 4,
+          "text": "kana mikova yokunzira ichinge yapfigwa uye maungira okukuya oderera; kana vanhu vomutswa nokuimba kweshiri asi nziyo dzavo dzose dzisisanzwiki zvakanaka;"
+        },
+        {
+          "number": 5,
+          "text": "kana vanhu votya nzvimbo dzakakwirira nenjodzi mumigwagwa; kana muamanda wotumbuka nemhashu yozvikwekweredza uye kuda kwose kwapera. Ipapo munhu anoenda kumusha wake usingaperi, uye vanochema vachafamba-famba munzira."
+        },
+        {
+          "number": 6,
+          "text": "Murangarirei, rwodzi rwesirivha rusati rwadambuka; uye mbiya yegoridhe isati yaputswa; chirongo chisati chapwanyika pachitubu, uye vhiri risati raputswa patsime,"
+        },
+        {
+          "number": 7,
+          "text": "uye guruva risati radzokera kuvhu kwarakabva, nomweya usati wadzokera kuna Mwari akaupa."
+        },
+        {
+          "number": 8,
+          "text": "Muparidzi anoti, “Hazvina maturo! Hazvina maturo! Zvose hazvina maturo!”"
+        },
+        {
+          "number": 9,
+          "text": "Muparidzi akanga asina kuchenjera chete asi akadzidzisawo zivo kuvanhu. Akarangarira akaongorora uye akaronga zvirevo zvizhinji."
+        },
+        {
+          "number": 10,
+          "text": "Muparidzi akatsvaka kuti awane mashoko akanaka chete, uye zvaakanyora zvakarurama uye ndezvechokwadi."
+        },
+        {
+          "number": 11,
+          "text": "Mashoko avachenjeri akafanana nezvibayiso, mashoko avo akaunganidzwa akasimbiswa sembambo dzakarovererwa kwazvo, akapiwa noMufudzi mumwe chete."
+        },
+        {
+          "number": 12,
+          "text": "Yambirwa, mwanakomana wangu, kuti pasava nechinhu chipi zvacho chichawedzerwa pazviri. Zvokunyora mabhuku mazhinji hazvina magumo, uye kudzidza zvizhinji kunonetesa muviri."
+        },
+        {
+          "number": 13,
+          "text": "Zvino zvose zvanzwikwa; houno mugumo wenyaya yacho: Itya Mwari uchengete mirayiro yake, nokuti iri ndiro basa rose romunhu."
+        },
+        {
+          "number": 14,
+          "text": "Nokuti Mwari achatonga basa rimwe nerimwe kusanganisira nezvakavanzika zvose, zvakanaka kana zvakaipa."
+        }
+      ]
+    }
+  ]
+}

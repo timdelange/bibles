@@ -1,0 +1,410 @@
+{
+  "id": "1TH",
+  "name": "1 VaTesaronika",
+  "abbreviation": "1 VaTesa",
+  "chapters": [
+    {
+      "id": "1TH.1",
+      "number": 1,
+      "headings": [
+        "Anovonga vaTesaronika paKutenda kwavo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pauro, Sirasi naTimoti, kukereke yavaTesaronika muna Mwari Baba naIshe Jesu Kristu: Nyasha norugare ngazvive nemi."
+        },
+        {
+          "number": 2,
+          "text": "Tinogara tichivonga Mwari nokuda kwenyu mose, tichikutaurai muminyengetero yedu."
+        },
+        {
+          "number": 3,
+          "text": "Tinoramba tichirangarira pamberi paMwari wedu naBaba vedu, basa renyu rinobva pakutenda, nokushanda kwenyu kunobva parudo, uye nokutsungirira kwenyu kunobva patariro iri muna Ishe Jesu Kristu."
+        },
+        {
+          "number": 4,
+          "text": "Nokuti tinoziva, hama dzinodikanwa naMwari, kuti akakusarudzai,"
+        },
+        {
+          "number": 5,
+          "text": "nokuti vhangeri redu harina kuuya kwamuri namashoko bedzi, asi nesimbawo, noMweya Mutsvene uye nokuziva kwakadzama. Munoziva kuti takagara sei pakati penyu nokuda kwenyu."
+        },
+        {
+          "number": 6,
+          "text": "Makava vateveri vedu uye nevaIshe; pakati pokutambudzika kukuru, makagamuchira shoko nomufaro unopiwa naMweya Mutsvene."
+        },
+        {
+          "number": 7,
+          "text": "Nokudaro makava muenzaniso kuvatendi vose vari muMasedhonia neAkaya."
+        },
+        {
+          "number": 8,
+          "text": "Shoko raShe rakanzwika kubva kwamuri kwete muMasedhonia neAkaya bedzi, kutenda kwenyu muna Mwari kwakazivikanwa kwose kwose. Naizvozvo hatifaniri kutaura chinhu pamusoro pazvo,"
+        },
+        {
+          "number": 9,
+          "text": "nokuti ivo pachavo vanozivisa kuti takagamuchirwa sei navo. Vanotaura kuti makadzokera sei kuna Mwari muchibva kuzvifananidzo kuti mushumire Mwari mupenyu uye wechokwadi,"
+        },
+        {
+          "number": 10,
+          "text": "uye kuti mumirire Mwanakomana wake anobva kudenga, uyo waakamutsa kubva kuvakafa, Jesu, anotinunura kubva pakutsamwa kuchauya."
+        }
+      ]
+    },
+    {
+      "id": "1TH.2",
+      "number": 2,
+      "headings": [
+        "Ushumiri hwaPauro muTesaronika",
+        "Chishuvo chaPauro kuti aone vaTesaronika"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Munoziva, hama, kuti kushanya kwedu kwamuri hakuna kuva pasina."
+        },
+        {
+          "number": 2,
+          "text": "Takanga tambotambudzika uye tikatukwa muFiripi, sezvamunoziva, asi norubatsiro rwaMwari wedu hatina kurega kukuparidzirai vhangeri rake pakati pokupikiswa kukuru."
+        },
+        {
+          "number": 3,
+          "text": "Nokuti chikumbiro chatinoita hachibvi pakukanganisa kana pamufungo usina kunaka, uye hatisi kuedza kukunyengerai."
+        },
+        {
+          "number": 4,
+          "text": "Asi, tinotaura savanhu vakatenderwa naMwari kuti tipiwe vhangeri. Hatisi kuedza kufadza vanhu asi Mwari, iye anoedza mwoyo yedu."
+        },
+        {
+          "number": 5,
+          "text": "Munozviziva kuti isu hatibati kumeso, uye hatina kuisa chifukidzo chokufukidza kukarira pfuma, Mwari ndiye chapupu chedu."
+        },
+        {
+          "number": 6,
+          "text": "Takanga tisingatsvaki kurumbidzwa kunobva kuvanhu, kwete kunobva kwamuri kana ani zvake. Savapostori vaKristu tingadai takava mutoro kwamuri,"
+        },
+        {
+          "number": 7,
+          "text": "asi takanga tiri vanyoro pakati penyu, samai vanochengeta vana vavo vaduku."
+        },
+        {
+          "number": 8,
+          "text": "Taikudai zvikuru zvokuti takafara kuti tigoverane nemi, kwete vhangeri raMwari bedzi, asi noupenyu hweduwo, nokuti makanga madikanwa nesu kwazvo."
+        },
+        {
+          "number": 9,
+          "text": "Zvirokwazvo munorangarira, hama, kutambudzika kwedu nokuomerwa kwedu; takashanda usiku namasikati kuti tirege kuremedza munhu upi zvake patakanga tichiparidza vhangeri raMwari kwamuri."
+        },
+        {
+          "number": 10,
+          "text": "Imi muri zvapupu, uye naMwariwo, kuti takanga tiri vatsvene sei, vakarurama uye vasina chavangapomerwa pakati penyu imi vanotenda."
+        },
+        {
+          "number": 11,
+          "text": "Nokuti munoziva kuti takabata mumwe nomumwe wenyu sababa vanobata vana vavo,"
+        },
+        {
+          "number": 12,
+          "text": "tichikukurudzirai tichikunyaradzai uye tichikukurudzirai kuti murarame zvakafanira kuna Mwari, iye anokudanai kuumambo hwake nokukubwinya kwake."
+        },
+        {
+          "number": 13,
+          "text": "Nesuwo tinotenda Mwari nguva dzose, nokuti pamakagamuchira shoko raMwari, ramakanzwa kwatiri, makarigamuchira, kwete seshoko ravanhu, asi sezvariri, iro shoko raMwari, riri kubata mamuri imi vanotenda."
+        },
+        {
+          "number": 14,
+          "text": "Nokuti imi, hama, makava vateveri vekereke dzaMwari dziri muJudhea, dziri muna Kristu Jesu: Makatambudzwa navanhu vomunyika menyu, saizvozvo kereke idzodzo dzakatambudzwawo navaJudha,"
+        },
+        {
+          "number": 15,
+          "text": "ivo vakauraya Ishe Jesu uye navaprofita uye vakatidzinga nesuwo. Havana kufadza Mwari uye vanorwa navanhu vose"
+        },
+        {
+          "number": 16,
+          "text": "mukushinga kwavo kutidzivisa kuti titaure kuvahedheni kuti vaponeswe. Nenzira iyi vanoramba vachiunganidza zvivi zvavo kusvikira kumagumo. Kutsamwa kwaMwari kwazosvika pamusoro pavo pakupedzisira."
+        },
+        {
+          "number": 17,
+          "text": "Asi, hama, patakanga taparadzaniswa nemi kwechinguva chiduku (pakuonekwa, kwete mupfungwa), mukushuva kwedu kukuru takaedza chose kukuonai."
+        },
+        {
+          "number": 18,
+          "text": "Nokuti takanga tichida kuuya kwamuri, chokwadi, ini Pauro, ndakada kuita izvozvo, nguva nenguva, asi Satani akatidzivisa."
+        },
+        {
+          "number": 19,
+          "text": "Nokuti tariro yedu ndeipiko, mufaro wedu kana korona yatichazvirumbidza nayo pamberi paIshe wedu Jesu paanouya? Ko, hamusimi here?"
+        },
+        {
+          "number": 20,
+          "text": "Zvirokwazvo ndimi kubwinya kwedu nomufaro wedu."
+        }
+      ]
+    },
+    {
+      "id": "1TH.3",
+      "number": 3,
+      "headings": [
+        "Mashoko aTimoti anokurudzira"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Saka patakanga tisingagoni kuramba takatsunga, takafunga kuti zvaiva nani kuti tisare toga paAtene."
+        },
+        {
+          "number": 2,
+          "text": "Takatuma Timoti, anova ndiye hama yedu nomushandi waMwari pamwe chete nesu pakuparadzira vhangeri raKristu, kuti akusimbisei nokukukurudzirai mukutenda kwenyu,"
+        },
+        {
+          "number": 3,
+          "text": "kuti parege kuva nomunhu anozungunutswa nemiedzo iyi. Munozviziva chose kuti takanga takanangana nayo."
+        },
+        {
+          "number": 4,
+          "text": "Chokwadi ndechokuti, pataiva nemi, takaramba tichikuudzai kuti tichatambudzwa. Uye zvakabva zvaita saizvozvo, sezvamunoziva kwazvo."
+        },
+        {
+          "number": 5,
+          "text": "Nokuda kwaizvozvo, pandakanga ndisisagoni kutsunga, ndakatuma shoko kuti ndizive nezvokutenda kwenyu. Ndakatya kuti zvimwe muedzi angadaro akakuedzai uye kubata kwedu kukava pasina."
+        },
+        {
+          "number": 6,
+          "text": "Asi Timoti achangosvika kwatiri zvino achibva kwamuri uye akauya namashoko akanaka ezvokutenda kwenyu norudo rwenyu. Akatiudza kuti munogara muchifunga zvakanaka nezvedu uye kuti munoshuva kutiona, sezvatinoshuva nesuwo kukuonai."
+        },
+        {
+          "number": 7,
+          "text": "Naizvozvo, hama, mukusuwa kwedu kwose uye nokutambudzwa kwedu, takakurudzirwa pamusoro penyu nokuda kwokutenda kwenyu."
+        },
+        {
+          "number": 8,
+          "text": "Nokuti zvino tiri vapenyu chose, sezvo imi mumire nesimba muna She."
+        },
+        {
+          "number": 9,
+          "text": "Tichavonga Mwari zvizere sei nokuda kwenyu kuti tidzorere mufaro wose watinawo pamberi paMwari wedu nokuda kwenyu?"
+        },
+        {
+          "number": 10,
+          "text": "Usiku namasikati tinonyengetera zvikuru kuti tikuoneizve uye kuti tizadzise zvamusina pakutenda kwenyu."
+        },
+        {
+          "number": 11,
+          "text": "Zvino Mwari wedu, Baba pachavo naIshe wedu Jesu ngavatizarurire nzira kuti tiuye kwamuri."
+        },
+        {
+          "number": 12,
+          "text": "Ishe ngaakurise rudo rwenyu uye rupfachukire kuno mumwe nomumwe nokuvanhu vose, sezvinoita rwedu kwamuri."
+        },
+        {
+          "number": 13,
+          "text": "Ngaasimbise mwoyo yenyu kuitira kuti mushayiwe chamunopomerwa uye muve vatsvene pamberi paMwari wedu naBaba vedu, pakuuya kwaIshe wedu Jesu navatsvene vake vose."
+        }
+      ]
+    },
+    {
+      "id": "1TH.4",
+      "number": 4,
+      "headings": [
+        "Kuraramira Kufadza Mwari",
+        "Kuuya kwaShe"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pakupedzisira, hama, takakurayirai kuti munofanira kurarama sei kuitira kuti mugofadza Mwari, sezvamuri kurarama. Zvino tinokukumbirai uye tinokukurudzirai muna She Jesu kuti murambe muchiita izvi uye muchiwedzera."
+        },
+        {
+          "number": 2,
+          "text": "Nokuti munoziva zvatakakurayirai nesimba raIshe Jesu."
+        },
+        {
+          "number": 3,
+          "text": "Kuda kwaMwari kuti muitwe vatsvene:"
+        },
+        {
+          "number": 4,
+          "text": "kuti murege upombwe; kuti mumwe nomumwe wenyu adzidze kudzora muviri wake nenzira tsvene uye inokudzwa,"
+        },
+        {
+          "number": 5,
+          "text": "asingaiti mukuchiva sezvinoitwa navahedheni, vasingazivi Mwari;"
+        },
+        {
+          "number": 6,
+          "text": "uye kuti pane izvozvi parege kuva nomunhu anotadzira hama yake kana kumutorera chinhu. Ishe acharanga vanhu nokuda kwezvivi zvakadaro zvose, sezvatakakuudzai kare uye tikakuyambirai."
+        },
+        {
+          "number": 7,
+          "text": "Nokuti Mwari haana kutidanira kutsvina, asi kuti tirarame upenyu hutsvene."
+        },
+        {
+          "number": 8,
+          "text": "Naizvozvo, uyo anoramba kurayira uku haasi kuramba munhu asi Mwari, iye anokupai Mweya wake Mutsvene."
+        },
+        {
+          "number": 9,
+          "text": "Zvino kana rwuri rudo kuhama, hatitsvaki kukunyorerai, nokuti imi pachenyu makadzidziswa naMwari kuti mudanane."
+        },
+        {
+          "number": 10,
+          "text": "Uyezve, munoda hama dzose muMasedhonia yose. Asi tinokukurudzirai, hama, kuti muite izvozvo uye muchiwedzera."
+        },
+        {
+          "number": 11,
+          "text": "Shingairirai kuti mugare upenyu hworunyararo, muchibata basa renyu namaoko enyu, sezvatakakuudzai,"
+        },
+        {
+          "number": 12,
+          "text": "kuitira kuti upenyu hwamazuva ose huwane kukudzwa navari kunze uye kuitira kuti murege kusendamira kuno mumwe munhu."
+        },
+        {
+          "number": 13,
+          "text": "Hama, hatidi kuti muve vasingazivi pamusoro paavo vavete, kana kuchema savamwe vavo, vasina tariro."
+        },
+        {
+          "number": 14,
+          "text": "Isu tinotenda kuti Jesu akafa uye akamukazve, nokudaro isu tinotenda kuti Mwari achauyisa pamwe chete naJesu avo vakavata maari."
+        },
+        {
+          "number": 15,
+          "text": "Samashoko aShe pachake, tinokuudzai kuti isu vachiri vapenyu, vachasara kusvikira pakuuya kwaShe, zvirokwazvo hatizotangiri avo vakavata."
+        },
+        {
+          "number": 16,
+          "text": "Nokuti Ishe pachake achaburuka achibva kudenga, nokurayira kukuru, nenzwi romutumwa mukuru uye nokurira kwehwamanda yaMwari, uye vakafa muna Kristu vachatanga kumuka."
+        },
+        {
+          "number": 17,
+          "text": "Shure kwaizvozvo, isu vachiri vapenyu uye vakasara, tichatorwa pamwe chete navo mumakore kuti tisangane naShe mudenga. Nokudaro tichava naShe nokusingaperi."
+        },
+        {
+          "number": 18,
+          "text": "Naizvozvo kurudziranai namashoko aya."
+        }
+      ]
+    },
+    {
+      "id": "1TH.5",
+      "number": 5,
+      "headings": [
+        "Kurayira Kwokupedzisira"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zvino, hama, kana dziri nguva kana misi hatifaniri kuti tikunyorerei,"
+        },
+        {
+          "number": 2,
+          "text": "nokuti imi munoziva kwazvo kuti zuva raShe richauya sembavha usiku."
+        },
+        {
+          "number": 3,
+          "text": "Vanhu pavanenge vachiti, “Rugare norunyararo,” kuparadzwa kuchasvika pamusoro pavo nokukurumidza, somukadzi ane mimba worwadziwa, uye havangapunyuki."
+        },
+        {
+          "number": 4,
+          "text": "Asi imi, hama, hamusi murima zvokuti zuva iri rikusvikirei sembavha."
+        },
+        {
+          "number": 5,
+          "text": "Imi mose muri vanakomana vechiedza navanakomana vamasikati. Hatizi vousiku kana verima."
+        },
+        {
+          "number": 6,
+          "text": "Saka zvino, ngatiregei kuita savamwe vavete, asi ngatisvinurei uye tive vanozvidzora."
+        },
+        {
+          "number": 7,
+          "text": "Nokuti avo vanovata, vanovata usiku, uye avo vanodhakwa, vanodhakwa usiku."
+        },
+        {
+          "number": 8,
+          "text": "Asi sezvo tiri vamasikati, ngatizvidzorei, takapfeka kutenda norudo sechidzitiro chechipfuva, netariro yoruponeso senguwani."
+        },
+        {
+          "number": 9,
+          "text": "Nokuti Mwari haana kutisarudza kuti tive vokutsamwirwa asi kuti tigamuchire ruponeso kubudikidza naIshe wedu Jesu Kristu."
+        },
+        {
+          "number": 10,
+          "text": "Akatifira isu kuitira kuti, kunyange takasvinura kana tivete, tigare pamwe chete naye."
+        },
+        {
+          "number": 11,
+          "text": "Naizvozvo kurudziranai uye muvakane, sezvamunoita zvino."
+        },
+        {
+          "number": 12,
+          "text": "Zvino tinokukumbirai, hama, kuti muremekedze avo vanoshanda nesimba pakati penyu, vari pamusoro penyu muna She uye vanokurayirai."
+        },
+        {
+          "number": 13,
+          "text": "Muvakudze zvikuru murudo nokuda kwebasa ravo. Garai murunyararo nomumwe nomumwe wenyu."
+        },
+        {
+          "number": 14,
+          "text": "Uye tinokukurudzirai, hama, kuti muyambire avo vano usimbe, mukurudzire vanotya, batsirai vasina simba, muite mwoyo murefu kuvanhu vose."
+        },
+        {
+          "number": 15,
+          "text": "Muve nechokwadi kuti kurege kuva nomunhu anodzorera chakaipa nechakaipa, asi edzai kuva nomwoyo munyoro kuno mumwe nomumwe wenyu uye nokuna vose."
+        },
+        {
+          "number": 16,
+          "text": "Farai nguva dzose;"
+        },
+        {
+          "number": 17,
+          "text": "rambai muchinyengetera;"
+        },
+        {
+          "number": 18,
+          "text": "vongai pazvinhu zvose, nokuti ndiko kuda kwaMwari kwamuri muna Kristu Jesu."
+        },
+        {
+          "number": 19,
+          "text": "Musadzima moto woMweya;"
+        },
+        {
+          "number": 20,
+          "text": "musazvidza zviprofita."
+        },
+        {
+          "number": 21,
+          "text": "Edzai zvinhu zvose. Batirirai kune zvakanaka."
+        },
+        {
+          "number": 22,
+          "text": "Regai zvakaipa zvose."
+        },
+        {
+          "number": 23,
+          "text": "Mwari pachake, iye Mwari worugare, ngaakuitei vatsvene kwazvo kwazvo. Mweya wenyu wose, nomwoyo uye nomuviri zvichengetwe zvisina mhosva pakuuya kwaIshe wedu Jesu Kristu."
+        },
+        {
+          "number": 24,
+          "text": "Iye anokudanai akatendeka uye achazviita."
+        },
+        {
+          "number": 25,
+          "text": "Hama, tinyengeterereiwo."
+        },
+        {
+          "number": 26,
+          "text": "Kwazisai hama dzose nokutsvoda kutsvene."
+        },
+        {
+          "number": 27,
+          "text": "Ndinokurayirai pamberi paIshe kuti tsamba iyi iverengerwe hama dzose."
+        },
+        {
+          "number": 28,
+          "text": "Nyasha dzaIshe wedu Jesu Kristu ngadzive nemi."
+        }
+      ]
+    }
+  ]
+}

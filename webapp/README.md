@@ -24,6 +24,7 @@ Read scraped translations from `../acquisition/`:
 | Afrikaans AFR83 | `../acquisition/afr83_output/` |
 | NIV | `../acquisition/niv_output/` |
 | NKJV | `../acquisition/nkjv_output/` |
+| Shona SNA | `../acquisition/shona_output/` |
 
 Prefer loading per-chapter JSON (`json/{BOOK}/{chapter}.json`) for the UI rather than the full `{prefix}_bible.json` files (~6–7 MB each).
 

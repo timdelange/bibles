@@ -1,0 +1,1224 @@
+{
+  "id": "EZR",
+  "name": "Ezira",
+  "abbreviation": "Ezi",
+  "chapters": [
+    {
+      "id": "EZR.1",
+      "number": 1,
+      "headings": [
+        "Sirasi anobatsira vakanga vatapwa kuti vadzokere kunyika yavo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mugore rokutanga raSirasi mambo wePezhia, kuti shoko raJehovha rakataurwa nomuromo waJeremia rizadziswe, Jehovha akamutsa mwoyo waSirasi mambo wePezhia, kuti aite chiziviso munyika yake yose uye akaita kuti chinyorwe chichiti:"
+        },
+        {
+          "number": 2,
+          "text": "Zvanzi naSirasi mambo wePezhia: Jehovha, Mwari wokudenga akandipa ushe hwose hwapanyika uye akandigadza kuti ndimuvakire temberi paJerusarema muJudha."
+        },
+        {
+          "number": 3,
+          "text": "Ani naani wavanhu vake ari pakati penyu, Mwari wake ngaave naye, uye regai aende zvake kuJerusarema kuJudha andovaka temberi yaJehovha, Mwari waIsraeri, iye Mwari anogara muJerusarema."
+        },
+        {
+          "number": 4,
+          "text": "Zvino vanhu vagere panzvimbo ipi neipi zvayo pagere vakasara, vanofanira kumupa sirivha negoridhe, nenhumbi nezvipfuwo, uye vagomupa zvipo zvokupa nokuzvisarudzira zvetemberi yaMwari muJerusarema."
+        },
+        {
+          "number": 5,
+          "text": "Ipapo vakuru vedzimba veJudha neveBhenjamini, navaprista uye navaRevhi, vose avo vakanga vamutswa mwoyo naMwari, vakagadzirira kuenda kundovaka imba yaJehovha muJerusarema."
+        },
+        {
+          "number": 6,
+          "text": "Vavakidzani vavo vose vakavabatsira nemidziyo yesirivha negoridhe, nenhumbi nezvipfuwo, uye nezvipo zvinokosha, kuwedzera pamusoro pezvipo zvokuzvisarudzira."
+        },
+        {
+          "number": 7,
+          "text": "Pamusoro pezvo, Mambo Sirasi akaburitsa midziyo yomutemberi yaJehovha, iyo yakanga yatorwa kubva kuJerusarema naNebhukadhinezari uye akanga aiisa mutemberi yamwari wake."
+        },
+        {
+          "number": 8,
+          "text": "Sirasi mambo wePezhia akarayira kuti ibudiswe naMitiredhati muchengeti wepfuma, uyo akaiverenga achiipa kuna Sheshibhazari muchinda weJudha."
+        },
+        {
+          "number": 9,
+          "text": "Uku ndiko kuwanda kwayakanga yakaita: ndiro dzegoridhe dzaiva makumi matatu; ndiro dzesirivha dzaiva chiuru;"
+        },
+        {
+          "number": 10,
+          "text": "pani dzesirivha dzaiva makumi maviri namapfumbamwe; mbiya dzegoridhe dzaiva makumi matatu; mbiya dzesirivha dzakafanana-fanana dzaiva mazana mana negumi; uye mimwewo midziyo yaiva chiuru."
+        },
+        {
+          "number": 11,
+          "text": "Yose pamwe chete, midziyo yegoridhe neyesirivha yaiva zviuru zvishanu namazana mana. Sheshibhazari akaendesa izvi zvose panguva iyo vatapwa vakabva kuBhabhironi vachienda kuJerusarema."
+        }
+      ]
+    },
+    {
+      "id": "EZR.2",
+      "number": 2,
+      "headings": [
+        "Mazita aVakanga Vambotapwa Vakadzokera Kunyika Yavo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zvino ava ndivo vanhu vomudunhu vakadzoka kubva kuutapwa hwavakanga vatapwa, avo vakanga vatapwa naNebhukadhinezari mambo weBhabhironi vakanga vaendeswa kuutapwa kuBhabhironi (vakadzokera kuJerusarema nokuJudha, mumwe nomumwe kuguta rake,"
+        },
+        {
+          "number": 2,
+          "text": "vakanga vari pamwe chete naZerubhabheri, Jeshua, Nehemia, Seraya, Reeraya, Modhekai, Bhirishani, Misipari, Bhigivhai, Rehumi naBhaana): Uwandu hwavarume pakati pavaIsraeri:"
+        },
+        {
+          "number": 3,
+          "text": "zvizvarwa zvaParoshi zvaiva zviuru zviviri nezana namakumi manomwe navaviri;"
+        },
+        {
+          "number": 4,
+          "text": "zvaShefatia zvaiva mazana matatu namakumi manomwe navaviri;"
+        },
+        {
+          "number": 5,
+          "text": "zvaAra zvaiva mazana manomwe namakumi manomwe navashanu;"
+        },
+        {
+          "number": 6,
+          "text": "zvaPahati-Moabhu (vorudzi rwaJeshua naJoabhu) zvaiva zviuru zviviri namazana masere negumi navaviri;"
+        },
+        {
+          "number": 7,
+          "text": "zvaEramu zvaiva chiuru chimwe chete namazana maviri namakumi mashanu navana;"
+        },
+        {
+          "number": 8,
+          "text": "zvaZatu zvaiva mazana mapfumbamwe namakumi mana navashanu;"
+        },
+        {
+          "number": 9,
+          "text": "zvaZakai zvaiva mazana manomwe namakumi matanhatu;"
+        },
+        {
+          "number": 10,
+          "text": "zvaBhani zvaiva mazana matanhatu namakumi mana navaviri;"
+        },
+        {
+          "number": 11,
+          "text": "zvaBhebhai zvaiva mazana matanhatu namakumi maviri navatatu;"
+        },
+        {
+          "number": 12,
+          "text": "zvaAzigadhi zvaiva chiuru chimwe chete namazana maviri namakumi maviri navaviri;"
+        },
+        {
+          "number": 13,
+          "text": "zvaAdhonikami zvaiva mazana matanhatu namakumi matanhatu navatanhatu;"
+        },
+        {
+          "number": 14,
+          "text": "zvaBhigivhai zvaiva zviuru zviviri namakumi mashanu navatanhatu;"
+        },
+        {
+          "number": 15,
+          "text": "zvaAdhini zvaiva mazana mana namakumi mashanu navana;"
+        },
+        {
+          "number": 16,
+          "text": "zvaAteri (vorudzi rwaHezekia) zvaiva makumi mapfumbamwe navasere;"
+        },
+        {
+          "number": 17,
+          "text": "zvaBhezai zvaiva mazana matatu namakumi maviri navatatu;"
+        },
+        {
+          "number": 18,
+          "text": "zvaJora zvaiva zana negumi navaviri;"
+        },
+        {
+          "number": 19,
+          "text": "zvaHashumi zvaiva mazana maviri namakumi maviri navatatu;"
+        },
+        {
+          "number": 20,
+          "text": "zvaGibhari zvaiva makumi mapfumbamwe navashanu;"
+        },
+        {
+          "number": 21,
+          "text": "varume veBheterehema vaiva zana namakumi maviri navashanu;"
+        },
+        {
+          "number": 22,
+          "text": "veNetofa vaiva makumi mashanu navatanhatu;"
+        },
+        {
+          "number": 23,
+          "text": "veAnatoti vaiva zana namakumi maviri navasere;"
+        },
+        {
+          "number": 24,
+          "text": "veAzimavheti vaiva makumi mana navaviri;"
+        },
+        {
+          "number": 25,
+          "text": "veKiriati Jearimi, Kefira, neBheroti vaiva mazana manomwe namakumi mana navatatu;"
+        },
+        {
+          "number": 26,
+          "text": "veRama neGebha vaiva mazana matanhatu namakumi maviri nomumwe chete;"
+        },
+        {
+          "number": 27,
+          "text": "veMikimashi vaiva zana namakumi maviri navaviri;"
+        },
+        {
+          "number": 28,
+          "text": "veBheteri neAi vaiva mazana maviri namakumi maviri navatatu;"
+        },
+        {
+          "number": 29,
+          "text": "veNebho vaiva makumi mashanu navaviri;"
+        },
+        {
+          "number": 30,
+          "text": "veMagibhishi vaiva zana namakumi mashanu navatanhatu;"
+        },
+        {
+          "number": 31,
+          "text": "veEramu yechipiri vaiva chiuru chimwe chete namazana maviri namakumi mashanu navana;"
+        },
+        {
+          "number": 32,
+          "text": "veHarimi vaiva mazana matatu namakumi maviri;"
+        },
+        {
+          "number": 33,
+          "text": "veRodhi neHadhidhi neOno vaiva mazana manomwe namakumi maviri navashanu;"
+        },
+        {
+          "number": 34,
+          "text": "veJeriko vaiva mazana matatu namakumi mana navashanu;"
+        },
+        {
+          "number": 35,
+          "text": "veSena, vaiva zviuru zvitatu namazana matanhatu namakumi matatu."
+        },
+        {
+          "number": 36,
+          "text": "Vaprista: zvizvarwa zvaJedhaya (veimba yaJeshua) vaiva mazana mapfumbamwe namakumi manomwe navatatu;"
+        },
+        {
+          "number": 37,
+          "text": "zvaImari zvaiva chiuru chimwe chete namakumi mashanu navaviri;"
+        },
+        {
+          "number": 38,
+          "text": "zvaPashuri zvaiva chiuru chimwe chete namazana maviri namakumi mana navanomwe;"
+        },
+        {
+          "number": 39,
+          "text": "zvaHarimu zvaiva chiuru chimwe chete negumi navanomwe."
+        },
+        {
+          "number": 40,
+          "text": "VaRevhi: zvizvarwa zvaJeshua navaKadhimieri (vorudzi rwaHodhavhia) zvaiva makumi manomwe navana."
+        },
+        {
+          "number": 41,
+          "text": "Vaimbi: zvizvarwa zvaAsafi zvaiva zana namakumi maviri navasere."
+        },
+        {
+          "number": 42,
+          "text": "Varindi vapasuo reTemberi: zvizvarwa zvaSharumi, zvaAteri zvaTarimoni zvaAkubhi, nezvaHatita nezvaShobhai zvaiva zana namakumi matatu navapfumbamwe."
+        },
+        {
+          "number": 43,
+          "text": "Vashandi vomutemberi:"
+        },
+        {
+          "number": 44,
+          "text": "zvizvarwa zvaZiha, zvaHasupa, zvaTabhaoti, zvaKerosi, zvaSiaha, zvaPadhoni,"
+        },
+        {
+          "number": 45,
+          "text": "zvaRebhana, zvaHagabha, zvaAkubhi,"
+        },
+        {
+          "number": 46,
+          "text": "zvaHagabhi, zvaSharimai, zvaHanani,"
+        },
+        {
+          "number": 47,
+          "text": "zvaGidheri, zvaGahari, zvaReaya,"
+        },
+        {
+          "number": 48,
+          "text": "zvaRezini, zvaNekodha, zvaGazami,"
+        },
+        {
+          "number": 49,
+          "text": "zvaUza, zvaPasea, zvaBhesai,"
+        },
+        {
+          "number": 50,
+          "text": "zvaAsina, zvaMeumini, zvaNefusimi,"
+        },
+        {
+          "number": 51,
+          "text": "zvaBhakubhiki, zvaHakufa, zvaHarihuri,"
+        },
+        {
+          "number": 52,
+          "text": "zvaBhaziruti, zvaMehidha, zvaHarisha,"
+        },
+        {
+          "number": 53,
+          "text": "zvaBharikosi, zvaSisera, zvaTema,"
+        },
+        {
+          "number": 54,
+          "text": "zvaNezia uye nezvaHatifa."
+        },
+        {
+          "number": 55,
+          "text": "Zvizvarwa zvavaranda vaSoromoni: zvizvarwa zvaSotai, zvaHasofereti zvaPerudha,"
+        },
+        {
+          "number": 56,
+          "text": "zvaJaara, zvaDharikoni, zvaGidheri,"
+        },
+        {
+          "number": 57,
+          "text": "zvaShefatia, zvaHatiri, zvaPokereti-Hazebhaimi uye nezvaAmi."
+        },
+        {
+          "number": 58,
+          "text": "Varanda vaishanda mutemberi nezvizvarwa zvavaranda vaSoromoni vaiva mazana matatu namakumi mapfumbamwe navaviri."
+        },
+        {
+          "number": 59,
+          "text": "Ava ndivo vakauya vachibva kumaguta eTeri Mera, Teri Harisha, Kerubhi, Adhoni neImeri, asi vakanga vasingagoni kuratidza dzimba dzamadzibaba avo kwavakanga vakaberekerwa muIsraeri:"
+        },
+        {
+          "number": 60,
+          "text": "Zvizvarwa zvaDheraya, zvaTobhia nezvaNekodha zvaiva mazana matanhatu namakumi mashanu navaviri."
+        },
+        {
+          "number": 61,
+          "text": "Uye kubva pakati pavaprista: zvizvarwa zvaHobhaya, zvaHakozi uye nezvizvarwa zvaBhazirai (murume akanga awana mwanasikana waBhazirai muGireadhi uye akazotumidzwa zita iroro)."
+        },
+        {
+          "number": 62,
+          "text": "Ava vakatsvaka nhoroondo yamazita emhuri yavo, asi havana kuiwana, nokudaro vakanzi vakasvibiswa vakabviswa pauprista."
+        },
+        {
+          "number": 63,
+          "text": "Mubati akavaudza kuti varege kudya chipi zvacho chezvokudya zvitsvene kwazvo kusvikira kwazova nomuprista anoshumira neUrimi neTumimi."
+        },
+        {
+          "number": 64,
+          "text": "Ungano yose pamwe chete yaisvika zviuru makumi mana nezviviri namazana matatu namakumi matanhatu,"
+        },
+        {
+          "number": 65,
+          "text": "tisingasanganisiri varanda vavo navarandakadzi vavo vakanga vari zviuru zvinomwe namazana matatu namakumi matatu navanomwe: uye vakanga vane varume navakadzi mazana maviri vakanga vari vaimbi."
+        },
+        {
+          "number": 66,
+          "text": "Vakanga vane mabhiza mazana manomwe namakumi matatu namatanhatu, manyurusi mazana maviri namakumi mana namashanu,"
+        },
+        {
+          "number": 67,
+          "text": "ngamera mazana mana namakumi matatu namashanu uye nembongoro zviuru zvitanhatu namazana manomwe namakumi maviri."
+        },
+        {
+          "number": 68,
+          "text": "Pavakasvika paimba yaJehovha muJerusarema, vamwe vakuru vedzimba vakasarudza kupa nokuzvisarudzira kuti imba yaJehovha ivakwezve panzvimbo yayo."
+        },
+        {
+          "number": 69,
+          "text": "Maererano napavaigona napo vakapa kuhomwe yemari yebasa iri, madhirakema zviuru makumi matanhatu nechimwe + 2:69 egoridhe, nemamina zviuru zvishanu + 2:69 esirivha uye nenguo dzavaprista zana."
+        },
+        {
+          "number": 70,
+          "text": "Vaprista, vaRevhi, vaimbi, varindi vemikova uye navashandi vomutemberi vakagara mumaguta avo, pamwe chete navamwe vavanhu, uye vamwe vaIsraeri vose vakagara mumaguta avowo."
+        }
+      ]
+    },
+    {
+      "id": "EZR.3",
+      "number": 3,
+      "headings": [
+        "Kuvakwazve kweAritari",
+        "Kuvakwazve kweTemberi"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mwedzi wechinomwe wakati wasvika uye vana veIsraeri vakanga vagara mumaguta avo, vanhu vakaungana pamwe chete somunhu mumwe chete muJerusarema."
+        },
+        {
+          "number": 2,
+          "text": "Ipapo Jeshua mwanakomana waJozadhaki navamwe vake vaprista naZerubhabheri mwanakomana waShearitieri neshamwari dzake vakatanga kuvaka aritari yaMwari weIsraeri kuti vabayirepo zvipiriso zvinopiswa, maererano nezvakanyorwa muMurayiro waMozisi, munhu waMwari."
+        },
+        {
+          "number": 3,
+          "text": "Vakavakira aritari pahwaro uye vakabayirapo kuna Jehovha zvipiriso zvinopiswa, zvose zvipiriso zvinopiswa zvamangwanani nezvamadekwana, zvisinei kuti vaitya vanhu vakanga vakavapoteredza."
+        },
+        {
+          "number": 4,
+          "text": "Ipapo vakapemberera Mutambo waMatumba sezvazvakanga zvakanyorwa, nouwandu hwaidikanwa hwezvipiriso zvinopiswa hwakanga hwakanyorwa, hwezuva rimwe nerimwe."
+        },
+        {
+          "number": 5,
+          "text": "Mushure maizvozvo, vakapa chipiriso chinopiswa chenguva dzose, nezvibayiro zvapaKugara kwoMwedzi uye nezvibayiro zvemitambo yose mitsvene yaJehovha yakanga yakatarwa, pamwe chetewo neizvo zvakauyiswa sezvipo zvokuzvisarudzira kuna Jehovha."
+        },
+        {
+          "number": 6,
+          "text": "Pazuva rokutanga romwedzi wechinomwe vakatanga kupa zvipiriso zvinopiswa kuna Jehovha, kunyange zvazvo nheyo dzetemberi yaJehovha dzakanga dzichigere kuteyiwa."
+        },
+        {
+          "number": 7,
+          "text": "Ipapo vakapa mari kuvavezi vamabwe navavezi vamatanda, uye vakapa zvokudya nezvokunwa namafuta kuvanhu veSidhoni neveTire, kuitira kuti vatore matanda emisidhari kubva kuRebhanoni vagoayeredza nemvura yegungwa kuti aende kuJopa, sezvakanga zvatenderwa naSirasi mambo wePezhia."
+        },
+        {
+          "number": 8,
+          "text": "Mumwedzi wechipiri wegore rechipiri mushure mokunge vasvika paimba yaMwari muJerusarema, Zerubhabheri mwanakomana waShearitieri, naJeshua mwanakomana waJozadhaki nedzimwe hama dzavo dzose (vaprista navaRevhi uye navose vakanga vadzokera kuJerusarema vachibva kuutapwa) vakatanga kushanda vakagadza vaRevhi vana makore makumi maviri kana anopfuura kuti vave vatariri vokuvakwa kweimba yaJehovha."
+        },
+        {
+          "number": 9,
+          "text": "Jeshua navanakomana vake nehama dzake naKadhimieri navanakomana vake (zvizvarwa zvaHodhavhia) navanakomana vaHenadhadhi navanakomana vavo nehama dzavo, navaRevhi vose vakabatana pamwe chete navo pakutarira vaishanda paimba yaMwari."
+        },
+        {
+          "number": 10,
+          "text": "Zvino vavaki vakati vateya nheyo dzetemberi yaJehovha, vaprista vakapfeka nguo dzavo, uye vakabata hwamanda, navaRevhi (vanakomana vaAsafi) vakabata makandira, vakamira munzvimbo dzavo kuti varumbidze Jehovha, sezvakanga zvarayirwa naDhavhidhi mambo weIsraeri."
+        },
+        {
+          "number": 11,
+          "text": "Vakaimba kuna Jehovha vachirumbidza nokutenda, vachiti: “Jehovha akanaka; rudo rwake kuna Israeri runogara nokusingaperi.” Uye vanhu vose vakadanidzira nenzwi guru rokurumbidza kuna Jehovha, nokuti nheyo dzeimba yaJehovha dzakanga dzateyiwa."
+        },
+        {
+          "number": 12,
+          "text": "Asi vazhinji vavaprista navaRevhi vakanga vakwegura navakuru vedzimba dzavo, avo vakanga vaona temberi yokutanga, vakachema nenzwi guru pavakaona nheyo dzetemberi iyi dzichiteyiwa, asi vamwe vazhinji vaipururudza nomufaro."
+        },
+        {
+          "number": 13,
+          "text": "Hapana aigona kutsaura inzwi rokudanidzira kwomufaro kubva kuinzwi rokuchema kwavanhu, nokuti vanhu vakaita ruzha rukuru kwazvo. Uye ruzha urwu rwakanzwika kure kure."
+        }
+      ]
+    },
+    {
+      "id": "EZR.4",
+      "number": 4,
+      "headings": [
+        "Vavengi vanodzivisa kuvakwa kweTemberi",
+        "Kumwe kudziviswa kwakazotevera panguva yokutonga kwaZekisesi napanguva yokutonga kwaAtazekisesi"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vavengi veJudha neBhenjamini vakati vanzwa kuti vatapwa vakanga vachivaka temberi yaJehovha, Mwari weIsraeri,"
+        },
+        {
+          "number": 2,
+          "text": "vakauya kuna Zerubhabheri nokuvakuru vedzimba vakati, “Titenderei kuti tikubatsirei kuvaka nokuti tinotsvaka Mwari wenyu, sezvamunoitawo, uye tinomubayira kubva pamazuva aEsarihadhoni mambo weAsiria, akatisvitsa pano.”"
+        },
+        {
+          "number": 3,
+          "text": "Asi Zerubhabheri, Jeshua navamwe vose vakuru vedzimba dzeIsraeri vakapindura vakati, “Hamuna mugove nesu mukuvaka temberi yaMwari wedu. Isu pachedu ndisu tichaivakira Jehovha, Mwari waIsraeri, sezvatakarayirwa naMambo Sirasi, mambo wePezhia.”"
+        },
+        {
+          "number": 4,
+          "text": "Ipapo marudzi akanga akavakomberedza akauya kuzoodza mwoyo yavanhu veJudha uye nokuvaita kuti vatye kuramba vachivaka."
+        },
+        {
+          "number": 5,
+          "text": "Vakapa mari vapi vamazano kuti vavapikise uye vavakanganise paurongwa hwavo panguva yose yokutonga kwaSirasi mambo wePezhia uye kusvikira pakutonga kwaDhariasi mambo wePezhia."
+        },
+        {
+          "number": 6,
+          "text": "Pakutanga kwokubata ushe kwaZekisesi vakapomera mhosva kuvanhu veJudha neveJerusarema."
+        },
+        {
+          "number": 7,
+          "text": "Uye napamazuva aAtazekisesi mambo wePezhia, Bhishirami, Mitiredhati, Tabheeri navamwe vake vose vakanyora tsamba kuna Atazekisesi. Tsamba yacho yakanga yakanyorwa namavara echiAramu uye nomutauro wechiAramu."
+        },
+        {
+          "number": 8,
+          "text": "Rehumi muchinda mukuru naShimishai munyori vakanyora tsamba kuna mambo Atazekisesi vachipomera Jerusarema vachiti:"
+        },
+        {
+          "number": 9,
+          "text": "Rehumi muchinda mukuru naShimishai munyori, pamwe chete navamwe vavo vose, vatongi namakurukota vanotungamirira vanhu veTiriporisi, nevePezhia, neveEreki neBhabhironi, navaEramu veSusa,"
+        },
+        {
+          "number": 10,
+          "text": "uye navamwe vanhu avo vakadzingwa naAshuribhanipari mukuru uye anokudzwa, uye vakandogara muguta reSamaria nokune dzimwe nzvimbo dziri mhiri kwaYufuratesi."
+        },
+        {
+          "number": 11,
+          "text": "Aya ndiwo mashoko etsamba yavakatumira kwaari: Kuna Mambo Atazekisesi, Kubva kuvaranda venyu, varume vagere mhiri kwaYufuratesi:"
+        },
+        {
+          "number": 12,
+          "text": "Mambo ngaazvizive kuti vaJudha vakabva kwenyu vakauya kwatiri kuno vakaenda kuJerusarema uye vava kuvakazve guta riya rokumukira uye rakaipa. Vari kuvakazve masvingo aro uye vari kugadziridza nheyo dzayo."
+        },
+        {
+          "number": 13,
+          "text": "Pamusoro pezvo, mambo ngaazive kuti kana guta iri rikavakwa uye masvingo aro akavakwazve, hakuchazova nemhando dzose dzemitero, mutero womunhu mumwe nomumwe, kana mutero wokumuganhu kwenyika, uye mari inoripwa kuna mambo ichava shoma."
+        },
+        {
+          "number": 14,
+          "text": "Zvino isu zvatinokudza imba yamambo, taona zvisina kufanira kuona mambo achininipiswa, naizvozvo tatumira mashoko aya kuti tizivise mambo,"
+        },
+        {
+          "number": 15,
+          "text": "kuitira kuti kutsvagisiswe mumabhuku enhoroondo avakakutangirai. Mumabhuku aya muchaona kuti guta iri iguta rinomukira, rinotambudza madzimambo namatunhu, inzvimbo inomukira kubva kare. Ndokusaka guta iri rakaparadzwa."
+        },
+        {
+          "number": 16,
+          "text": "Tinozivisa mambo kuti kana guta iri rikavakwa uye masvingo aro akamiswazve, muchasara musina chinhu mhiri kwaYufuratesi."
+        },
+        {
+          "number": 17,
+          "text": "Mambo akatumira mhinduro iyi: Kuna Rehumi muchinda mukuru, naShimishai munyori navamwe vavo vose vagere muSamaria uye navagere mune dzimwe nzvimbo mhiri kwaYufuratesi: Kwaziwai."
+        },
+        {
+          "number": 18,
+          "text": "Tsamba yamakatitumira yakaverengwa uye ikadudzirwa pamberi pangu."
+        },
+        {
+          "number": 19,
+          "text": "Ndakarayira uye zvikatsvakwa, zvikaonekwa kuti guta iri rine nhoroondo yokumukira madzimambo kubva kare uye raiva nzvimbo yokumukira madzimambo nokurangana zvakaipa."
+        },
+        {
+          "number": 20,
+          "text": "Jerusarema rakanga rine madzimambo ane simba akanga achitonga nzvimbo yose iri mhiri kwaYufuratesi, uye mitero, nemhando dzose dzemitero, mutero womunhu mumwe nomumwe, kana mutero wokumuganhu kwenyika, yairipirwa kwavari."
+        },
+        {
+          "number": 21,
+          "text": "Zvino rayirai vanhu ava kuti varege basa, kuti guta iri rirege kuvakwa, kusvikira ini ndazorayira kuti zviitwe."
+        },
+        {
+          "number": 22,
+          "text": "Chenjererai kuti musarega nyaya iyi. Mungaregereiko chakaipa ichi chichikura, kuti chigokanganisa zvido zvamambo?"
+        },
+        {
+          "number": 23,
+          "text": "Pakangoverengwa tsamba yaMambo Atazekisesi kuna Rehumi naShimishai munyori navamwe vavo, vakabva vaenda pakarepo kuvaJudha vaiva muJerusarema vakavamanikidza nechisimba kuti varege kuvaka."
+        },
+        {
+          "number": 24,
+          "text": "Nokudaro basa reimba yaMwari rakamira kuitwa muJerusarema kusvikira gore rechipiri rokutonga kwaDhariasi mambo wePezhia."
+        }
+      ]
+    },
+    {
+      "id": "EZR.5",
+      "number": 5,
+      "headings": [
+        "Tsamba yaTatenai kuna Dhariasi"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zvino muprofita Hagai naZekaria muprofita, chizvarwa chaIdho, vakaprofita kuvaJudha vakanga vari muJudha muJerusarema, vakaprofita muzita raMwari akanga ari pamusoro pavo, Mwari waIsraeri."
+        },
+        {
+          "number": 2,
+          "text": "Ipapo Zerubhabheri mwanakomana waShearitieri naJeshua mwanakomana waJozadhaki, vakasimuka kuti vaite basa rokuvakazve imba yaMwari muJerusarema. Uye vaprofita vaMwari vakanga vanavo, vachivabatsira."
+        },
+        {
+          "number": 3,
+          "text": "Panguva iyoyo Tatenai, mubati wenyika yaiva mhiri kwaYufuratesi, naShetari-Bhozenai neshamwari dzavo vakaenda kwaari uye vakandomubvunza, vachiti, “Ndiani akakupai mvumo yokuvakazve temberi iyi uye nokumisazve masvingo aya?”"
+        },
+        {
+          "number": 4,
+          "text": "Vakabvunzazve vakati, “Mazita avarume vari kuvaka imba iyi ndivanaani?”"
+        },
+        {
+          "number": 5,
+          "text": "Asi ziso raMwari wavo rakanga rakatarira pamusoro pavakuru vavaJudha, uye havana kuvaregesa basa kusvikira nyaya iyi yaziviswa kuna Dhariasi uye mhinduro yake yakanyorwa yagamuchirwa."
+        },
+        {
+          "number": 6,
+          "text": "Aya ndiwo mashoko etsamba yakanyorerwa mambo Dhariasi naTatenai, mubati mhiri kwaYufuratesi, naShetari-Bhozenai, neshamwari dzavo, namakurukota vakanga vari mhiri kwaYufuratesi."
+        },
+        {
+          "number": 7,
+          "text": "Tsamba yavakatumira kwaari yakanga ina mashoko anoti: Kuna Mambo Dhariasi: Tinokukwazisai."
+        },
+        {
+          "number": 8,
+          "text": "Mambo ngaazive kuti takaenda kudunhu reJudha, kutemberi yaMwari mukuru. Vanhu vari kuivaka namabwe makuru uye vachiisa matanda mumasvingo. Basa riri kuitwa nokushingaira uye riri kupfuurira mberi nokukurumidza mumaoko avo."
+        },
+        {
+          "number": 9,
+          "text": "Takabvunza vakuru vavo tikati kwavari, “Ndiani akakupai mvumo yokuti muvakezve temberi iyi uye mumisezve masvingo aya?”"
+        },
+        {
+          "number": 10,
+          "text": "Takavabvunzawo kuti mazita avo vainzi vanaani, tichiitira kuti tingonyora mazita avatungamiri vavo kuti tigokuzivisai."
+        },
+        {
+          "number": 11,
+          "text": "Iyi ndiyo mhinduro yavakatipa: “Tiri varanda vaMwari wokudenga napasi, uye tiri kuvakazve temberi yakambovakwa makore mazhinji akapfuura, iyo yakavakwa namambo mukuru weIsraeri uye akaipedza."
+        },
+        {
+          "number": 12,
+          "text": "Asi nokuda kwokuti madzibaba edu akatsamwisa Mwari wokudenga, akavaisa mumaoko aNebhukadhinezari muKaradhea, mambo weBhabhironi, uyo akaparadza temberi ino akatora vanhu akavaendesa kuBhabhironi."
+        },
+        {
+          "number": 13,
+          "text": "“Kunyange zvakadaro, mugore rokutanga raSirasi mambo weBhabhironi, Mambo Sirasi akatema chirevo chokuti imba yaMwari iyi ivakwezve."
+        },
+        {
+          "number": 14,
+          "text": "Akabvisawo midziyo yegoridhe nesirivha yeimba yaMwari yakanga iri mutemberi yeBhabhironi, yakanga yatorwa naNebhukadhinezari kubva kutemberi muJerusarema akaiuyisa kutemberi yomuBhabhironi. “Ipapo mambo Sirasi akaipa kumurume ainzi Sheshibhazari, waakanga agadza kuti ave mubati,"
+        },
+        {
+          "number": 15,
+          "text": "uye akamuudza kuti, ‘Tora midziyo iyi uende nayo undoiisa mutemberi muJerusarema, uye ugovakazve imba yaMwari panzvimbo yayo.’"
+        },
+        {
+          "number": 16,
+          "text": "Naizvozvo Sheshibhazari uyu akauya akateya nheyo dzeimba yaMwari muJerusarema. Kubva pazuva iroro kusvikira nhasi yanga ichingovakwa, asi haisati yapera.”"
+        },
+        {
+          "number": 17,
+          "text": "“Zvino kana zvichifadza mambo, ngavatsvakisise mumabhuku amadzimambo eBhabhironi kuti vaone kana Mambo Sirasi zvirokwazvo vakamboisa chirevo chokuti imba yaMwari iyi ivakwezve muJerusarema. Naizvozvo mambo ngaatizivise kuda kwake pamusoro penyaya iyi.”"
+        }
+      ]
+    },
+    {
+      "id": "EZR.6",
+      "number": 6,
+      "headings": [
+        "Chirevo chaDhariasi",
+        "Kupera kweTemberi noKukumikidzwa kwayo",
+        "Pasika"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ipapo Mambo Dhariasi akatema chirevo, uye vakatsvakisisa mumabhuku enhoroondo dzakare aiva mudura repfuma muBhabhironi."
+        },
+        {
+          "number": 2,
+          "text": "Rugwaro rwakapetwa rwakawanikwa mumuzinda weEkibhatana mudunhu reMedhia, uye izvi ndizvo zvakanga zvakanyorwa parwuri: Chiziviso:"
+        },
+        {
+          "number": 3,
+          "text": "Mugore rokutanga raMambo Sirasi, mambo akapa chirevo pamusoro pezvetemberi yaMwari muJerusarema achiti: Temberi ngaivakwezve ive nzvimbo yokubayira zvibayiro, uye nheyo dzayo ngadziteyiwe. Inofanira kuva namakubhiti makumi matanhatu + 6:3 paurefu namakubhiti makumi matanhatu paupamhi,"
+        },
+        {
+          "number": 4,
+          "text": "ive nemitsara mitatu yamabwe makuru uye nomutsara mumwe chete wamatanda. Mari yokuvaka ngaitorwe kubva papfuma yamambo."
+        },
+        {
+          "number": 5,
+          "text": "Uyezve midziyo yegoridhe neyesirivha yeimba yaMwari yakatorwa naNebhukadhinezari kubva mutemberi muJerusarema akauya nayo kuBhabhironi, inofanira kudzoserwa panzvimbo yayo mutemberi muJerusarema; inofanira kuiswa muimba yaMwari."
+        },
+        {
+          "number": 6,
+          "text": "Zvino naizvozvo, Tatenai, mubati wenyika iri mhiri kwaYufuratesi, Sheshitari-Bhozenai, iwe namachinda avo omudunhu iro, musapindira pazvinhu izvi."
+        },
+        {
+          "number": 7,
+          "text": "Musakanganisa basa retemberi iyi yaMwari. Regai mubati wavaJudha navakuru vavaJudha vavake imba iyi yaMwari panzvimbo yayo."
+        },
+        {
+          "number": 8,
+          "text": "Pamusoro pezvo, ndinorayira zvino zvamunofanira kuitira vakuru ava vavaJudha, pakuvakwa kweimba iyi yaMwari: Mari yose inodiwa kuripira varume ava ichabva papfuma yamambo ichibva pamitero inoripwa kubva mhiri kwaYufuratesi, kuitira kuti basa rirege kumira."
+        },
+        {
+          "number": 9,
+          "text": "Zvose zvinodiwa, dzingava hando duku, makondobwe, namakwayana makono, zvokuita nazvo zvipiriso zvinopiswa kuna Mwari wokudenga, uye gorosi, munyu, waini namafuta, zvinenge zvakumbirwa navaprista muJerusarema, zvinofanira kupiwa kwavari zuva rimwe nerimwe musingadariki,"
+        },
+        {
+          "number": 10,
+          "text": "kuti vagone kupa zvibayiro zvinofadza kuna Mwari wokudenga uye kuti vagone kunyengetererawo upenyu hwamambo nohwavanakomana vake."
+        },
+        {
+          "number": 11,
+          "text": "Pamusoro pezvo, ndinotemawo chirevo, kuti ani naani anoshandura shoko iri, bango rinofanira kubviswa paimba yake, uye anofanira kuturikwa agorovererwa pariri. Uye nokuda kwemhaka iyi, imba yake inofanira kuitwa murwi wamarara."
+        },
+        {
+          "number": 12,
+          "text": "Mwari, akagarisa Zita rake ipapo, ngaaparadze mambo upi noupi kana vanhu vangatambanudza maoko avo kuti vashandure chirevo ichi kana kuparadza temberi iyi muJerusarema. Ini Dhariasi ndini ndatema chirevo ichi. Ngachizadziswe nenzira yakanyanyisa kunaka."
+        },
+        {
+          "number": 13,
+          "text": "Ipapo, nokuda kwechirevo chakanga chatumirwa naMambo Dhariasi, Tatenai mubati wemhiri kwaYufuratesi, naShetari-Bhozenai neshamwari dzavo vakaita izvi nenzira yakanakisisa."
+        },
+        {
+          "number": 14,
+          "text": "Nokudaro vakuru vavaJudha vakaenderera mberi nokuvaka uye vakabudirira vachiparidzirwa naHagai muprofita naZekaria mwanakomana waIdho. Vakavaka temberi vakaipedza sokurayirwa kwavakanga vaitwa naMwari weIsraeri nechirevo chaSirasi, Dhariasi naAtazekisesi madzimambo ePezhia."
+        },
+        {
+          "number": 15,
+          "text": "Temberi yakapera kuvakwa pazuva rechitatu romwedzi waAdhari, mugore rechitanhatu rokutonga kwamambo Dhariasi."
+        },
+        {
+          "number": 16,
+          "text": "Ipapo vanhu veIsraeri, vaprista, vaRevhi uye navamwe vose vakanga vakatapwa, vakapemberera kukumikidzwa kweimba yaMwari nomufaro."
+        },
+        {
+          "number": 17,
+          "text": "Pakukumikidzwa kweimba iyi yaMwari vakabayira hando zana, makondobwe mazana maviri, namakwayana makono mazana mana uye sechipiriso chechivi chavaIsraeri vose, vakabayira nhongo dzembudzi gumi nembiri, imwe ichimirira rudzi rumwe norumwe rwaIsraeri."
+        },
+        {
+          "number": 18,
+          "text": "Vakagadza vaprista mumapoka avo uye navaRevhi muzvikwata zvawo kuti vaite basa raMwari paJerusarema, sezvazvakanyorwa muBhuku raMozisi."
+        },
+        {
+          "number": 19,
+          "text": "Pazuva regumi namana romwedzi wokutanga, vatapwa vakapemberera Pasika."
+        },
+        {
+          "number": 20,
+          "text": "Vaprista navaRevhi vakanga vazvinatsa uye vose vakanga vanatswa. VaRevhi vakabayira vatapwa vose gwayana rePasika, vakabayirawo hama dzavo vaprista naivo vamene."
+        },
+        {
+          "number": 21,
+          "text": "Nokudaro vaIsraeri vakanga vadzoka kubva kuutapwa vakaidya, pamwe chete navose vakanga vazvitsaura kubva pazviito zvisina kururama zvaiitwa navavakidzani vavo vokune dzimwe ndudzi, kuti vatsvake Jehovha, Mwari waIsraeri."
+        },
+        {
+          "number": 22,
+          "text": "Kwamazuva manomwe vakapemberera nomufaro Mutambo weZvingwa Zvisina Mbiriso, nokuti Jehovha akanga avapa mufaro nokushandura mwoyo wamambo weAsiria, kuti avabatsire pakuitwa kwebasa reimba yaMwari, iye Mwari weIsraeri."
+        }
+      ]
+    },
+    {
+      "id": "EZR.7",
+      "number": 7,
+      "headings": [
+        "Ezira anouya kuJerusarema",
+        "Tsamba yaMambo Atazekisesi kuna Ezira"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Shure kwaizvozvo, panguva yokutonga kwaAtazekisesi mambo wePezhia, Ezira mwanakomana waSeraya, mwanakomana waAzaria, mwanakomana waHirikia,"
+        },
+        {
+          "number": 2,
+          "text": "mwanakomana waSharumi, mwanakomana waZodhaki, mwanakomana waAhitubhi,"
+        },
+        {
+          "number": 3,
+          "text": "mwanakomana waAmaria, mwanakomana waAzaria, mwanakomana waMerayoti,"
+        },
+        {
+          "number": 4,
+          "text": "mwanakomana waZerahia, mwanakomana waUzi, mwanakomana waBhuki,"
+        },
+        {
+          "number": 5,
+          "text": "mwanakomana waAbhishua, mwanakomana waFinehasi, mwanakomana waEreazari, mwanakomana waAroni muprista mukuru,"
+        },
+        {
+          "number": 6,
+          "text": "Ezira uyu akauya kubva kuBhabhironi. Akanga ari mudzidzisi aiziva kwazvo Murayiro waMozisi, wakanga wapiwa naJehovha, Mwari waIsraeri. Mambo akanga amupa zvose zvaakanga akumbira, nokuti ruoko rwaJehovha Mwari wake rwakanga rwuri pamusoro pake."
+        },
+        {
+          "number": 7,
+          "text": "Vamwe vavaIsraeri, vaisanganisira vaprista, vaRevhi, vaimbi, varindi vamasuo navaranda vomutemberi, vakauyawo kuJerusarema mugore rechinomwe rokutonga kwaMambo Atazekisesi."
+        },
+        {
+          "number": 8,
+          "text": "Ezira akasvika muJerusarema mumwedzi wechishanu wegore rechinomwe ramambo."
+        },
+        {
+          "number": 9,
+          "text": "Akanga atanga rwendo rwake kubva kuBhabhironi zuva rokutanga romwedzi wokutanga akasvika muJerusarema pazuva rokutanga romwedzi wechishanu, nokuti ruoko rwenyasha rwaMwari wake rwakanga rwuri pamusoro pake."
+        },
+        {
+          "number": 10,
+          "text": "Nokuti Ezira akanga akazvipira kunzvera nokutevera Murayiro waJehovha, uye nokudzidzisa mitemo nemirayiro yawo muIsraeri."
+        },
+        {
+          "number": 11,
+          "text": "Aya ndiwo mashoko etsamba yaMambo Atazekisesi yaakapa Ezira muprista nomudzidzisi, murume akanga akadzidza pamusoro pezvemirayiro nemitemo yaJehovha kuIsraeri:"
+        },
+        {
+          "number": 12,
+          "text": "Atazekisesi mambo wamadzimambo, kuna Ezira muprista nomudzidzisi woMurayiro waMwari wokudenga: Kwaziwa."
+        },
+        {
+          "number": 13,
+          "text": "Ini ndinotema chirevo kuti ani naani muIsraeri ari muumambo hwangu, kusanganisira vaprista navaRevhi, avo vanoda zvavo kuenda newe kuJerusarema, ngavaende."
+        },
+        {
+          "number": 14,
+          "text": "Uri kutumwa namambo navapi vake vamazano vanomwe kundobvunzisisa pamusoro peJudha neJerusarema maererano noMurayiro waMwari wako, uri muruoko rwako."
+        },
+        {
+          "number": 15,
+          "text": "Pamusoro pezvo unofanira kutora sirivha negoridhe rakapiwa namambo namakurukota ake nokuda kwavo kuna Mwari waIsraeri, iye agere muJerusarema,"
+        },
+        {
+          "number": 16,
+          "text": "pamwe chete nesirivha negoridhe rose raungawana kubva kudunhu reBhabhironi, pamwe chetewo nezvipo zvavanhu zvavachapa nokuda kwavo nezvavaprista, zvetemberi yaMwari wavo muJerusarema."
+        },
+        {
+          "number": 17,
+          "text": "Nemari iyi unofanira kutenga hando, makondobwe, namakwayana makono, pamwe chete nezvipiriso zvazvo zvezviyo nezvinonwiwa, uye mugozvibayira paaritari yetemberi yaMwari muJerusarema."
+        },
+        {
+          "number": 18,
+          "text": "Ipapo iwe nehama dzako vaJudha mungaita zvenyu zvose zvamunoona zvakafanira nesirivha negoridhe rose rinenge rasara maererano nokuda kwaMwari wenyu."
+        },
+        {
+          "number": 19,
+          "text": "Ipai midziyo yose kuna Mwari weJerusarema iyo yamakapiwa kuti mushumire nayo mutemberi yaMwari wenyu."
+        },
+        {
+          "number": 20,
+          "text": "Uye zvimwe zvose zvinodiwa patemberi yaMwari wako zvaunofanira kuendesa kutemberi, unofanira kuzvitora kubva papfuma yamambo."
+        },
+        {
+          "number": 21,
+          "text": "Zvino ini, Mambo Atazekisesi, ndinorayira vabati vose vehomwe dzemari mhiri kwaYufuratesi kuti mupe nokushingairira zvose zvingakumbirwa naEzira muprista nomudzidzisi woMurayiro waMwari wokudenga,"
+        },
+        {
+          "number": 22,
+          "text": "kusvikira pamatarenda esirivha zana, nezviyero zana zvezviyo namabhati zana ewaini, namabhati zana amafuta amaorivhi, uye nomunyu wose unodiwa."
+        },
+        {
+          "number": 23,
+          "text": "Chinhu chipi nechipi chakarayirwa naMwari wokudenga, ngachiitwe nokushingaira kutemberi yaMwari wokudenga. Ko, ushe hwamambo nohwavanakomana vake huchatsamwireiko?"
+        },
+        {
+          "number": 24,
+          "text": "Ndinokuzivisaiwo kuti hamufaniri kuripisa mitero, nemhando dzose dzemitero, mutero womunhu mumwe nomumwe, kana mutero wokumuganhu kwenyika, kuvaprista, vaRevhi, vaimbi, varindi vemikova, navaranda vomutemberi kana vamwe vashandi vapaimba yaMwari."
+        },
+        {
+          "number": 25,
+          "text": "Uye iwe, Ezira, maererano nouchenjeri hwaMwari wako, hwaunahwo, ugadze vaongorori vemhosva, navatongi kuti vatonge nokururamisira vanhu vose vari mhiri kwaYufuratesi, vose vanoziva mirayiro yaMwari wako. Uye unofanira kudzidzisa vose vasingaizivi."
+        },
+        {
+          "number": 26,
+          "text": "Ani naani asingateereri murayiro waMwari wako uye nomurayiro wamambo, zvirokwazvo anofanira kurangwa norufu, kana kudzingwa, kana kutorerwa pfuma, kana kuiswa mutorongo."
+        },
+        {
+          "number": 27,
+          "text": "Jehovha ngaarumbidzwe, Mwari wamadzibaba edu, uyo akaisa izvi mumwoyo mamambo, kuti auyise kukudzwa kuimba yaJehovha muJerusarema nenzira yakadai,"
+        },
+        {
+          "number": 28,
+          "text": "uye akandiitira nyasha dzake dzakanaka pamberi pamambo namakurukota ake namachinda ake ose ane simba. Nokuti ruoko rwaJehovha Mwari wangu rwakanga rwuri pamusoro pangu, ndikashinga uye ndikakoka varume vaikudzwa pakati pavaIsraeri kuti vaende neni."
+        }
+      ]
+    },
+    {
+      "id": "EZR.8",
+      "number": 8,
+      "headings": [
+        "Kunyorwa kwaMazita aVakuru veMhuri Vakadzokera naEzira",
+        "Kudzokera kwevakanga vatapwa kuJerusarema"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ava ndivo vakuru vemhuri naavo vakanyorwa pamwe chete navo vakauya pamwe chete neni kubva kuBhabhironi panguva yokutonga kwaMambo Atazekisesi:"
+        },
+        {
+          "number": 2,
+          "text": "kuzvizvarwa zvaFinehasi, Gerishomi; kuzvizvarwa zvaItamari, Dhanieri; kuzvizvarwa zvaDhavhidhi, Hatushi"
+        },
+        {
+          "number": 3,
+          "text": "akabva kuzvizvarwa zvaShekania; kuzvizvarwa zvaParoshi, Zekaria, uye pamwe chete naye kwakanyorwa varume zana namakumi mashanu;"
+        },
+        {
+          "number": 4,
+          "text": "kuzvizvarwa zvaPahati-Moabhu, Eriehoenai mwanakomana waZekaria, uye pamwe chete naye varume mazana maviri;"
+        },
+        {
+          "number": 5,
+          "text": "kuzvizvarwa zvaZatu, Shekania mwanakomana waJahazieri, uye pamwe chete naye varume mazana matatu;"
+        },
+        {
+          "number": 6,
+          "text": "kuzvizvarwa zvaAdhini, Ebhedhi mwanakomana waJonatani, uye pamwe chete naye varume makumi mashanu;"
+        },
+        {
+          "number": 7,
+          "text": "kuzvizvarwa zvaEramu, Jeshaya mwanakomana waAtaria uye pamwe chete naye varume makumi manomwe;"
+        },
+        {
+          "number": 8,
+          "text": "kuzvizvarwa zvaShefatia, Zebhadhia mwanakomana Mikaeri, uye pamwe chete naye varume makumi masere;"
+        },
+        {
+          "number": 9,
+          "text": "kuzvizvarwa zvaJoabhu, Obhadhia mwanakomana waJehieri, uye pamwe chete naye varume mazana maviri negumi navasere;"
+        },
+        {
+          "number": 10,
+          "text": "kuzvizvarwa zvaBhani, Sheromiti mwanakomana waJosifia, uye pamwe chete naye varume zana namakumi matanhatu;"
+        },
+        {
+          "number": 11,
+          "text": "kuzvizvarwa zvaBhebhai, Zekaria mwanakomana waBhebhai, uye pamwe chete naye varume makumi maviri navasere;"
+        },
+        {
+          "number": 12,
+          "text": "kuzvizvarwa zvaAzigadhi, Johanani mwanakomana waHakatani, uye pamwe chete naye varume zana negumi;"
+        },
+        {
+          "number": 13,
+          "text": "kuzvizvarwa zvaAdhonikami, ivo vokupedzisira, mazita avo vaiti Erifereti, Jeuyeri naShemaya, uye pamwe chete navo varume makumi matanhatu;"
+        },
+        {
+          "number": 14,
+          "text": "kuzvizvarwa zvaBhigivhai, Utai naZakuri, uye pamwe chete navo varume makumi manomwe."
+        },
+        {
+          "number": 15,
+          "text": "Ndakavaunganidza vose parwizi runoerera rwakananga kuAhavha, uye takagarapo pamisasa kwamazuva matatu. Pandakacherechedza pakati pavanhu navaprista, handina kuona vaRevhi pakati pavo."
+        },
+        {
+          "number": 16,
+          "text": "Nokudaro ndakadana Eriezeri, Arieri, Shemaya, Erinati, Jaribhi, Erinatani, Natani, Zekaria, naMeshurami, avo vakanga vari vatungamiri naJoyaribhi naErinatani, avo vakanga vari varume vakadzidza,"
+        },
+        {
+          "number": 17,
+          "text": "uye ndakavatuma kuna Idho, mutungamiri womuKasifia. Ndakavaudza zvokutaura kuna Idho nehama dzake, varanda vomutemberi muKasifia, kuitira kuti vagouya navashandi vomumba maMwari wedu kwatiri."
+        },
+        {
+          "number": 18,
+          "text": "Nokuti ruoko rwenyasha rwaMwari wedu rwakanga rwuri pamusoro pedu, vakauya naSherebhia, murume aiva nounyanzvi, akabva kuzvizvarwa zvaMari, mwanakomana waRevhi, mwanakomana waIsraeri, uye navanakomana vaSherebhia nehama dzake, varume gumi navasere,"
+        },
+        {
+          "number": 19,
+          "text": "uye Hashabhia, pamwe chete naJeshaya aibva kuzvizvarwa zvaMerari, nehama dzake navana vavo, varume makumi maviri."
+        },
+        {
+          "number": 20,
+          "text": "Vakauyawo navaranda vomutemberi mazana maviri namakumi maviri, uwandu hwakanga hwanyorwa naDhavhidhi namakurukota kuti vabatsire vaRevhi. Vose vakanga vakanyorwa mazita avo."
+        },
+        {
+          "number": 21,
+          "text": "Ipapo, paRwizi rweAhavha, ndakatara nguva yokutsanya kuti tizvininipise pamberi paMwari wedu uye kuti timukumbire kuti atifambise rwendo rwakanaka isu navana vedu nepfuma yedu yose."
+        },
+        {
+          "number": 22,
+          "text": "Nokuti ndakanyara kukumbira mambo kuti atipe varwi navatasvi vamabhiza kuti vatirwire kubva kuvavengi vedu parwendo nokuti takanga taudza mambo kuti, “Ruoko rwenyasha rwaMwari wedu rwuri pamusoro pomunhu wose anotarira kwaari.”"
+        },
+        {
+          "number": 23,
+          "text": "Naizvozvo takatsanya uye tikanyengetera kuna Mwari wedu pamusoro paizvozvi, uye akapindura munyengetero wedu."
+        },
+        {
+          "number": 24,
+          "text": "Ipapo ndakatsaura vaprista vaitungamira gumi navaviri, pamwe chete naSherebhia, naHashabhia uye nehama dzavo gumi,"
+        },
+        {
+          "number": 25,
+          "text": "uye ndakavaerera zvipiriso zvesirivha negoridhe nemidziyo yakanga yapiwa kuimba yaMwari wedu namambo navapi vake vamazano namakurukota ake uye navaIsraeri vose."
+        },
+        {
+          "number": 26,
+          "text": "Ndakavaerera matarenda mazana matanhatu namakumi mashanu + 8:26 esirivha, nemidziyo yesirivha yairema matarenda zana + 8:26 , namatarenda zana egoridhe,"
+        },
+        {
+          "number": 27,
+          "text": "mbiya dzegoridhe makumi maviri dzaikosha madhariki chiuru chimwe chete + 8:27 , uye nemidziyo miviri yakaisvonaka yendarira yaibwinya, inokosha segoridhe."
+        },
+        {
+          "number": 28,
+          "text": "Ndakati kwavari, “Imi pamwe chete nemidziyo iyi makatsaurirwa Jehovha. Sirivha negoridhe ndizvo zvipo zvokupa nokuzvisarudzira kuna Jehovha, Mwari wamadzibaba enyu."
+        },
+        {
+          "number": 29,
+          "text": "Muzvirinde zvakanaka kusvikira mazviyera pamberi pavakuru vavaprista navaRevhi uye navakuru vemhuri dzavaIsraeri paJerusarema mumakamuri eimba yaJehovha.”"
+        },
+        {
+          "number": 30,
+          "text": "Ipapo vaprista navaRevhi vakagamuchira sirivha negoridhe nemidziyo mitsvene yakanga yaerwa kuti iendeswe kuimba yaMwari wedu muJerusarema."
+        },
+        {
+          "number": 31,
+          "text": "Pazuva regumi namaviri romwedzi wokutanga takabva parwizi rweAhavha tichienda kuJerusarema. Ruoko rwaMwari rwakanga rwuri pamusoro pedu, uye akatidzivirira kubva kuvavengi navakanga vakativandira panzira."
+        },
+        {
+          "number": 32,
+          "text": "Saka takasvika muJerusarema tikazororamo kwamazuva matatu."
+        },
+        {
+          "number": 33,
+          "text": "Pazuva rechina, muimba yaMwari takayera sirivha negoridhe nemidziyo mitsvene mumaoko aMeremoti mwanakomana waUria, muprista. Ereazari mwanakomana waFinehasi akanga aripowo naye, uye navaRevhi vanoti Jozabhadhi mwanakomana waJeshua naNoadhia mwanakomana waBhinui."
+        },
+        {
+          "number": 34,
+          "text": "Zvinhu zvose zvakaverengwa uwandu hwazvo uye zvikayerwa, uye uremu hwazvo zvose hwakanyorwa panguva iyoyo."
+        },
+        {
+          "number": 35,
+          "text": "Ipapo vatapwa vakanga vadzoka kubva kuutapwa vakabayira zvipiriso zvinopiswa kuna Mwari waIsraeri: hando gumi nembiri dzavaIsraeri vose, makondobwe makumi mapfumbamwe namatanhatu, namakwayana makono makumi manomwe namanomwe, uye nhongo dzembudzi gumi nembiri, sechipiriso chechivi. Zvose izvi zvaiva chipiriso chinopiswa kuna Jehovha."
+        },
+        {
+          "number": 36,
+          "text": "Vakapawo zvirevo zvamambo kumachinda amambo uye navabati mhiri kwaYufuratesi, avo vakazopawo rubatsiro kuvanhu nokuimba yaMwari."
+        }
+      ]
+    },
+    {
+      "id": "EZR.9",
+      "number": 9,
+      "headings": [
+        "Munyengetero waEzira pamusoro poKuwana Vakadzi Vokumwe"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mushure mokunge zvinhu izvi zvose zvaitwa, vatungamiri vakauya kwandiri vakati, “Vanhu veIsraeri, zvichisanganisira vaprista navaRevhi, havana kuzvitsaura kubva kumarudzi avakavakidzana nawo nezvinonyangadza zvavo, zvakafanana nezvevaKenani, vaHiti, vaPerizi, vaJebhusi, vaAmoni, vaMoabhu, vaIjipita uye navaAmori."
+        },
+        {
+          "number": 2,
+          "text": "Vakatora vanasikana vavo vakavapa kuti vave vakadzi vavo uye nevevanakomana vavo, uye vakasanganisa rudzi rutsvene navanhu vakavapoteredza. Uye vatungamiri namakurukota ndivo vakatanga pakusatendeka uku.”"
+        },
+        {
+          "number": 3,
+          "text": "Zvino ndakati ndichinzwa izvi, ndakabvarura nguo yangu nejasi rangu, ndikadzura bvudzi kubva mumusoro mangu nendebvu dzangu uye ndikagara pasi ndashungurudzika."
+        },
+        {
+          "number": 4,
+          "text": "Ipapo vose vakadedera nokuda kwamashoko aMwari waIsraeri vakauya vakaungana pandiri nokuda kwokusatendeka kwavatapwa. Uye ndakagarapo ndakashungurudzika kusvikira nguva yechibayiro chamadekwana."
+        },
+        {
+          "number": 5,
+          "text": "Zvino, panguva yechibayiro chamadekwana, ndakasimuka kubva pakuzvininipisa kwangu, nenguo nejasi rangu zvakabvaruka, uye ndikawira pasi namabvi angu ndikatambanudzira maoko angu kuna Jehovha Mwari wangu"
+        },
+        {
+          "number": 6,
+          "text": "ndikanyengetera, ndichiti: “Haiwa Mwari wangu, ndinonyara uye handisakafanira kuti ndisimudze maoko nechiso changu kwamuri, Mwari wangu, nokuti zvivi zvedu zvakakura kupfuura misoro yedu uye mhosva yedu yasvika kumatenga."
+        },
+        {
+          "number": 7,
+          "text": "Kubva pamazuva amadzitateguru edu kusvikira zvino, mhosva yedu yakura kwazvo. Nokuda kwezvivi zvedu, isu namadzimambo edu uye navaprista vedu takaiswa kumunondo nokuutapwa, nokuparadzwa nokuninipiswa paruoko rwamadzimambo avatorwa sezvazviri nhasi."
+        },
+        {
+          "number": 8,
+          "text": "“Asi zvino, kwenguva duku duku, Jehovha Mwari wedu atiitira nyasha nokutisiyira vakasara uye nokutipa nzvimbo yakasimba muimba yake tsvene, naizvozvo Mwari wedu anopa chiedza kumeso edu uye norusununguko ruduku muuranda hwedu."
+        },
+        {
+          "number": 9,
+          "text": "Kunyange zvedu tiri varanda, Mwari wedu haana kutisiya tiri muuranda hwedu. Akatinzwira tsitsi pamberi pamadzimambo ePezhia: Akatipa, upenyu hutsva kuti tivakezve imba yaMwari wedu nokugadzira matongo ayo, uye atipa rusvingo rwokutidzivirira muJudha nomuJerusarema."
+        },
+        {
+          "number": 10,
+          "text": "“Asi zvino, nhai Mwari wedu, tichatiiko mushure meizvi? Nokuti takarasa mirayiro"
+        },
+        {
+          "number": 11,
+          "text": "yamakapa kubudikidza navaranda venyu vaprofita pamakati, ‘Nyika yamuri kupinda kuti ive yenyu inyika yakasvibiswa nokuora kwavanhu vayo. Nezvinonyangadza zvavo vakaizadza noutsvina hwavo kubva kuno rumwe rutivi kusvika kuno rumwe rutivi."
+        },
+        {
+          "number": 12,
+          "text": "Naizvozvo, musapa vanasikana venyu kuti vawanikwe navanakomana vavo kana kutora vanasikana vavo kuti vawanikwe navanakomana venyu. Musaita chibvumirano kana ushamwari navo panguva ipi zvayo, kuitira kuti musimbe uye mudye zvinhu zvakanaka zvenyika uye mugoisiyira kuvana venyu senhaka isingaperi.’"
+        },
+        {
+          "number": 13,
+          "text": "“Zvakaitika kwatiri zvakaitika nokuda kwamabasa edu akaipa nemhosva yedu huru, asi kunyange zvakadaro, imi Mwari wedu makatiranga zvishoma kupfuura zvaikodzera zvivi zvedu uye makatipa vakasara vakadai."
+        },
+        {
+          "number": 14,
+          "text": "Tingaputsazve here mirayiro yenyu nokuwanana namarudzi anoita zvinhu zvinonyangadza zvakadai? Hamungatitsamwiri zvakafanira kutiparadza, muchitisiya pasina mupenyu kana angasara here?"
+        },
+        {
+          "number": 15,
+          "text": "Imi Jehovha, Mwari waIsraeri, makarurama! Tasara nhasi isu sevakasara. Zvino tiri pano pamberi penyu nemhosva yedu, kunyange pasina kana mumwe chete wedu angamira pamberi penyu nokuda kwechivi ichi.”"
+        }
+      ]
+    },
+    {
+      "id": "EZR.10",
+      "number": 10,
+      "headings": [
+        "Vanhu Vanoreurura Chivi Chavo",
+        "Mhosva yoKuwana Vakadzi Vatorwa"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ezira paakanga achinyengetera achireurura, achichema uye achizviwisira pasi pamberi peimba yaMwari, ungano huru huru yavarume, vakadzi navana vavaIsraeri yakaungana paari. Naivowo vakachema zvikuru kwazvo."
+        },
+        {
+          "number": 2,
+          "text": "Ipapo Shekania mwanakomana waJehieri, mumwe wezvizvarwa zvaEramu, akati kuna Ezira, “Takatadzira Mwari wedu nokuwana vakadzi vatorwa kubva kundudzi dzakatipoteredza. Asi kunyange zvakadaro, Israeri ichine tariro."
+        },
+        {
+          "number": 3,
+          "text": "Zvino ngatiitei sungano pamberi paMwari wedu kuti tidzinge vakadzi ava vose navana vavo, maererano nezvakarayirwa naishe wangu naavo vanotya mirayiro yaMwari wedu. Ngazviitwe maererano nomurayiro."
+        },
+        {
+          "number": 4,
+          "text": "Simuka; nyaya iyi yava mumaoko ako. Tichamira newe, saka, tsunga mwoyo uzviite.”"
+        },
+        {
+          "number": 5,
+          "text": "Saka Ezira akasimuka akaisa pamhiko vaprista vaitungamira navaRevhi uye navaIsraeri vose kuti vaite zvakanga zvarehwa. Uye vakaita mhiko."
+        },
+        {
+          "number": 6,
+          "text": "Ipapo Ezira akabva pamberi peimba yaMwari akaenda kukamuri raJehohanani mwanakomana waEriashibhi. Paakanga ari ikoko haana kudya zvokudya kana kunwa mvura nokuti akaramba achichema nokuda kwokusatendeka kwavatapwa."
+        },
+        {
+          "number": 7,
+          "text": "Chiziviso chakadanidzirwa muJudha mose nomuJerusarema kuti vatapwa vose vaungane muJerusarema."
+        },
+        {
+          "number": 8,
+          "text": "Ani naani aizokundikana kusvika mumazuva matatu aizotorerwa pfuma yake yose, maererano nokurayira kwamachinda navakuru, uye naiyewo aibva adzingwa kubva paungano yavatapwa."
+        },
+        {
+          "number": 9,
+          "text": "Mukati mamazuva matatu, varume vose veJudha neBhenjamini vakanga vaungana muJerusarema. Uye pazuva ramakumi maviri romwedzi wechinomwe, vanhu vose vakagara pachivara pamberi peimba yaMwari, vakasuwa zvikuru nokuda kwechiitiko ichi uye nokuda kwemvura yakanga ichinaya."
+        },
+        {
+          "number": 10,
+          "text": "Ipapo Ezira muprista akasimuka akati kwavari, “Makatadza; makawana vakadzi vatorwa, mukawedzera mhosva yaIsraeri."
+        },
+        {
+          "number": 11,
+          "text": "Zvino reururai kuna Jehovha, iye Mwari wamadzibaba enyu, uye mugoita kuda kwake. Zvitsaurei kubva kumarudzi avanhu akakupoteredzai uye kubva kuvakadzi venyu vatorwa.”"
+        },
+        {
+          "number": 12,
+          "text": "Ungano yose yakapindura nenzwi guru ikati, “Zvamataura ndizvo! Tinofanira kuita sezvamataura."
+        },
+        {
+          "number": 13,
+          "text": "Asi pane vanhu vakawanda pano uye inguva yokunaya kwemvura; saka hatingamire panze. Pamusoro pezvo basa iri harigoni kuitwa nezuva rimwe chete kana mazuva maviri, nokuti takatadza zvikuru nokuda kwechinhu ichi."
+        },
+        {
+          "number": 14,
+          "text": "Machinda edu ngavamiririre ungano yose. Ipapo mumwe nomumwe mumaguta edu akawana mukadzi mutorwa auye panguva dzakatarwa, pamwe chete navakuru navatongi veguta rimwe nerimwe, kusvikira kutsamwa kwaMwari kukuru kwabviswa kwatiri.”"
+        },
+        {
+          "number": 15,
+          "text": "Jonatani mwanakomana waAsaeri naJazeya mwanakomana waTikivha, vachitsigirwa naMeshurami naShabhetai muRevhi, ndivo chete vakapikisa izvi."
+        },
+        {
+          "number": 16,
+          "text": "Nokudaro vakanga vambotapwa vakaita zvakanga zvataurwa. Ezira muprista akasarudza varume vakanga vari vakuru vemhuri, mumwe chete kubva kumhuri yamadzibaba avo, uye vose vachizivikanwa namazita avo. Pazuva rokutanga romwedzi wegumi vakagara pasi vakatanga kuferefeta nyaya idzi,"
+        },
+        {
+          "number": 17,
+          "text": "uye pazuva rokutanga romwedzi wokutanga vakanga vapedza kutonga varume vose vakanga vawana vakadzi vatorwa."
+        },
+        {
+          "number": 18,
+          "text": "Pakati pezvizvarwa zvavaprista, ava ndivo vakanga vawana vakadzi vatorwa: Kubva kuzvizvarwa zvaJeshua mwanakomana waJozadhaki nehama dzake: Maaseya, Eriezeri, Jaribhu naGedharia."
+        },
+        {
+          "number": 19,
+          "text": "(Vose vakapika namaoko avo kuti vachadzinga vakadzi vavo, uye pamhosva dzavo mumwe nomumwe wavo akapa gondobwe kubva pamakwai ake sechipiriso chechivi.)"
+        },
+        {
+          "number": 20,
+          "text": "Kubva kuzvizvarwa zvaImeri: Hanani naZebhadhia."
+        },
+        {
+          "number": 21,
+          "text": "Kubva kuzvizvarwa zvaHarimu: Maaseya, Eria, Shemaya, Jehieri naUzia."
+        },
+        {
+          "number": 22,
+          "text": "Kubva kuzvizvarwa zvaPashuri: Erioenai, Maaseya, Ishumaeri, Netaneri, Jozabhadhi naErasa."
+        },
+        {
+          "number": 23,
+          "text": "Pakati pavaRevhi: Jozabhadhi, Shimei, Keraya (ndiye ainzi Kerita), Petahia, Judha naEriezeri."
+        },
+        {
+          "number": 24,
+          "text": "Kubva kuvaimbi: Eriashibhi. Kubva kuvarindi vemikova: Sharumi, Teremi naUri."
+        },
+        {
+          "number": 25,
+          "text": "Uye pakati pavamwe vaIsraeri: Kubva kuzvizvarwa zvaParoshi: Ramia, Izia, Marikiya, Mijamini, Ereazari, Marikiya naBhenaya."
+        },
+        {
+          "number": 26,
+          "text": "Kubva kuzvizvarwa zvaEramu: Matania, Zekaria, Jehieri, Abhidhi, Jeremoti naEria."
+        },
+        {
+          "number": 27,
+          "text": "Kubva kuzvizvarwa zvaZatu: Erioenai, Eriashibhi, Matania, Jeremoti, Zabhadhi naAziza."
+        },
+        {
+          "number": 28,
+          "text": "Kubva kuzvizvarwa zvaBhebhai: Jehohanani, Hanania, Zabhai naAtirai."
+        },
+        {
+          "number": 29,
+          "text": "Kubva kuzvizvarwa zvaBhani: Meshurami, Maruki, naAdhaya, naJashubhi, naSheari naJeremoti."
+        },
+        {
+          "number": 30,
+          "text": "Kubva kuzvizvarwa zvaPahati Moabhu: Adhima, Kerari, Bhenaya, Maaseya, Matania, Bhezareri, Bhinui naManase."
+        },
+        {
+          "number": 31,
+          "text": "Kubva kuzvizvarwa zvaHarimu: Eriezeri, Ishiya, Marikiya, Shemaya, Shimeoni,"
+        },
+        {
+          "number": 32,
+          "text": "Bhenjamini, Maruki naShemaria,"
+        },
+        {
+          "number": 33,
+          "text": "Kubva kuzvizvarwa zvaHashumi: Matenai, Matata, Zabhadhi, Erifereti, Jeremai, Manase naShimei."
+        },
+        {
+          "number": 34,
+          "text": "Kubva kuzvizvarwa zvaBhani: Maadhai, Amurami, Ueri,"
+        },
+        {
+          "number": 35,
+          "text": "Bhenaya, Bhedheya, Keruhi,"
+        },
+        {
+          "number": 36,
+          "text": "Vhania, Meremoti, Eriashibhi,"
+        },
+        {
+          "number": 37,
+          "text": "Matania, Matenai naJaasu."
+        },
+        {
+          "number": 38,
+          "text": "Kubva kuzvizvarwa zvaBhinui: Shimei,"
+        },
+        {
+          "number": 39,
+          "text": "Sheremia, Natani, Adhaya,"
+        },
+        {
+          "number": 40,
+          "text": "Makinadhebhai, Shashai, Sharai,"
+        },
+        {
+          "number": 41,
+          "text": "Azareri, Sheremia, Shemaria,"
+        },
+        {
+          "number": 42,
+          "text": "Sharumi, Amaria naJosefa."
+        },
+        {
+          "number": 43,
+          "text": "Kubva kuzvizvarwa zvaNebho: Jeyeri, Matitia, Zabhadhi, Zebhina, Jadhai, Joere naBhenaya."
+        },
+        {
+          "number": 44,
+          "text": "Vose ava vakanga vawana vakadzi vatorwa, uye vamwe vavo vakanga vava navana navakadzi ava."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "id": "MIC",
+  "name": "Mika",
+  "abbreviation": "Mika",
+  "chapters": [
+    {
+      "id": "MIC.1",
+      "number": 1,
+      "headings": [
+        "Kutongwa kweSamaria neJerusarema",
+        "Kuchema noKuungudza"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Shoko raJehovha rakauya kuna Mika weMoresheti panguva yokutonga kwaJotamu, Ahazi naHezekia, madzimambo aJudha, chiratidzo chaakaona pamusoro peSamaria neJerusarema."
+        },
+        {
+          "number": 2,
+          "text": "Inzwai, imi marudzi avanhu, imi mose, teerera, iwe nyika navose vari mauri, kuti Ishe Jehovha achakupai mhosva, Jehovha ari mutemberi yake tsvene."
+        },
+        {
+          "number": 3,
+          "text": "Tarirai! Jehovha ari kubuda panzvimbo yaanogara: anoburuka pasi agotsika panzvimbo dzakakwirira dzenyika."
+        },
+        {
+          "number": 4,
+          "text": "Makomo achanyongodeka pasi pake uye mipata ichapamuka, senamo pamoto, semvura inoyerera pamawere."
+        },
+        {
+          "number": 5,
+          "text": "Zvose izvi zvakaitika nokuda kwokudarika kwaJakobho, nokuda kwezvivi zveimba yaIsraeri. Kudarika kwaJakobho ndokweiko? Hakuzi Samaria here? Nzvimbo yakakwirira yaJudha ndeipiko? Haizi Jerusarema here?"
+        },
+        {
+          "number": 6,
+          "text": "“Naizvozvo ndichaita Samaria murwi wamabwe, nzvimbo yokusima minda yemizambiringa."
+        },
+        {
+          "number": 7,
+          "text": "Zvose zvifananidzo zvaro zvichaputswa kuita zvimedu; zvose zvipo zvaro zvomutemberi zvichapiswa nomoto; ndichaparadza zvifananidzo zvaro zvose. Sezvo akaunganidza zvipo zvake kubva pamibayiro yezvifeve, semibayiro yezvifeve zvichazoshandiswa zvakare.”"
+        },
+        {
+          "number": 8,
+          "text": "Nokuda kwaizvozvo ndichachema uye ndigoungudza; ndichafamba ndisina shangu mutsoka uye ndisina kupfeka. Ndichaungudza segava uye ndichachema sezizi."
+        },
+        {
+          "number": 9,
+          "text": "Nokuti ronda rake harirapiki; rasvika kuna Judha. Rasvika pasuo ravanhu vangu chaipo, kunyange kuJerusarema chaiko."
+        },
+        {
+          "number": 10,
+          "text": "Musazvireva paGati; musambochema. MuBheti Ofira umburukai muguruva."
+        },
+        {
+          "number": 11,
+          "text": "Pfuurai muende musina kupfeka mukunyara, imi munogara muShafiri. Avo vanogara muZaanani havangabudi kunze. Bheti Ezeri riri mukuchema; kudzivirirwa kwaro kwabviswa kubva kwariri."
+        },
+        {
+          "number": 12,
+          "text": "Avo vanogara muMaroti mukurwadziwa kukuru vakamirira kudzikinurwa, nokuti njodzi yasvika ichibva kuna Jehovha, kunyange pasuo reJerusarema."
+        },
+        {
+          "number": 13,
+          "text": "Imi vanogara muRakishi, sungai mabhiza enyu pangoro. Ndimi makava mavambo echivi kuMwanasikana weZioni, Nokuti kudarika kwaIsraeri kwakawanikwa mamuri."
+        },
+        {
+          "number": 14,
+          "text": "Naizvozvo uchapa zvipo zvokuonekedzana kuna Moresheti Gati. Guta reAkizibhi richaratidza unyengeri kumadzimambo aIsraeri."
+        },
+        {
+          "number": 15,
+          "text": "Ndichauyisa mukundi kwauri iwe unogara muMaresha. Iye anova kubwinya kwaIsraeri achauya kuAdhuramu."
+        },
+        {
+          "number": 16,
+          "text": "Veurai misoro yenyu mukuchema nokuda kwavana vamunofarira; zviitei musvuu sowegora, nokuti vachabva kwamuri vachienda kuutapwa."
+        }
+      ]
+    },
+    {
+      "id": "MIC.2",
+      "number": 2,
+      "headings": [
+        "Urongwa hwoMunhu nohwaMwari",
+        "Vaprofita venhema",
+        "Kudzikinurwa kunovimbiswa"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vane nhamo avo vanoronga zvakaipa, avo vanoronga zvakaipa pamibhedha yavo! Pakuedza kwamangwanani vanozviita nokuti zviri musimba ravo kuzviita."
+        },
+        {
+          "number": 2,
+          "text": "Vanochiva minda vagoipamba, nedzimba, uye vagodzitora. Vanobira munhu imba yake, nomuvakidzani nhaka yake."
+        },
+        {
+          "number": 3,
+          "text": "Naizvozvo Jehovha anoti, “Ndiri kuronga njodzi yokurwisa nayo vanhu ava, zvamusingagoni kuzvidzivirira kwazviri. Hamuchazofambizve muchizvikudza, nokuti ichava nguva yedambudziko."
+        },
+        {
+          "number": 4,
+          "text": "Pazuva iro vanhu vachakutukai; vachakudenhai norwiyo urwu rwokuchema: ‘Taitwa dongo chose; pfuma yavanhu vangu yagovaniswa. Anonditorera! Anopa minda yedu kuna vanotimukira?’ ”"
+        },
+        {
+          "number": 5,
+          "text": "Naizvozvo muchashayiwa munhu kana mumwe, muungano yaJehovha, kuti agove nyika nemijenya."
+        },
+        {
+          "number": 6,
+          "text": "Vaprofita vavo vanoti, “Musaprofita, musaprofita pamusoro pezvinhu izvi; kunyadziswa hakungatibati.”"
+        },
+        {
+          "number": 7,
+          "text": "Zvingataurwe here, nhai imi imba yaJakobho, kuti: “Ko, mweya waJehovha watsamwa here? Iye anoita zvinhu zvakadaro here?” “Ko, mashoko angu haaiti zvakanaka here kuno uyo ane nzira dzake dzakarurama?"
+        },
+        {
+          "number": 8,
+          "text": "Asi mazuva ano vanhu vangu vakandimukira somuvengi. Munobvisa majasi anokosha pane avo vanopfuura musina kana hanya, savarume vodzoka kubva kuhondo."
+        },
+        {
+          "number": 9,
+          "text": "Munodzinga madzimai avanhu vangu kubva mudzimba dzavo dzakanaka. Munotora ropafadzo yangu kubva kuvana vavo nokusingaperi."
+        },
+        {
+          "number": 10,
+          "text": "Simukai, ibvai pano! Nokuti ino haisi nzvimbo yenyu yokuzororera, nokuti yakasvibiswa, yakaparadzwa zvisingagadziriki."
+        },
+        {
+          "number": 11,
+          "text": "Kana munyepi nomunyengeri akauya oti, ‘Ndichakuprofitirai waini zhinji nedoro,’ iyeyu achava muprofita wavanhu ava!"
+        },
+        {
+          "number": 12,
+          "text": "“Zvirokwazvo ndichakuunganidzai imi mose, iwe Jakobho; zvirokwazvo ndichaunganidza pamwe chete vakasara vaIsraeri. Ndichavaunganidza pamwe chete samakwai muchirugu, seboka pamafuro aro; nzvimbo yacho ichazara navanhu."
+        },
+        {
+          "number": 13,
+          "text": "Uyo achaparura nzira achaenda pamberi pavo; vachapwanya napasuo vagobuda panze. Mambo wavo achapfuura ari pamberi pavo, Iye Jehovha achivatungamirira.”"
+        }
+      ]
+    },
+    {
+      "id": "MIC.3",
+      "number": 3,
+      "headings": [
+        "Vatungamiri naVaprofita vanotsiurwa"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ipapo ndakati, “Teererai imi vatungamiri vaJakobho, imi vatongi veimba yaIsraeri. Hamufaniri kuziva kururamisira here,"
+        },
+        {
+          "number": 2,
+          "text": "imi munovenga zvakanaka muchida zvakaipa; munofunura ganda pamapfupa;"
+        },
+        {
+          "number": 3,
+          "text": "munodya nyama yavanhu vangu, munobvisa ganda ravo, muchivhuna mapfupa avo kuita zvidimbu; munovatema-tema senyama yokuisa mupani, senyama yomuhari?”"
+        },
+        {
+          "number": 4,
+          "text": "Ipapo vachadana kuna Jehovha, asi haangavadaviri. Panguva iyoyo achavanza chiso chake kwavari nokuda kwezvakaipa zvavakaita."
+        },
+        {
+          "number": 5,
+          "text": "Zvanzi naJehovha: “Kana vari vaprofita vanotsausa vanhu vangu, kana mumwe akavapa zvokudya, vanodanidzira kuti ‘Rugare’; kana akasavapa, vanogadzirira kumurwisa."
+        },
+        {
+          "number": 6,
+          "text": "Naizvozvo usiku huchauya pamusoro pako, pasina zviratidzo, nerima, pasina kuvuka. Zuva richavirira vaprofita, uye masikati achavasvibira."
+        },
+        {
+          "number": 7,
+          "text": "Vaoni vachanyadziswa uye vavuki vachanyadziswa. Vachafukidza zviso zvavo nokuti hakuna mhinduro inobva kuna Jehovha.”"
+        },
+        {
+          "number": 8,
+          "text": "Asi kana ndirini, ndizere nesimba, noMweya waJehovha, uye nokururamisira nesimba, kuti ndizivise Jakobho kudarika kwake naIsraeri chivi chake."
+        },
+        {
+          "number": 9,
+          "text": "Inzwai izvi, imi vatungamiri veimba yaJakobho, imi vatongi veimba yaIsraeri, munozvidza kururamisira uye munominamisa zvose zvakanaka;"
+        },
+        {
+          "number": 10,
+          "text": "munovaka Zioni nokudeura ropa, uye Jerusarema nouipi."
+        },
+        {
+          "number": 11,
+          "text": "Vatungamiri varo vanotongera fufuro, vaprista varo vanodzidzisa kuti vapiwe mubayiro, uye vaprofita varo vanoprofita kuti vapiwe mubayiro. Asi vanozendama pana Jehovha voti, “Ko, Jehovha haasi pakati pedu here? Hapana njodzi ingatiwira.”"
+        },
+        {
+          "number": 12,
+          "text": "Naizvozvo nokuda kwenyu, Zioni richarimwa somunda, Jerusarema richava murwi wamabwe, pachikomo pamire temberi, pachava dondo."
+        }
+      ]
+    },
+    {
+      "id": "MIC.4",
+      "number": 4,
+      "headings": [
+        "Gomo raJehovha",
+        "Urongwa hwaJehovha"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mumazuva okupedzisira gomo retemberi yaJehovha richasimbiswa segomo guru pakati pamakomo; richasimudzwa pamusoro pezvikomo, uye marudzi achaenda kwariri."
+        },
+        {
+          "number": 2,
+          "text": "Ndudzi zhinji dzichauya dzichiti, “Uyai, handei kugomo raJehovha, kuimba yaMwari waJakobho. Achatidzidzisa nzira dzake, kuti tigofamba munzira dzake.” Murayiro uchabuda kubva paZioni, shoko raJehovha kubva paJerusarema."
+        },
+        {
+          "number": 3,
+          "text": "Achatonga pakati pamarudzi mazhinji uye achapedza gakava pakati pendudzi dzine simba dziri kure kure. Vachapfura minondo yavo vagoiita mapadza, namapfumo vachiaita mapanga okuchekerera miti. Rudzi harungasimudziri rumwe rudzi munondo, havangazodzidzirizve kurwa."
+        },
+        {
+          "number": 4,
+          "text": "Mumwe nomumwe achagara pasi pomuzambiringa wake, napasi pomuonde wake, uye hapana anozovaita kuti vatye, nokuti Jehovha Wamasimba Ose ataura."
+        },
+        {
+          "number": 5,
+          "text": "Ndudzi dzose dzingafamba muzita ravamwari vadzo; isu tichafamba muzita raJehovha Mwari wedu nokusingaperi-peri."
+        },
+        {
+          "number": 6,
+          "text": "“Pazuva iro,” ndizvo zvinotaura Jehovha, “Ndichaunganidza vakaremara; ndichaunganidza vakadzingwa neavo vandakatambudza."
+        },
+        {
+          "number": 7,
+          "text": "Ndicharemadza vakasara, vaya vakadzingwa, ivo rudzi rwakasimba. Jehovha achavatonga paGomo reZioni kubva pazuva iroro nokusingaperi."
+        },
+        {
+          "number": 8,
+          "text": "Kana uri iwe, chirindo cheboka iwe nhare yoMwanasikana weZioni, ushe hwakare huchadzoswa kwauri; umambo huchauya kuMwanasikana weJerusarema.”"
+        },
+        {
+          "number": 9,
+          "text": "Sei muchiridza mhere iye zvino, hamuna mambo here? Gota renyu raparara here zvokuti kurwadza kwakubatai sekwomukadzi anosununguka?"
+        },
+        {
+          "number": 10,
+          "text": "Tambura ugomere, iwe Mwanasikana weZioni, somukadzi ari pakusununguka, nokuti zvino unofanira kubuda muguta unogara kusango. Uchaenda kuBhabhironi; ikoko uchandonunurwa. Ikoko Jehovha achakudzikinura kubva paruoko rwavavengi vako."
+        },
+        {
+          "number": 11,
+          "text": "Asi zvino ndudzi zhinji dzakaunganira kuzokurwisa. Vanoti, “Ngaasvibiswe, maziso edu ngaatarise Zioni!”"
+        },
+        {
+          "number": 12,
+          "text": "Asi havazivi pfungwa dzaJehovha; havanzwisisi kuronga kwake, iye anovaunganidza sezvisote paburiro."
+        },
+        {
+          "number": 13,
+          "text": "“Simuka upure, iwe Mwanasikana weZioni, nokuti ndichakupa nyanga dzesimbi; ndichakupa mahwanda endarira uye uchapwanya kuita zvidimbu ndudzi zhinji.” Uchatsaurira kuna Jehovha zvavakazviwanira nenzira dzavo, upfumi hwavo kuna Ishe wenyika yose."
+        }
+      ]
+    },
+    {
+      "id": "MIC.5",
+      "number": 5,
+      "headings": [
+        "Mutongi akavimbiswa kubva kuBheterehema",
+        "Kudzikinurwa noKuparadzwa"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Unganidza mauto ako, iwe guta ramauto, nokuti takombwa nomuvengi. Vacharova mutongi waIsraeri netsvimbo padama."
+        },
+        {
+          "number": 2,
+          "text": "“Asi iwe, Bheterehema Efurata, kunyange uri muduku pakati pamarudzi aJudha, kwauri kuchandibudira mumwe achava mutongi pamusoro peIsraeri, mavambo ake ndeakare kare, kubva pamazuva akare kare.”"
+        },
+        {
+          "number": 3,
+          "text": "Naizvozvo Israeri achasiyiwa kusvikira panguva iyo, iye anorwadziwa azvara uye hama dzake dzose dzadzoka kuzobatana navaIsraeri."
+        },
+        {
+          "number": 4,
+          "text": "Achamira agofudza boka rake musimba raJehovha, muukuru hwezita raJehovha Mwari wake. Uye vachagara norugare, nokuti ipapo kukura kwake kuchasvika kumagumo enyika."
+        },
+        {
+          "number": 5,
+          "text": "Uye iye achava rugare rwavo."
+        },
+        {
+          "number": 6,
+          "text": "Vachatonga nyika yeAsiria nomunondo, nyika yaNimurodhi nomunondo wakavhomorwa. Achatirwira kubva kumuAsiria paachapinda munyika yedu nokupinda pamiganhu yedu."
+        },
+        {
+          "number": 7,
+          "text": "Vakasara vaJakobho vachava pakati pamarudzi akawanda, sedova rinobva kuna Jehovha, sokunaya kwemvura pauswa, zvisingamiriri munhu kana kugaririra vanhu."
+        },
+        {
+          "number": 8,
+          "text": "Vakasara vaJakobho vachava pakati pendudzi, pakati poruzhinji rwamarudzi, seshumba pakati pezvikara zvesango, seshumba duku pakati pamapoka amakwai, inotsika uye inobvambura ichienda, pasina anogona kununura."
+        },
+        {
+          "number": 9,
+          "text": "Ruoko rwenyu ruchasimudzwa mukukunda uye vadzivisi venyu vose vachaparadzwa."
+        },
+        {
+          "number": 10,
+          "text": "“Pazuva iro,” ndizvo zvinotaura Jehovha, “ndichaparadza mabhiza enyu pakati penyu uye ndichapwanya ngoro dzenyu."
+        },
+        {
+          "number": 11,
+          "text": "Ndichaparadza maguta enyika yenyu uye ndichaputsa nhare dzenyu dzose."
+        },
+        {
+          "number": 12,
+          "text": "Ndichaparadza uroyi hwako uye hauchazovizve navavuki."
+        },
+        {
+          "number": 13,
+          "text": "Ndichaparadza zvifananidzo zvenyu zvakavezwa neshongwe dzenyu pakati penyu; hamuchazokotamiri kubasa ramaoko enyu."
+        },
+        {
+          "number": 14,
+          "text": "Ndichadzura kubva pakati penyu matanda aAshera uye ndichaparadza maguta enyu."
+        },
+        {
+          "number": 15,
+          "text": "Ndichatsiva nokutsamwa nehasha kundudzi dzisina kunditeerera.”"
+        }
+      ]
+    },
+    {
+      "id": "MIC.6",
+      "number": 6,
+      "headings": [
+        "Jehovha anopa Israeri mhosva",
+        "Mhosva yeIsraeri nokurangwa kwayo"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Teererai zvinotaurwa naJehovha: “Simukai, taurai nyaya yenyu pamberi pamakomo; zvikomo ngazvinzwe zvamunoda kutaura."
+        },
+        {
+          "number": 2,
+          "text": "Chinzwai imi makomo, kupomera kwaJehovha; teererai, imi hwaro hwenyika hunogara nokusingaperi. Nokuti Jehovha ane mhosva yaari kupa vanhu vake; anopa Israeri mhosva."
+        },
+        {
+          "number": 3,
+          "text": "“Vanhu vangu, chiiko chandakakuitirai? Ndakakuremedzai neiko? Ndipindurei."
+        },
+        {
+          "number": 4,
+          "text": "Ndakakubudisai kubva muIjipiti uye akakudzikinurai kubva munyika youranda. Ndakatuma Mozisi kuti azokutungamirirai, naAroniwo naMiriamu."
+        },
+        {
+          "number": 5,
+          "text": "Vanhu vangu, rangarirai zvakaranganwa naBharaki mambo weMoabhu nezvakapindurwa naBharamu mwanakomana waBheori. Rangarirai rwendo rwenyu kubva kuShitimu kusvika kuGirigari, kuti mugoziva mabasa akarurama aJehovha.”"
+        },
+        {
+          "number": 6,
+          "text": "Ndichauya neiko pamberi paJehovha. Uye ndigokotama sei pamberi paMwari anokudzwa? Ndingauye pamberi pake nezvibayiro zvinopiswa nemhuru dzine gore rimwe here?"
+        },
+        {
+          "number": 7,
+          "text": "Ko, Jehovha angafadzwa nezviuru zvamakondobwe, uye nezviuru gumi zvenzizi dzamafuta here? Ndingapa dangwe rangu nokuda kwokudarika kwangu, icho chibereko chomuviri wangu pamusoro pokutadza kwomweya wangu here?"
+        },
+        {
+          "number": 8,
+          "text": "Akakuratidza, iwe munhu, kuti zvakanaka ndezvipi. Uye ndezvipi zvinodiwa naJehovha kubva kwauri? Kuita zvakarurama uye kufarira kunzwira ngoni, nokufamba naMwari wako wakazvininipisa."
+        },
+        {
+          "number": 9,
+          "text": "Teererai! Jehovha anodanidzira kuguta, uye kutya zita renyu ndihwo uchenjeri: “Chenjererai shamhu naIye akaituma."
+        },
+        {
+          "number": 10,
+          "text": "Ndichazokanganwa here, iwe imba yakaipa, upfumi hwako hwakawanikwa nenzira dzakaipa, nechiero cheefa chakatapudzwa, chakatukwa?"
+        },
+        {
+          "number": 11,
+          "text": "Ndingaregerera munhu ane chiero chinonyengera nesaga rezviero zvenhema here?"
+        },
+        {
+          "number": 12,
+          "text": "Vapfumi vake vanoita nechisimba; vanhu vake varevi venhema, uye miromo yavo inotaura nokunyengera."
+        },
+        {
+          "number": 13,
+          "text": "Naizvozvo, ndatotanga kukuparadzai, kukuitai dongo nokuda kwezvivi zvenyu."
+        },
+        {
+          "number": 14,
+          "text": "Muchadya asi hamungaguti: dumbu renyu richaramba risina chinhu. Muchaisa mudura asi mugoshaya zvamachengeta, nokuti zvamunounganidza ndichazviparadza nomunondo."
+        },
+        {
+          "number": 15,
+          "text": "Muchadyara asi hamungakohwi; muchasvina maorivhi asi hamungazori mafuta acho, muchasvina mazambiringa asi hamunganwi waini yacho."
+        },
+        {
+          "number": 16,
+          "text": "Makachengeta zvirevo zvaOmuri uye namabasa ose eimba yaAhabhu, uye makatevera tsika dzavo. Naizvozvo ndichakuisai mukuparadzwa, nevanhu venyu mukusekwa; muchatakura kushorwa kwendudzi.”"
+        }
+      ]
+    },
+    {
+      "id": "MIC.7",
+      "number": 7,
+      "headings": [
+        "Nhamo yeIsraeri",
+        "Israeri ichasimuka",
+        "Munyengetero noKurumbidza"
+      ],
+      "verses": [
+        {
+          "number": 1,
+          "text": "Inhamoi yandinayo! Ndafanana nouya anounganidza michero yezhizha inosara mumunda wemizambiringa pakukohwa; hapana sumbu ramazambiringa rokudya, kana maonde okutanga andinopanga."
+        },
+        {
+          "number": 2,
+          "text": "Vanhu vano umwari vabviswa panyika; hapana mumwe akarurama asara. Vanhu vose vanovandira kuti vateure ropa; mumwe nomumwe anovhima hama yake nomumbure."
+        },
+        {
+          "number": 3,
+          "text": "Maoko ose ari maviri ane unyanzvi pakuita zvakaipa; mubati anomanikidzira vanhu kuti vamupe zvipo, mutongi anotambira fufuro, vane simba vanomanikidzira zvido zvavo; vose vanozvironga pamwe chete."
+        },
+        {
+          "number": 4,
+          "text": "Akanaka kupfuura vose akangoita sorukato, vakarurama kupfuura vose vakaipa kupfuura ruzhowa rweminzwa. Zuva renharirire dzenyu rasvika, zuva rokushanyirwa kwenyu naMwari. Zvino ino ndiyo nguva yokukanganiswa kwavo."
+        },
+        {
+          "number": 5,
+          "text": "Rega kuvimba nomuvakidzani wako; usavimba neshamwari yako. Kunyange nomukadzi wawakagumbatira, uchenjerere mashoko ako."
+        },
+        {
+          "number": 6,
+          "text": "Nokuti mwanakomana anozvidza baba vake, mwanasikana anomukira mai vake, muroora anomukira vamwene vake; vavengi vomunhu ndivo vanhu vemhuri yake."
+        },
+        {
+          "number": 7,
+          "text": "Asi kana ndirini, ndinomirira netariro kuna Jehovha, ndinomirira Mwari Muponesi wangu; Mwari wangu achandinzwa."
+        },
+        {
+          "number": 8,
+          "text": "Usafara pamusoro pangu, iwe muvengi wangu! Kunyange ndakawira pasi, ndichasimuka. Kunyange ndigere murima, Jehovha achava chiedza changu."
+        },
+        {
+          "number": 9,
+          "text": "Nokuti ndakamutadzira, ndichatakura kutsamwa kwaJehovha, kusvikira andireverera mhosva yangu uye asimbisa kodzero yangu. Achandibudisira kuchiedza, ndichaona kururama kwake."
+        },
+        {
+          "number": 10,
+          "text": "Ipapo muvengi wangu achazviona uye achafukidzwa, iye akati kwandiri, “Aripiko Jehovha Mwari wako?” Meso angu achaona kuwa kwake; kunyange iye zvino achatsikwa pasi petsoka sematope mumigwagwa."
+        },
+        {
+          "number": 11,
+          "text": "Zuva rokuvaka masvingo enyu richasvika, zuva rokuwedzerwa kwemiganhu yenyu."
+        },
+        {
+          "number": 12,
+          "text": "Pazuva iro vanhu vachauya kwauri vachibva kuAsiria namaguta eIjipiti, kunyange kubva kuIjipiti kusvikira kuYufuratesi, uye kubva kugungwa kusvika kune rimwe gungwa, nokubva kugomo kusvika kune rimwe gomo."
+        },
+        {
+          "number": 13,
+          "text": "Nyika ichava dongo nokuda kwavagari vayo, nokuda kwamabasa avo."
+        },
+        {
+          "number": 14,
+          "text": "Fudza vanhu vako nomudonzvo wako, boka renhaka yako, rinogara roga musango, mumafuro akanaka. Rega afure muBhashani reGireadhi samazuva ekare."
+        },
+        {
+          "number": 15,
+          "text": "“Sapamazuva amakabuda kubva muIjipiti, ndichavaratidza zvishamiso zvangu.”"
+        },
+        {
+          "number": 16,
+          "text": "Ndudzi dzichazviona uye dzichanyadziswa, dzisisina simba radzo rose. Vachabata miromo yavo uye nzeve dzavo dzichadzivira."
+        },
+        {
+          "number": 17,
+          "text": "Vachananzva guruva senyoka, sezvipuka zvinokambaira pasi. Vachabuda vachidedera kubva munzvimbo dzavo dzokuvanda; vachadzoka vachitya kuna Jehovha Mwari wedu, uye vachakutyai."
+        },
+        {
+          "number": 18,
+          "text": "Ndiani Mwari akaita semi, anoregerera chivi uye anokanganwira kudarika kwavakasara venhaka yake? Hamugari makatsamwa nokusingaperi, asi munofarira kunzwira ngoni."
+        },
+        {
+          "number": 19,
+          "text": "Muchava nenyasha kwatiri zvakare; muchatsikira zvivi zvedu pasi petsoka uye muchakanda kuipa kwedu kwose pakadzikadzika mugungwa."
+        },
+        {
+          "number": 20,
+          "text": "Muchava makatendeka kuna Jakobho, mucharatidza nyasha kuna Abhurahama, sezvamakapika mhiko kumadzibaba edu mumazuva akare."
+        }
+      ]
+    }
+  ]
+}

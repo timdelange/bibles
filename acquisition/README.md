@@ -11,10 +11,12 @@ acquisition/
 ├── scrape_bolls_bible.py    # NIV / NKJV (bolls.life bulk JSON)
 ├── scrape_niv_bible.py      # NIV wrapper
 ├── scrape_nkjv_bible.py     # NKJV wrapper
+├── scrape_shona_bible.py    # Shona SNA (ebible.org USFM)
 ├── push_to_github.sh        # Push repo to GitHub (requires GH_TOKEN)
 ├── afr83_output/            # Afrikaans AFR83 scrape
 ├── niv_output/              # NIV scrape
-└── nkjv_output/             # NKJV scrape
+├── nkjv_output/             # NKJV scrape
+└── shona_output/            # Shona SNA scrape
 ```
 
 Each `*_output/` directory contains:
@@ -37,6 +39,10 @@ python3 acquisition/scrape_afr83_bible.py --book REV --resume
 python3 acquisition/scrape_niv_bible.py
 python3 acquisition/scrape_nkjv_bible.py
 python3 acquisition/scrape_bolls_bible.py NIV --book GEN
+
+# Shona (ebible.org USFM zip; seconds to process)
+python3 acquisition/scrape_shona_bible.py
+python3 acquisition/scrape_shona_bible.py --book GEN
 ```
 
 ## Copyright
@@ -44,6 +50,7 @@ python3 acquisition/scrape_bolls_bible.py NIV --book GEN
 - **AFR83:** © Bybelgenootskap van Suid-Afrika 1983, 1992
 - **NIV:** © Biblica, Inc.
 - **NKJV:** © Thomas Nelson, Inc.
+- **SNA (Shona):** © 2005, 2018 Biblica, Inc. (CC BY-SA 4.0)
 
 Use biblical text with permission. Do not redistribute commercially without rights clearance.
 
